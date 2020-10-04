@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2020/10/04/back-in-bcn.html",
+				
+				"content_html": "<p><a href=\"https://lj.gl/back-in-bcn.html\">Back in BCN</a> The glorious, but short return to BCN</p>\n",
+				"content_text": "[Back in BCN](https://lj.gl/back-in-bcn.html) The glorious, but short return to BCN\n",
+				"date_published": "2020-10-04T15:34:45+02:00",
+				"url": "https://mmn.lgbt/2020/10/04/back-in-bcn.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/10/03/very-much-living.html",
+				
+				"content_html": "<p>Very much living the <em>mañana</em> experience today, woke up rather early, just chilled a bit, then slowly doing everything I meant to do as needed, might actually do some mañana instead</p>\n",
+				"content_text": "Very much living the _mañana_ experience today, woke up rather early, just chilled a bit, then slowly doing everything I meant to do as needed, might actually do some mañana instead\n",
+				"date_published": "2020-10-03T13:58:00+02:00",
+				"url": "https://mmn.lgbt/2020/10/03/very-much-living.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/10/02/i-thought-hydroxychloroquine.html",
+				
+				"content_html": "<p>I thought Hydroxychloroquine was the miracle cure ¯_(ツ)_/¯</p>\n",
+				"content_text": "I thought Hydroxychloroquine was the miracle cure ¯\\_(ツ)_/¯\n",
+				"date_published": "2020-10-02T22:48:07+02:00",
+				"url": "https://mmn.lgbt/2020/10/02/i-thought-hydroxychloroquine.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/09/27/genuinely-considering-whether.html",
+				
+				"content_html": "<p>Genuinely considering whether or not I call a DKIM sector <em>yomommaisagoblin</em></p>\n",
+				"content_text": "Genuinely considering whether or not I call a DKIM sector _yomommaisagoblin_ \n",
+				"date_published": "2020-09-27T07:43:55+02:00",
+				"url": "https://mmn.lgbt/2020/09/27/genuinely-considering-whether.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/09/27/little-miss-kaja.html",
+				
+				"content_html": "<p>Little Miss Kaja is storming about on the bed for whatever reason, meanwhile I&rsquo;ve located some of the old images I used to do weekly back in the day for my <a href=\"https://nrg-online.ca/\">personal site</a> (circa 2001)</p>\n",
+				"content_text": "Little Miss Kaja is storming about on the bed for whatever reason, meanwhile I've located some of the old images I used to do weekly back in the day for my [personal site](https://nrg-online.ca/) (circa 2001)\n",
+				"date_published": "2020-09-27T06:29:07+02:00",
+				"url": "https://mmn.lgbt/2020/09/27/little-miss-kaja.html",
+				"tags": ["catladywoes"]
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/09/19/watching-trashy-scifi.html",
 				
 				"content_html": "<p>Watching trashy scifi from the 90s and very early 2000s is my new life</p>\n",
