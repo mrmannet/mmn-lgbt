@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2020/11/15/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to work on that tonight so it&rsquo;s probably going to have some weird knock on effects on email for a bit to the board</p>\n",
+				"content_text": "I'm going to work on that tonight so it's probably going to have some weird knock on effects on email for a bit to the board\n",
+				"date_published": "2020-11-15T22:42:11+01:00",
+				"url": "https://mmn.lgbt/2020/11/15/im-going-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/15/ive-finally-found.html",
+				
+				"content_html": "<p>I&rsquo;ve finally found out how to get mailcow to properly relay mail to bbs.ec without causing all kinds of havok. Next step is figure out how IP filtering works on Freebox and we&rsquo;re there!</p>\n",
+				"content_text": "I've finally found out how to get mailcow to properly relay mail to bbs.ec without causing all kinds of havok. Next step is figure out how IP filtering works on Freebox and we're there! \n",
+				"date_published": "2020-11-15T22:41:20+01:00",
+				"url": "https://mmn.lgbt/2020/11/15/ive-finally-found.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/14/im-sat-here.html",
+				
+				"content_html": "<p>I&rsquo;m sat here watching a scifi series from the 90s and remembering the good old days when the internet was creative and not consumptive. Seeing as I&rsquo;m going back to being technically funemployed next week, I should probably invest some time on being creative and not doom scrolling</p>\n",
+				"content_text": "I'm sat here watching a scifi series from the 90s and remembering the good old days when the internet was creative and not consumptive. Seeing as I'm going back to being technically funemployed next week, I should probably invest some time on being creative and not doom scrolling\n",
+				"date_published": "2020-11-14T15:25:47+01:00",
+				"url": "https://mmn.lgbt/2020/11/14/im-sat-here.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/14/has-anybody-out.html",
+				
+				"content_html": "<p>Has anybody out in the vast cyberspace had any dealings with finding a webhost that can handle an IDN TLD ?  The standard Google has not helped much.  For reference the name is 雾.香港 😅</p>\n",
+				"content_text": "Has anybody out in the vast cyberspace had any dealings with finding a webhost that can handle an IDN TLD ?  The standard Google has not helped much.  For reference the name is 雾.香港 😅\n",
+				"date_published": "2020-11-14T00:02:16+01:00",
+				"url": "https://mmn.lgbt/2020/11/14/has-anybody-out.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/07/i-play-games.html",
+				
+				"content_html": "<p>I play games to escape reality, like I can get exploited in real life for less</p>\n",
+				"content_text": "I play games to escape reality, like I can get exploited in real life for less\n",
+				"date_published": "2020-11-07T22:15:33+01:00",
+				"url": "https://mmn.lgbt/2020/11/07/i-play-games.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/07/everytime-i-play.html",
+				
+				"content_html": "<p>Everytime I play Animal Crossing I learn to hate that capitalist trash panda Tom Nook and his shitty family even more</p>\n",
+				"content_text": "Everytime I play Animal Crossing I learn to hate that capitalist trash panda Tom Nook and his shitty family even more\n",
+				"date_published": "2020-11-07T22:14:32+01:00",
+				"url": "https://mmn.lgbt/2020/11/07/everytime-i-play.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/11/07/that-was-a.html",
 				
 				"content_html": "<p>That was a surprisingly un-2020 turn of events&hellip; Not going to complain though #YoureFired</p>\n",
