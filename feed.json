@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2020/11/23/the-perfect-domain.html",
+				
+				"content_html": "<p>The perfect domain name doesn&rsquo;t exi&hellip;</p>\n\n<p><a href=\"https://oh.mg\">oh.mg</a></p>\n",
+				"content_text": "The perfect domain name doesn't exi...\n\n[oh.mg](https://oh.mg) \n",
+				"date_published": "2020-11-23T11:11:44+01:00",
+				"url": "https://mmn.lgbt/2020/11/23/the-perfect-domain.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/21/and-while-i.html",
+				
+				"content_html": "<p>And while I was there I started to sync the content of my gopher and two gemini servers over to DreamObject in case I screw something up again in the future. It was pure luck I had copied the yes stuff to GitHub earlier</p>\n",
+				"content_text": "And while I was there I started to sync the content of my gopher and two gemini servers over to DreamObject in case I screw something up again in the future. It was pure luck I had copied the yes stuff to GitHub earlier\n",
+				"date_published": "2020-11-21T00:07:26+01:00",
+				"url": "https://mmn.lgbt/2020/11/21/and-while-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/sweet-baby-jsus.html",
+				
+				"content_html": "<p>Sweet baby jésus, well I finally did it correctly.  My DreamCompute Instance has more than enough space now, I seperated the /home directory to an external volume.  Job done all good just waiting for <a href=\"https://yes.ci\">yes.ci</a> new IP addresses to propagate on the interwebs</p>\n",
+				"content_text": "Sweet baby jésus, well I finally did it correctly.  My DreamCompute Instance has more than enough space now, I seperated the /home directory to an external volume.  Job done all good just waiting for [yes.ci](https://yes.ci) new IP addresses to propagate on the interwebs\n",
+				"date_published": "2020-11-20T23:17:12+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/sweet-baby-jsus.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/ugh-i-screwed.html",
+				
+				"content_html": "<p>Ugh, I screwed up the DreamCompute Instance for the new Gemini server.  So I had to delete it and restart the process #fml</p>\n",
+				"content_text": "Ugh, I screwed up the DreamCompute Instance for the new Gemini server.  So I had to delete it and restart the process #fml\n",
+				"date_published": "2020-11-20T22:28:34+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/ugh-i-screwed.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/speaking-of-still.html",
+				
+				"content_html": "<p>Speaking of still being awake, the fat one was slinking on the bed frame until she misstep. Dropping claws first right in to what I assume <em>was</em> a kidney</p>\n",
+				"content_text": "Speaking of still being awake, the fat one was slinking on the bed frame until she misstep. Dropping claws first right in to what I assume _was_ a kidney\n",
+				"date_published": "2020-11-20T04:23:40+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/speaking-of-still.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/im-also-fully.html",
+				
+				"content_html": "<p>I&rsquo;m also fully aware it&rsquo;s 3h30 du mat, but it&rsquo;s 2020 and time doesn&rsquo;t matter any more</p>\n",
+				"content_text": "I'm also fully aware it's 3h30 du mat, but it's 2020 and time doesn't matter any more\n",
+				"date_published": "2020-11-20T03:29:33+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/im-also-fully.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/the-one-over.html",
+				
+				"content_html": "<p>The one over at DreamCompute isn&rsquo;t meant to replace my home one though, I&rsquo;m running a separate project on it and seeing how it survives in production</p>\n",
+				"content_text": "The one over at DreamCompute isn't meant to replace my home one though, I'm running a separate project on it and seeing how it survives in production\n",
+				"date_published": "2020-11-20T03:28:40+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/the-one-over.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/20/ive-started-another.html",
+				
+				"content_html": "<p>I&rsquo;ve started another Gemini server on a DreamCompute instance. I have a feeling my stability issues are down to my home based VM not exactly enjoying life</p>\n",
+				"content_text": "I've started another Gemini server on a DreamCompute instance. I have a feeling my stability issues are down to my home based VM not exactly enjoying life\n",
+				"date_published": "2020-11-20T03:27:44+01:00",
+				"url": "https://mmn.lgbt/2020/11/20/ive-started-another.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/17/tikka-masala-was.html",
+				
+				"content_html": "<p>Tikka Masala was a success, but it needed some fresh chilli. Learned for next time</p>\n\n<p><img src=\"uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tikka Masala was a success, but it needed some fresh chilli. Learned for next time\n\n<img src=\"uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-17T21:04:38+01:00",
+				"url": "https://mmn.lgbt/2020/11/17/tikka-masala-was.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/16/if-any-of.html",
+				
+				"content_html": "<p>If any of my neighbours stuck around they&rsquo;d be vexed</p>\n",
+				"content_text": "If any of my neighbours stuck around they'd be vexed\n",
+				"date_published": "2020-11-16T03:31:02+01:00",
+				"url": "https://mmn.lgbt/2020/11/16/if-any-of.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/16/just-downloaded-a.html",
+				
+				"content_html": "<p>Just downloaded a video game that recreates the festival experience we won&rsquo;t be able to have until 2029</p>\n",
+				"content_text": "Just downloaded a video game that recreates the festival experience we won't be able to have until 2029\n",
+				"date_published": "2020-11-16T03:30:39+01:00",
+				"url": "https://mmn.lgbt/2020/11/16/just-downloaded-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/16/ive-spent-the.html",
+				
+				"content_html": "<p>I&rsquo;ve spent the past week or so watching Earth Final Conflict and you can certainly tell who was 1990s hot and probably not so 2020 hot.</p>\n\n<p>And the hair, oh my 90s hair.</p>\n",
+				"content_text": "I've spent the past week or so watching Earth Final Conflict and you can certainly tell who was 1990s hot and probably not so 2020 hot.\n\nAnd the hair, oh my 90s hair. \n",
+				"date_published": "2020-11-16T00:42:43+01:00",
+				"url": "https://mmn.lgbt/2020/11/16/ive-spent-the.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/11/15/im-going-to.html",
 				
 				"content_html": "<p>I&rsquo;m going to work on that tonight so it&rsquo;s probably going to have some weird knock on effects on email for a bit to the board</p>\n",
