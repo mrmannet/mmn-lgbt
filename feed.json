@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2020/12/01/ugh-docker-went.html",
+				
+				"content_html": "<p>Ugh, docker went nuts, Ubuntu stopped having it, and I&rsquo;m pretty sure my self hosted mail server is kaput</p>\n",
+				"content_text": "Ugh, docker went nuts, Ubuntu stopped having it, and I'm pretty sure my self hosted mail server is kaput\n",
+				"date_published": "2020-12-01T17:01:36+01:00",
+				"url": "https://mmn.lgbt/2020/12/01/ugh-docker-went.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/will-it-last.html",
+				
+				"content_html": "<p>Will it last in production? Fuck knows! But you don&rsquo;t learn by wondering 😅</p>\n",
+				"content_text": "Will it last in production? Fuck knows! But you don't learn by wondering 😅\n",
+				"date_published": "2020-11-27T23:45:37+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/will-it-last.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/yay-i-did.html",
+				
+				"content_html": "<p>Yay, I did it, <a href=\"https://oh.mg/\">oh.mg</a> is serving from it&rsquo;s individual self hosted servers and using content hosted on DreamObjects on all three protocols!</p>\n",
+				"content_text": "Yay, I did it, [oh.mg](https://oh.mg/) is serving from it's individual self hosted servers and using content hosted on DreamObjects on all three protocols! \n",
+				"date_published": "2020-11-27T23:42:53+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/yay-i-did.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/cos-i-want.html",
+				
+				"content_html": "<p>Cos I want to do this all on the root domain, and not have to create a bunch of subdomains</p>\n",
+				"content_text": "Cos I want to do this all on the root domain, and not have to create a bunch of subdomains\n",
+				"date_published": "2020-11-27T03:11:23+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/cos-i-want.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/the-great-issue.html",
+				
+				"content_html": "<p>The great issue crops up with IPv6 since gopher, gemini, and Web will have their own unique IP addresses so that&rsquo;ll be an interesting game</p>\n",
+				"content_text": "The great issue crops up with IPv6 since gopher, gemini, and Web will have their own unique IP addresses so that'll be an interesting game\n",
+				"date_published": "2020-11-27T03:10:40+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/the-great-issue.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/its-also-worth.html",
+				
+				"content_html": "<p>It&rsquo;s also worth mentioning that I&rsquo;m looking at this to try and keep four different physical servers synchronised properly, one of them completely outside my network.</p>\n",
+				"content_text": "It's also worth mentioning that I'm looking at this to try and keep four different physical servers synchronised properly, one of them completely outside my network.\n",
+				"date_published": "2020-11-27T03:03:09+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/its-also-worth.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/im-also-considering.html",
+				
+				"content_html": "<p>I&rsquo;m also considering my options to self-host OH.MG on all three protocols, gopher, gemini, and ze web.  I think I can do that using my existing infrastructure, but the only problem is opening up HTTP to the outside world.  Cos asshole bots.</p>\n",
+				"content_text": "I'm also considering my options to self-host OH.MG on all three protocols, gopher, gemini, and ze web.  I think I can do that using my existing infrastructure, but the only problem is opening up HTTP to the outside world.  Cos asshole bots.\n",
+				"date_published": "2020-11-27T02:53:28+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/im-also-considering.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/27/im-loving-this.html",
+				
+				"content_html": "<p>I&rsquo;m loving this gemini / html generator, it&rsquo;s making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don&rsquo;t think that&rsquo;s doable as of yet <a href=\"https://oh.mg/journal/moving-them-domains/\">Journal Post</a></p>\n\n<p><img src=\"uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" /></p>\n",
+				"content_text": "I'm loving this gemini / html generator, it's making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don't think that's doable as of yet [Journal Post](https://oh.mg/journal/moving-them-domains/)\n\n<img src=\"uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" />\n",
+				"date_published": "2020-11-27T02:50:40+01:00",
+				"url": "https://mmn.lgbt/2020/11/27/im-loving-this.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/25/sweet-baby-jsus.html",
+				
+				"content_html": "<p>Sweet baby jésus, I have far too many domains, I realise how many now that I have to redirect them all to <a href=\"https://oh.mg/\">oh.mg</a></p>\n",
+				"content_text": "Sweet baby jésus, I have far too many domains, I realise how many now that I have to redirect them all to [oh.mg](https://oh.mg/) \n",
+				"date_published": "2020-11-25T22:12:36+01:00",
+				"url": "https://mmn.lgbt/2020/11/25/sweet-baby-jsus.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/11/25/im-so-shocked.html",
+				
+				"content_html": "<p>I&rsquo;m so shocked right now, I bought 6 kinder eggs, and when I turned my back somebody broke in to my appartment and stole them.  Really !  The crime here is weirdly specific, because there is literally no way I ate them all at once !  Totally impossible !</p>\n",
+				"content_text": "I'm so shocked right now, I bought 6 kinder eggs, and when I turned my back somebody broke in to my appartment and stole them.  Really !  The crime here is weirdly specific, because there is literally no way I ate them all at once !  Totally impossible !\n",
+				"date_published": "2020-11-25T17:58:14+01:00",
+				"url": "https://mmn.lgbt/2020/11/25/im-so-shocked.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/11/23/the-perfect-domain.html",
 				
 				"content_html": "<p>The perfect domain name doesn&rsquo;t exi&hellip;</p>\n\n<p><a href=\"https://oh.mg\">oh.mg</a></p>\n",
