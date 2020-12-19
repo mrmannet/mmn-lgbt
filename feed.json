@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2020/12/19/rip-self-hosted.html",
+				
+				"content_html": "<p>RIP Self Hosted Mail Server, you dead now babz x</p>\n",
+				"content_text": "RIP Self Hosted Mail Server, you dead now babz x\n",
+				"date_published": "2020-12-19T12:23:39+01:00",
+				"url": "https://mmn.lgbt/2020/12/19/rip-self-hosted.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/13/email-dramas-a.html",
+				
+				"content_html": "<p><a href=\"https://oh.mg/journal/email-dramas/\">Email Dramas</a> - a tale of a crashing server in slow motion</p>\n",
+				"content_text": "[Email Dramas](https://oh.mg/journal/email-dramas/) - a tale of a crashing server in slow motion\n",
+				"date_published": "2020-12-13T13:52:12+01:00",
+				"url": "https://mmn.lgbt/2020/12/13/email-dramas-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/13/there-is-a.html",
+				
+				"content_html": "<p>There is a high probability I give up on self-hosted email.</p>\n\n<p><img src=\"uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
+				"content_text": "There is a high probability I give up on self-hosted email.\n\n<img src=\"uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" />\n",
+				"date_published": "2020-12-13T02:34:47+01:00",
+				"url": "https://mmn.lgbt/2020/12/13/there-is-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/13/did-a-little.html",
+				
+				"content_html": "<p>Did a little <a href=\"https://oh.mg/journal/oh-mg-propagation/\">distributed hosting</a> of the oh.mg site like I did back in the day with ec.je.  This time I have little flag icons, look at me</p>\n",
+				"content_text": "Did a little [distributed hosting](https://oh.mg/journal/oh-mg-propagation/) of the oh.mg site like I did back in the day with ec.je.  This time I have little flag icons, look at me\n",
+				"date_published": "2020-12-13T01:09:36+01:00",
+				"url": "https://mmn.lgbt/2020/12/13/did-a-little.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/12/redoin-the-bbs.html",
+				
+				"content_html": "<p><a href=\"https://oh.mg/journal/bbs-welcome-screen/\">Redoin&rsquo; the BBS Login Screen</a> - Awful ANSI screen ahoy</p>\n",
+				"content_text": "[Redoin' the BBS Login Screen](https://oh.mg/journal/bbs-welcome-screen/) - Awful ANSI screen ahoy\n",
+				"date_published": "2020-12-12T00:54:05+01:00",
+				"url": "https://mmn.lgbt/2020/12/12/redoin-the-bbs.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/11/rebootsy-doodles-this.html",
+				
+				"content_html": "<p><a href=\"https://oh.mg/journal/rebootsy-doodles/\">Rebootsy Doodles</a> - 404 This Site is Not Mounted</p>\n\n<p><img src=\"uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" /></p>\n",
+				"content_text": "[Rebootsy Doodles](https://oh.mg/journal/rebootsy-doodles/) - 404 This Site is Not Mounted\n\n<img src=\"uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" />\n",
+				"date_published": "2020-12-11T20:30:43+01:00",
+				"url": "https://mmn.lgbt/2020/12/11/rebootsy-doodles-this.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/11/lolz-both-my.html",
+				
+				"content_html": "<p>Lolz both my VMs rebooted this morning, somewhat amusing because I forgot to add the mount to DreamObjects to the boot, so my website was 404 until I reconnected it all up</p>\n",
+				"content_text": "Lolz both my VMs rebooted this morning, somewhat amusing because I forgot to add the mount to DreamObjects to the boot, so my website was 404 until I reconnected it all up\n",
+				"date_published": "2020-12-11T13:14:58+01:00",
+				"url": "https://mmn.lgbt/2020/12/11/lolz-both-my.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/12/10/the-file-area.html",
 				
 				"content_html": "<p><a href=\"https://oh.mg/bbs/news/files-area-rebuild/\">The File Area / FTP is b0rk3d</a> - The joys of technology #bbs #bbsing #files</p>\n",
