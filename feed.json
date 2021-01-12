@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/01/12/the-ljgl-server.html",
+				
+				"content_html": "<p>The lj.gl server needed to reboot for some updates, plus it was going slow as shit so I figured two problems solved here</p>\n",
+				"content_text": "The lj.gl server needed to reboot for some updates, plus it was going slow as shit so I figured two problems solved here\n",
+				"date_published": "2021-01-12T02:11:10+01:00",
+				"url": "https://mmn.lgbt/2021/01/12/the-ljgl-server.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/01/03/fitbit-support-i.html",
+				
+				"content_html": "<p>Fitbit support I find is a bit &ldquo;have you tried contacting somebody else about a problem that stems from our buggy product?&rdquo;, practically the Uber way of customer care, wear them down until they give up</p>\n",
+				"content_text": "Fitbit support I find is a bit \"have you tried contacting somebody else about a problem that stems from our buggy product?\", practically the Uber way of customer care, wear them down until they give up\n",
+				"date_published": "2021-01-03T21:55:36+01:00",
+				"url": "https://mmn.lgbt/2021/01/03/fitbit-support-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/01/02/lolz-remembering-that.html",
+				
+				"content_html": "<p>Lolz, remembering that time I created <a href=\"https://acme.lu/\">acme.lu</a></p>\n",
+				"content_text": "Lolz, remembering that time I created [acme.lu](https://acme.lu/)\n",
+				"date_published": "2021-01-02T23:05:28+01:00",
+				"url": "https://mmn.lgbt/2021/01/02/lolz-remembering-that.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/01/02/when-i-changed.html",
+				
+				"content_html": "<p>When I changed Freeboxes I lost some of my file areas, but thanks to the Internet Archive I was able to recover the <a href=\"ftp://oh.mg/Reading_Material/cfreemag/\">Commodore Free</a> mirror.  So check it out !</p>\n",
+				"content_text": "When I changed Freeboxes I lost some of my file areas, but thanks to the Internet Archive I was able to recover the [Commodore Free](ftp://oh.mg/Reading_Material/cfreemag/) mirror.  So check it out !\n",
+				"date_published": "2021-01-02T19:11:33+01:00",
+				"url": "https://mmn.lgbt/2021/01/02/when-i-changed.html",
+				"tags": ["commodore"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/01/01/222935.html",
+				
+				"content_html": "<p><img src=\"uploads/2021/467a5351a0.jpg\" width=\"600\" height=\"548\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2021/467a5351a0.jpg\" width=\"600\" height=\"548\" alt=\"\" />\n",
+				"date_published": "2021-01-01T22:29:35+01:00",
+				"url": "https://mmn.lgbt/2021/01/01/222935.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2020/12/30/because-im-a.html",
+				
+				"content_html": "<p>Because I&rsquo;m a gluton for punishment, I&rsquo;ve setup a Plume instance on <a href=\"https://lj.gl/\">lj.gl</a></p>\n",
+				"content_text": "Because I'm a gluton for punishment, I've setup a Plume instance on [lj.gl](https://lj.gl/)\n",
+				"date_published": "2020-12-30T02:02:50+01:00",
+				"url": "https://mmn.lgbt/2020/12/30/because-im-a.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2020/12/27/also-before-you.html",
 				
 				"content_html": "<p>Also, before you ask she&rsquo;s upset that I wouldn&rsquo;t let her break in to the appartments next to ours</p>\n",
