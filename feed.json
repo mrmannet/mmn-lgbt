@@ -7,6 +7,88 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/04/25/ive-got-to.html",
+				
+				"content_html": "<p>I&rsquo;ve got to the point where I&rsquo;ve run out of content so I&rsquo;ve cast my net wide to find <a href=\"https://www.tv4.se/stockholmspolisen\">Stockholmspolisen</a>.  I don&rsquo;t even speak Swedish</p>\n",
+				"content_text": "I've got to the point where I've run out of content so I've cast my net wide to find [Stockholmspolisen](https://www.tv4.se/stockholmspolisen).  I don't even speak Swedish\n",
+				"date_published": "2021-04-25T15:47:25+02:00",
+				"url": "https://kevin.oh.mg/2021/04/25/ive-got-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/24/ive-created-a.html",
+				
+				"content_html": "<p>I&rsquo;ve created a script that should now reboot gmnisrv when it crashes out, because you know, easier than fixing the memory problems 😂</p>\n",
+				"content_text": "I've created a script that should now reboot gmnisrv when it crashes out, because you know, easier than fixing the memory problems 😂\n",
+				"date_published": "2021-04-24T13:39:32+02:00",
+				"url": "https://kevin.oh.mg/2021/04/24/ive-created-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/24/i-find-myself.html",
+				
+				"content_html": "<p>I find myself tremendously bored, milked the streaming sites for all their delicious content, Kaja won&rsquo;t talk to me, I look at my website and want to change, but no idea <em>what</em> to change 😭</p>\n",
+				"content_text": "I find myself tremendously bored, milked the streaming sites for all their delicious content, Kaja won't talk to me, I look at my website and want to change, but no idea *what* to change 😭\n",
+				"date_published": "2021-04-24T12:38:01+02:00",
+				"url": "https://kevin.oh.mg/2021/04/24/i-find-myself.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/23/im-having-a.html",
+				
+				"content_html": "<p>I&rsquo;m having a solid think about hosting the main oh.mg Web site on Storj (Tardigrade). Bringing back the old www subdomain, it&rsquo;s a lot cheaper now than my existing setup but it does mean using the CloudFlonk proxy</p>\n",
+				"content_text": "I'm having a solid think about hosting the main oh.mg Web site on Storj (Tardigrade). Bringing back the old www subdomain, it's a lot cheaper now than my existing setup but it does mean using the CloudFlonk proxy\n",
+				"date_published": "2021-04-23T14:58:11+02:00",
+				"url": "https://kevin.oh.mg/2021/04/23/im-having-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/22/kajas-little-emergency.html",
+				
+				"content_html": "<p><a href=\"https://oh.mg/journal/kajas-little-emergency/\">Kaja&rsquo;s Little Emergency</a> - 💩</p>\n",
+				"content_text": "[Kaja's Little Emergency](https://oh.mg/journal/kajas-little-emergency/) - 💩\n",
+				"date_published": "2021-04-22T19:45:12+02:00",
+				"url": "https://kevin.oh.mg/2021/04/22/kajas-little-emergency.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/18/trying-to-keep.html",
+				
+				"content_html": "<p><a href=\"https://oh.mg/journal/perfectly-normal/\">Trying to keep sane</a> - Because confinement is not easy</p>\n",
+				"content_text": "[Trying to keep sane](https://oh.mg/journal/perfectly-normal/) - Because confinement is not easy\n",
+				"date_published": "2021-04-18T01:24:02+02:00",
+				"url": "https://kevin.oh.mg/2021/04/18/trying-to-keep.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/18/i-also-have.html",
+				
+				"content_html": "<p>I also have to continue on with the Norwegian course I paid for to get some kind of routine back in place, I got to try and keep sane until the end of next month where I can (hopefully) get on a train and go to Spain</p>\n",
+				"content_text": "I also have to continue on with the Norwegian course I paid for to get some kind of routine back in place, I got to try and keep sane until the end of next month where I can (hopefully) get on a train and go to Spain\n",
+				"date_published": "2021-04-18T00:30:15+02:00",
+				"url": "https://kevin.oh.mg/2021/04/18/i-also-have.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/18/i-might-just.html",
+				
+				"content_html": "<p>I might just write a blog post on all of this, but let it be known that I watched a <a href=\"https://www.queerscreen.fr/content/alors-ca-5435\">happy film</a> to rebalance my life and finish it off with a bit of pointless boom boom action films to keep some semblance of sanity</p>\n",
+				"content_text": "I might just write a blog post on all of this, but let it be known that I watched a [happy film](https://www.queerscreen.fr/content/alors-ca-5435) to rebalance my life and finish it off with a bit of pointless boom boom action films to keep some semblance of sanity\n",
+				"date_published": "2021-04-18T00:27:49+02:00",
+				"url": "https://kevin.oh.mg/2021/04/18/i-might-just.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/18/confinement-is-the.html",
+				
+				"content_html": "<p>Confinement is the gift that literally keeps on delivering a new level of crazy every so often.  Meanwhile my neighbours are having yet another party that creates the conditions for more of this.</p>\n",
+				"content_text": "Confinement is the gift that literally keeps on delivering a new level of crazy every so often.  Meanwhile my neighbours are having yet another party that creates the conditions for more of this.\n",
+				"date_published": "2021-04-18T00:25:15+02:00",
+				"url": "https://kevin.oh.mg/2021/04/18/confinement-is-the.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/04/18/like-no-jokes.html",
+				
+				"content_html": "<p>Like no jokes, I genuinely broke down crying two hours after because <a href=\"https://www.here.tv/video/holding-trevor\">this dude wouldn&rsquo;t go to New York</a></p>\n",
+				"content_text": "Like no jokes, I genuinely broke down crying two hours after because [this dude wouldn't go to New York](https://www.here.tv/video/holding-trevor)\n",
+				"date_published": "2021-04-18T00:19:05+02:00",
+				"url": "https://kevin.oh.mg/2021/04/18/like-no-jokes.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/04/18/interesting-lockdown-side.html",
 				
 				"content_html": "<p>Interesting lockdown side effect, best to avoid emotional films. Because fuck me, the vivid dreams are one thing, but seriously being depressed by a romance drama all day is another entirely</p>\n",
