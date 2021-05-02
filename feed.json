@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/05/02/im-having-a.html",
+				
+				"content_html": "<p>I&rsquo;m having a little play with hosting static sites for my bbs users, but using only gemini content, a site generator, and FTP. Not really sure how I&rsquo;m going to do it, but I am.</p>\n",
+				"content_text": "I'm having a little play with hosting static sites for my bbs users, but using only gemini content, a site generator, and FTP. Not really sure how I'm going to do it, but I am. \n",
+				"date_published": "2021-05-02T16:56:21+02:00",
+				"url": "https://kevin.oh.mg/2021/05/02/im-having-a.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/05/02/online-shopping-while.html",
+				
+				"content_html": "<p>Online shopping while bored is never the solution</p>\n",
+				"content_text": "Online shopping while bored is never the solution\n",
+				"date_published": "2021-05-02T14:46:07+02:00",
+				"url": "https://kevin.oh.mg/2021/05/02/online-shopping-while.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/05/01/i-should-probably.html",
+				
+				"content_html": "<p>I should probably make an effort to write at least one thing a day.  Today, this is that thing.</p>\n",
+				"content_text": "I should probably make an effort to write at least one thing a day.  Today, this is that thing.\n",
+				"date_published": "2021-05-01T22:32:12+02:00",
+				"url": "https://kevin.oh.mg/2021/05/01/i-should-probably.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/04/25/ive-got-to.html",
 				
 				"content_html": "<p>I&rsquo;ve got to the point where I&rsquo;ve run out of content so I&rsquo;ve cast my net wide to find <a href=\"https://www.tv4.se/stockholmspolisen\">Stockholmspolisen</a>.  I don&rsquo;t even speak Swedish</p>\n",
