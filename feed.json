@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/07/23/looking-at-flats.html",
+				
+				"content_html": "<p>Looking at flats around my area, it&rsquo;s a bit of a mixed bag, some really good ones and of course your casual 10m2 box on the 8th floor, no lift, and barely enough height for a dwarf but it&rsquo;s still some how over 1k€ a month</p>\n",
+				"content_text": "Looking at flats around my area, it's a bit of a mixed bag, some really good ones and of course your casual 10m2 box on the 8th floor, no lift, and barely enough height for a dwarf but it's still some how over 1k€ a month\n",
+				"date_published": "2021-07-23T23:16:37+02:00",
+				"url": "https://kevin.oh.mg/2021/07/23/looking-at-flats.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/17/le-walking-delta.html",
+				
+				"content_html": "<p>Le Walking Delta Variants</p>\n\n<p><img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Le Walking Delta Variants\n\n<img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-07-17T17:20:56+02:00",
+				"url": "https://kevin.oh.mg/2021/07/17/le-walking-delta.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/14/the-rules-of.html",
+				
+				"content_html": "<p><a href=\"https://gurl.oh.mg/6qwww\">The Rules of Acquisition</a> an OH.MG essay on doing stupid shit under the influence, now with corrected link !</p>\n",
+				"content_text": "[The Rules of Acquisition](https://gurl.oh.mg/6qwww) an OH.MG essay on doing stupid shit under the influence, now with corrected link !\n",
+				"date_published": "2021-07-14T21:50:15+02:00",
+				"url": "https://kevin.oh.mg/2021/07/14/the-rules-of.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/07/11/become-a-sex.html",
 				
 				"content_html": "<p><a href=\"https://gurl.oh.mg/5ctlm\">Become a sex object</a></p>\n",
@@ -33,8 +57,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/03/to-put-it.html",
 				
-				"content_html": "<p>To put it into context, I&rsquo;ve had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they&rsquo;re fucked.</p>\n\n<p><img src=\"uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" /></p>\n",
-				"content_text": "To put it into context, I've had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they're fucked.\n\n<img src=\"uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" />\n",
+				"content_html": "<p>To put it into context, I&rsquo;ve had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they&rsquo;re fucked.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" /></p>\n",
+				"content_text": "To put it into context, I've had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they're fucked.\n\n<img src=\"https://kevin.oh.mg/uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" />\n",
 				"date_published": "2021-07-03T01:57:24+02:00",
 				"url": "https://kevin.oh.mg/2021/07/03/to-put-it.html"
 			},
