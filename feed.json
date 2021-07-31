@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/07/31/i-had-a.html",
+				
+				"content_html": "<p>I had a nap earlier, so of course I&rsquo;m going to be awake all night</p>\n",
+				"content_text": "I had a nap earlier, so of course I'm going to be awake all night\n",
+				"date_published": "2021-07-31T02:26:37+02:00",
+				"url": "https://kevin.oh.mg/2021/07/31/i-had-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/27/prodisease-protesters-and.html",
+				
+				"content_html": "<p><a href=\"https://gurl.oh.mg/xcxt2\">Pro-disease protesters and the far right seem to be hand in hand</a></p>\n",
+				"content_text": "[Pro-disease protesters and the far right seem to be hand in hand](https://gurl.oh.mg/xcxt2 ) \n",
+				"date_published": "2021-07-27T15:14:37+02:00",
+				"url": "https://kevin.oh.mg/2021/07/27/prodisease-protesters-and.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/25/i-cant-even.html",
+				
+				"content_html": "<p>I can&rsquo;t even associate it with accidentally watching a random video, all I&rsquo;ve seen for a few days is 1980s aerobic championships and cat videos</p>\n",
+				"content_text": "I can't even associate it with accidentally watching a random video, all I've seen for a few days is 1980s aerobic championships and cat videos\n",
+				"date_published": "2021-07-25T01:00:59+02:00",
+				"url": "https://kevin.oh.mg/2021/07/25/i-cant-even.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/25/no-matter-how.html",
+				
+				"content_html": "<p>No matter how much I block the channels and tell it I&rsquo;m not interested, it&rsquo;ll just find something that more more <strong>worse</strong></p>\n",
+				"content_text": "No matter how much I block the channels and tell it I'm not interested, it'll just find something that more more **worse** \n",
+				"date_published": "2021-07-25T00:57:38+02:00",
+				"url": "https://kevin.oh.mg/2021/07/25/no-matter-how.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/25/yet-again-googles.html",
+				
+				"content_html": "<p>Yet again Google&rsquo;s algorithm is trying to seed in far right videos into my YT feed. Normally, it&rsquo;ll go slow, but this time it&rsquo;s 0 to Hitler in 3 videos</p>\n",
+				"content_text": "Yet again Google's algorithm is trying to seed in far right videos into my YT feed. Normally, it'll go slow, but this time it's 0 to Hitler in 3 videos\n",
+				"date_published": "2021-07-25T00:56:19+02:00",
+				"url": "https://kevin.oh.mg/2021/07/25/yet-again-googles.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/07/23/im-also-possibly.html",
+				
+				"content_html": "<p>I&rsquo;m also possibly going to try and build a version of OH.MG that is able to be run on classic computers meaning dropping some of the CSS and HTTPS.  Good thing I don&rsquo;t use any extras like Javascript (well except for goatcounter)</p>\n",
+				"content_text": "I'm also possibly going to try and build a version of OH.MG that is able to be run on classic computers meaning dropping some of the CSS and HTTPS.  Good thing I don't use any extras like Javascript (well except for goatcounter)\n",
+				"date_published": "2021-07-23T23:21:29+02:00",
+				"url": "https://kevin.oh.mg/2021/07/23/im-also-possibly.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/07/23/looking-at-flats.html",
 				
 				"content_html": "<p>Looking at flats around my area, it&rsquo;s a bit of a mixed bag, some really good ones and of course your casual 10m2 box on the 8th floor, no lift, and barely enough height for a dwarf but it&rsquo;s still some how over 1k€ a month</p>\n",
@@ -17,8 +65,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/17/le-walking-delta.html",
 				
-				"content_html": "<p>Le Walking Delta Variants</p>\n\n<p><img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Le Walking Delta Variants\n\n<img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Le Walking Delta Variants</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Le Walking Delta Variants\n\n<img src=\"https://kevin.oh.mg/uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-07-17T17:20:56+02:00",
 				"url": "https://kevin.oh.mg/2021/07/17/le-walking-delta.html"
 			},
@@ -41,8 +89,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/04/i-tried-this.html",
 				
-				"content_html": "<p>I tried this as well but apparently we&rsquo;re uploading things in 1992 as it&rsquo;s not going anywhere</p>\n\n<p><img src=\"uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" /></p>\n",
-				"content_text": "I tried this as well but apparently we're uploading things in 1992 as it's not going anywhere\n\n<img src=\"uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" />\n",
+				"content_html": "<p>I tried this as well but apparently we&rsquo;re uploading things in 1992 as it&rsquo;s not going anywhere</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" /></p>\n",
+				"content_text": "I tried this as well but apparently we're uploading things in 1992 as it's not going anywhere\n\n<img src=\"https://kevin.oh.mg/uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" />\n",
 				"date_published": "2021-07-04T15:19:11+02:00",
 				"url": "https://kevin.oh.mg/2021/07/04/i-tried-this.html"
 			},
