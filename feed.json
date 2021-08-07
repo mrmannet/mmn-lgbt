@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/08/07/i-was-really.html",
+				
+				"content_html": "<p>I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I&rsquo;d have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I&rsquo;ve missed seeing them in the last few weeks</p>\n\n<p><img src=\"uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" /></p>\n",
+				"content_text": "I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I'd have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I've missed seeing them in the last few weeks\n\n<img src=\"uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" />\n",
+				"date_published": "2021-08-07T17:06:01+02:00",
+				"url": "https://kevin.oh.mg/2021/08/07/i-was-really.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/06/for-the-lolz.html",
+				
+				"content_html": "<p>For the lolz I made <a href=\"https://vaovao.oh.mg/\">Vaovao OH.MG®</a> using a new template with the same content. It&rsquo;s a fat load, but it looks ok</p>\n",
+				"content_text": "For the lolz I made [Vaovao OH.MG®](https://vaovao.oh.mg/) using a new template with the same content. It's a fat load, but it looks ok\n",
+				"date_published": "2021-08-06T23:03:43+02:00",
+				"url": "https://kevin.oh.mg/2021/08/06/for-the-lolz.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/06/of-course-this.html",
+				
+				"content_html": "<p>Of course this doesn&rsquo;t mean defeat, I&rsquo;m going to try and strip it down as much as possible and see what happens #yolo</p>\n",
+				"content_text": "Of course this doesn't mean defeat, I'm going to try and strip it down as much as possible and see what happens #yolo\n",
+				"date_published": "2021-08-06T18:59:23+02:00",
+				"url": "https://kevin.oh.mg/2021/08/06/of-course-this.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/06/my-current-site.html",
+				
+				"content_html": "<p>My current site is about 83kb give or take because of some link backs I have to webrings and link sites (remember those)</p>\n",
+				"content_text": "My current site is about 83kb give or take because of some link backs I have to webrings and link sites (remember those) \n",
+				"date_published": "2021-08-06T18:57:10+02:00",
+				"url": "https://kevin.oh.mg/2021/08/06/my-current-site.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/06/i-want-to.html",
+				
+				"content_html": "<p>I want to change the HTML template of OH.MG and I found a good looking one but it&rsquo;s so meaty. There is about 500kb of CSS and Javascript, like ¿ por que ?</p>\n",
+				"content_text": "I want to change the HTML template of OH.MG and I found a good looking one but it's so meaty. There is about 500kb of CSS and Javascript, like ¿ por que ? \n",
+				"date_published": "2021-08-06T18:56:04+02:00",
+				"url": "https://kevin.oh.mg/2021/08/06/i-want-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/02/ive-started-using.html",
+				
+				"content_html": "<p>I&rsquo;ve started using <a href=\"https://github.com/buckket/twtxt\">twtxt</a> and it&rsquo;s a bit nice.  <a href=\"https://oh.mg/twtxt.txt\">oh.mg/twtxt.txt</a></p>\n",
+				"content_text": "I've started using [twtxt](https://github.com/buckket/twtxt) and it's a bit nice.  [oh.mg/twtxt.txt](https://oh.mg/twtxt.txt)\n",
+				"date_published": "2021-08-02T19:16:34+02:00",
+				"url": "https://kevin.oh.mg/2021/08/02/ive-started-using.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/01/lady-kaja-is.html",
+				
+				"content_html": "<p>Lady Kaja is currently sheading because we had a short burst of warm weather, now that it&rsquo;s cold again she&rsquo;ll prepare another coat to explode everywhere in the next few days</p>\n",
+				"content_text": "Lady Kaja is currently sheading because we had a short burst of warm weather, now that it's cold again she'll prepare another coat to explode everywhere in the next few days\n",
+				"date_published": "2021-08-01T22:19:32+02:00",
+				"url": "https://kevin.oh.mg/2021/08/01/lady-kaja-is.html",
+				"tags": ["catladywoes"]
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/07/31/i-had-a.html",
 				
 				"content_html": "<p>I had a nap earlier, so of course I&rsquo;m going to be awake all night</p>\n",
