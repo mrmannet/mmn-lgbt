@@ -7,6 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/08/30/things-are-much.html",
+				
+				"content_html": "<p>Things are much more settled now with the lights on, still running of 4G, but at least I don&rsquo;t need to worry about my battery dying :D</p>\n",
+				"content_text": "Things are much more settled now with the lights on, still running of 4G, but at least I don't need to worry about my battery dying :D\n",
+				"date_published": "2021-08-30T19:55:57+02:00",
+				"url": "https://kevin.oh.mg/2021/08/30/things-are-much.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/30/oof-so-they.html",
+				
+				"content_html": "<p>Oof, so they came to install the fibre to find out what shit fuckery another company pulled to make it &ldquo;fibre ready&rdquo;. Spoiler, it&rsquo;s not</p>\n",
+				"content_text": "Oof, so they came to install the fibre to find out what shit fuckery another company pulled to make it \"fibre ready\". Spoiler, it's not\n",
+				"date_published": "2021-08-30T14:19:03+02:00",
+				"url": "https://kevin.oh.mg/2021/08/30/oof-so-they.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/30/no-longer-will.html",
+				
+				"content_html": "<p>No longer will I have to live by candle light, for I finally have electrcity in my house</p>\n",
+				"content_text": "No longer will I have to live by candle light, for I finally have electrcity in my house\n",
+				"date_published": "2021-08-30T13:07:19+02:00",
+				"url": "https://kevin.oh.mg/2021/08/30/no-longer-will.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/27/kaja-has-been.html",
+				
+				"content_html": "<p>Kaja has been pretty chill about the situation today considering, I&rsquo;m not exactly pleased though Enedis forgot to give me electric 🙄</p>\n",
+				"content_text": "Kaja has been pretty chill about the situation today considering, I'm not exactly pleased though Enedis forgot to give me electric 🙄\n",
+				"date_published": "2021-08-27T22:49:19+02:00",
+				"url": "https://kevin.oh.mg/2021/08/27/kaja-has-been.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/27/will-they-just.html",
+				
+				"content_html": "<p><a href=\"https://www.cnews.fr/france/2021-08-27/manifestations-anti-pass-quels-parcours-paris-pour-ce-samedi-28-aout-1120001\">will they just fuck off already</a>, especially Les Fucking &ldquo;Patriotes&rdquo;</p>\n",
+				"content_text": "[will they just fuck off already](https://www.cnews.fr/france/2021-08-27/manifestations-anti-pass-quels-parcours-paris-pour-ce-samedi-28-aout-1120001), especially Les Fucking \"Patriotes\"\n",
+				"date_published": "2021-08-27T14:30:46+02:00",
+				"url": "https://kevin.oh.mg/2021/08/27/will-they-just.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/27/her-tempertantrums-are.html",
+				
+				"content_html": "<p>Her tempertantrums are the part of this whole affair I was dreading the most, and I haven&rsquo;t even got to the point of putting a single thing in a box (let alone her) before crazy spice comes out</p>\n",
+				"content_text": "Her tempertantrums are the part of this whole affair I was dreading the most, and I haven't even got to the point of putting a single thing in a box (let alone her) before crazy spice comes out\n",
+				"date_published": "2021-08-27T12:14:56+02:00",
+				"url": "https://kevin.oh.mg/2021/08/27/her-tempertantrums-are.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/27/agency-forgot-we.html",
+				
+				"content_html": "<p>Agency forgot we had the état des lieux to do so all postponed to this afternoon.  Started to get some of Kaja&rsquo;s things ready, and holy shit she&rsquo;s fucking raging.  Sat in the corner hissing and taking shots for moving her little bed to the side</p>\n",
+				"content_text": "Agency forgot we had the état des lieux to do so all postponed to this afternoon.  Started to get some of Kaja's things ready, and holy shit she's fucking raging.  Sat in the corner hissing and taking shots for moving her little bed to the side\n",
+				"date_published": "2021-08-27T12:12:26+02:00",
+				"url": "https://kevin.oh.mg/2021/08/27/agency-forgot-we.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/08/25/the-things-ive.html",
+				
+				"content_html": "<p>The things I&rsquo;ve just had to do to get internet access tonight is a fucking joke, I&rsquo;m running on the most hobbled together shit fuckery of a connection, and no jokes I had to tape my phone to the ceiling to get this</p>\n",
+				"content_text": "The things I've just had to do to get internet access tonight is a fucking joke, I'm running on the most hobbled together shit fuckery of a connection, and no jokes I had to tape my phone to the ceiling to get this\n",
+				"date_published": "2021-08-25T21:45:23+02:00",
+				"url": "https://kevin.oh.mg/2021/08/25/the-things-ive.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/08/23/hooray-my-internet.html",
 				
 				"content_html": "<p>Hooray, my Internet has been cut off a week early. Merci Free 👏</p>\n",
