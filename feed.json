@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/09/13/bbs-offline-due.html",
+				
+				"content_html": "<p><a href=\"https://gurl.oh.mg/91hfc\">BBS Offline due to internet feckup - OH.MG</a></p>\n",
+				"content_text": "[BBS Offline due to internet feckup - OH.MG](https://gurl.oh.mg/91hfc)\n",
+				"date_published": "2021-09-13T01:25:45+02:00",
+				"url": "https://kevin.oh.mg/2021/09/13/bbs-offline-due.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/09/04/only-problem-with.html",
+				
+				"content_html": "<p>Only problem with that is sometimes the sound becomes desynchronised and it&rsquo;s absolutely weird to watch</p>\n",
+				"content_text": "Only problem with that is sometimes the sound becomes desynchronised and it's absolutely weird to watch\n",
+				"date_published": "2021-09-04T22:16:00+02:00",
+				"url": "https://kevin.oh.mg/2021/09/04/only-problem-with.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/09/04/ive-also-improvised.html",
+				
+				"content_html": "<p>I&rsquo;ve also improvised TV, streaming from a laptop, HDMI cable out, then use bluetooth to connect to my non-responsive Freebox Delta (because lolz étape 2) for sound</p>\n",
+				"content_text": "I've also improvised TV, streaming from a laptop, HDMI cable out, then use bluetooth to connect to my non-responsive Freebox Delta (because lolz étape 2) for sound\n",
+				"date_published": "2021-09-04T22:14:32+02:00",
+				"url": "https://kevin.oh.mg/2021/09/04/ive-also-improvised.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/09/04/still-without-real.html",
+				
+				"content_html": "<p>Still without real internet so I&rsquo;m improvising</p>\n\n<p><img src=\"uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" /></p>\n",
+				"content_text": "Still without real internet so I'm improvising\n\n<img src=\"uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" />\n",
+				"date_published": "2021-09-04T22:13:12+02:00",
+				"url": "https://kevin.oh.mg/2021/09/04/still-without-real.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/08/30/things-are-much.html",
 				
 				"content_html": "<p>Things are much more settled now with the lights on, still running of 4G, but at least I don&rsquo;t need to worry about my battery dying :D</p>\n",
