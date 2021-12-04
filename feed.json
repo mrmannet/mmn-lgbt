@@ -7,6 +7,79 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2021/12/04/i-need-to.html",
+				
+				"content_html": "<p>I need to figure out how I can do this at the high firewall level, but without having to manually enter thousands of IP ranges by hand</p>\n",
+				"content_text": "I need to figure out how I can do this at the high firewall level, but without having to manually enter thousands of IP ranges by hand\n",
+				"date_published": "2021-12-04T14:18:25+01:00",
+				"url": "https://kevin.oh.mg/2021/12/04/i-need-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/12/04/saturday-is-clean.html",
+				
+				"content_html": "<p>Saturday is clean up day, so I blocked all of Bezos&rsquo; IP ranges from my Web server. Trash connections from AWS is what it seems to be doing alot</p>\n",
+				"content_text": "Saturday is clean up day, so I blocked all of Bezos' IP ranges from my Web server. Trash connections from AWS is what it seems to be doing alot\n",
+				"date_published": "2021-12-04T14:16:34+01:00",
+				"url": "https://kevin.oh.mg/2021/12/04/saturday-is-clean.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/28/i-didnt-believe.html",
+				
+				"content_html": "<p>I didn&rsquo;t believe the yee haw attitude of quarantine protocols in Promethius and Alien Covenant. But Covid happened and it makes sense now</p>\n",
+				"content_text": "I didn't believe the yee haw attitude of quarantine protocols in Promethius and Alien Covenant. But Covid happened and it makes sense now\n",
+				"date_published": "2021-11-28T18:44:38+01:00",
+				"url": "https://kevin.oh.mg/2021/11/28/i-didnt-believe.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/28/speak-of-the.html",
+				
+				"content_html": "<p>Speak of the devil and she&rsquo;ll materialise to have a 💩</p>\n",
+				"content_text": "Speak of the devil and she'll materialise to have a 💩\n",
+				"date_published": "2021-11-28T04:16:38+01:00",
+				"url": "https://kevin.oh.mg/2021/11/28/speak-of-the.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/28/i-live-in.html",
+				
+				"content_html": "<p>I live in an apartment that is just shy of 30m2 and yet somehow I&rsquo;ve lost my cat in here. She has this ability to vanish and the intelligence to get away with a murder</p>\n",
+				"content_text": "I live in an apartment that is just shy of 30m2 and yet somehow I've lost my cat in here. She has this ability to vanish and the intelligence to get away with a murder\n",
+				"date_published": "2021-11-28T04:04:15+01:00",
+				"url": "https://kevin.oh.mg/2021/11/28/i-live-in.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/27/working-on-the.html",
+				
+				"content_html": "<p>Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area</p>\n\n<p><img src=\"uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area\n\n<img src=\"uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-11-27T15:33:34+01:00",
+				"url": "https://kevin.oh.mg/2021/11/27/working-on-the.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/27/before-i-go.html",
+				
+				"content_html": "<p>Before I go to bed (which I should have done hours ago), I&rsquo;m considering a mailing list as a comment / discussion medium for redacted.id 👍👎?</p>\n",
+				"content_text": "Before I go to bed (which I should have done hours ago), I'm considering a mailing list as a comment / discussion medium for redacted.id 👍👎? \n",
+				"date_published": "2021-11-27T04:17:23+01:00",
+				"url": "https://kevin.oh.mg/2021/11/27/before-i-go.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/27/the-import-begins.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/7cd58a93\">The Import Begins Today</a> - Reliving your traumatic youth through publically available blog posts 👍</p>\n",
+				"content_text": "[The Import Begins Today](https://redacted.id/7cd58a93) - Reliving your traumatic youth through publically available blog posts 👍\n",
+				"date_published": "2021-11-27T03:11:08+01:00",
+				"url": "https://kevin.oh.mg/2021/11/27/the-import-begins.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2021/11/26/if-you-havent.html",
+				
+				"content_html": "<p>If you haven&rsquo;t seen <a href=\"https://gurl.oh.mg/r84w5\">Alf&rsquo;s Room</a> you should, unless your Japanese is good enough a translation in your browser might be OKish.  I really like his style and what he&rsquo;s created, this is something I&rsquo;ve been trying to do since the MMN days</p>\n",
+				"content_text": "If you haven't seen [Alf's Room](https://gurl.oh.mg/r84w5) you should, unless your Japanese is good enough a translation in your browser might be OKish.  I really like his style and what he's created, this is something I've been trying to do since the MMN days\n",
+				"date_published": "2021-11-26T23:59:40+01:00",
+				"url": "https://kevin.oh.mg/2021/11/26/if-you-havent.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2021/11/25/im-still-awake.html",
 				
 				"content_html": "<p><a href=\"https://redacted.id/99234de3\">I&rsquo;m Still Awake</a> - more stories from insomnia</p>\n",
