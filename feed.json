@@ -7,6 +7,215 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/02/03/got-some-led.html",
+				
+				"content_html": "<p>Got some LED candles, set them out side and I&rsquo;m happy with the results</p>\n\n<p><img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Got some LED candles, set them out side and I'm happy with the results\n\n<img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-02-03T18:55:06+01:00",
+				"url": "https://kevin.oh.mg/2022/02/03/got-some-led.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/struggle-bussing-with.html",
+				
+				"content_html": "<p><a href=\"https://omg.singles/VNQiu\">Struggle Bussing with the OH.MG Gemini Server</a></p>\n",
+				"content_text": "[Struggle Bussing with the OH.MG Gemini Server](https://omg.singles/VNQiu)\n",
+				"date_published": "2022-02-02T02:31:21+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/struggle-bussing-with.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/rodents-are-always.html",
+				
+				"content_html": "<p>Rodents are always a possibility, it is Paris after all, but she&rsquo;s not been like this since we moved in about 6 months ago</p>\n",
+				"content_text": "Rodents are always a possibility, it is Paris after all, but she's not been like this since we moved in about 6 months ago\n",
+				"date_published": "2022-02-02T02:14:10+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/rodents-are-always.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/shes-storming-around.html",
+				
+				"content_html": "<p>She&rsquo;s storming around quite upset, so not exactly sure what she&rsquo;s been smelling (probably her litter I threw out today) to drive her this nuts</p>\n",
+				"content_text": "She's storming around quite upset, so not exactly sure what she's been smelling (probably her litter I threw out today) to drive her this nuts\n",
+				"date_published": "2022-02-02T02:12:14+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/shes-storming-around.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/this-would-be.html",
+				
+				"content_html": "<p>This would be my epic security system</p>\n\n<p><img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This would be my epic security system\n\n<img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-02T02:10:27+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/this-would-be.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/we-were-outside.html",
+				
+				"content_html": "<p>We were outside for about half an hour before she decided time was up. Still not at all happy about the preventative techniques I used to keep her from invading the neighbours places</p>\n",
+				"content_text": "We were outside for about half an hour before she decided time was up. Still not at all happy about the preventative techniques I used to keep her from invading the neighbours places\n",
+				"date_published": "2022-02-02T02:09:25+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/we-were-outside.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/02/im-sat-outside.html",
+				
+				"content_html": "<p>I&rsquo;m sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins\n\n<img src=\"https://kevin.oh.mg/uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-02T01:58:57+01:00",
+				"url": "https://kevin.oh.mg/2022/02/02/im-sat-outside.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/01/ive-been-doing.html",
+				
+				"content_html": "<p>I&rsquo;ve been doing some house cleaning and started to use my <a href=\"https://omg.singles/T7ggI\">internal usenet server / groups</a> with a bit more vigeur</p>\n",
+				"content_text": "I've been doing some house cleaning and started to use my [internal usenet server / groups](https://omg.singles/T7ggI) with a bit more vigeur\n",
+				"date_published": "2022-02-01T22:48:29+01:00",
+				"url": "https://kevin.oh.mg/2022/02/01/ive-been-doing.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/01/finance-crime-is.html",
+				"title": "Finance Crime is Annoying",
+				"content_html": "<p>A couple days ago one of my card details were breached somewhere and it was used to make a 230 000 VND purchase on Play store. I stopped the card so quickly, while Google is still investigating, I managed to prevent the transaction from being claimed.</p>\n\n<p>The moral of this story, get a bank that gives you real time notifications of usage, that can geoblock cards to certain countries, and that you can decide the limits / if it can be used in cash machines. I caught the person testing the card with a small limit (230000VND is about 8€) before ramping it up or trying to score it elsewhere.</p>\n\n<p>This is particularly important if your bank will hold a deposit for card disputes (usually per transaction), and good luck doing that if all your funds are gone three days later when it shows up on the statement.</p>\n",
+				"content_text": "A couple days ago one of my card details were breached somewhere and it was used to make a 230 000 VND purchase on Play store. I stopped the card so quickly, while Google is still investigating, I managed to prevent the transaction from being claimed.\n\nThe moral of this story, get a bank that gives you real time notifications of usage, that can geoblock cards to certain countries, and that you can decide the limits / if it can be used in cash machines. I caught the person testing the card with a small limit (230000VND is about 8€) before ramping it up or trying to score it elsewhere.\n\nThis is particularly important if your bank will hold a deposit for card disputes (usually per transaction), and good luck doing that if all your funds are gone three days later when it shows up on the statement.\n",
+				"date_published": "2022-02-01T03:19:29+01:00",
+				"url": "https://kevin.oh.mg/2022/02/01/finance-crime-is.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/01/ive-got-to.html",
+				
+				"content_html": "<p>I&rsquo;ve got to the stage of being disconnected from Facebook for so long it&rsquo;s started to email me to try and get me back on. No thanks, I&rsquo;m good</p>\n",
+				"content_text": "I've got to the stage of being disconnected from Facebook for so long it's started to email me to try and get me back on. No thanks, I'm good\n",
+				"date_published": "2022-02-01T00:20:13+01:00",
+				"url": "https://kevin.oh.mg/2022/02/01/ive-got-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/31/the-spam-just.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/a22b3eef\">The Spam Just Won&rsquo;t Stop</a> | Redacted Identity by OH.MG</p>\n",
+				"content_text": "[The Spam Just Won't Stop](https://redacted.id/a22b3eef) | Redacted Identity by OH.MG\n",
+				"date_published": "2022-01-31T18:24:11+01:00",
+				"url": "https://kevin.oh.mg/2022/01/31/the-spam-just.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/30/birdsite-is-going.html",
+				
+				"content_html": "<p>Birdsite is going ultra anti-vax, to the point it&rsquo;s trying to constantly shove me into one of their voice chats. If you think social media is harmless, it&rsquo;s not. Anything for money</p>\n",
+				"content_text": "Birdsite is going ultra anti-vax, to the point it's trying to constantly shove me into one of their voice chats. If you think social media is harmless, it's not. Anything for money\n",
+				"date_published": "2022-01-30T23:33:21+01:00",
+				"url": "https://kevin.oh.mg/2022/01/30/birdsite-is-going.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/30/stompwatch-is-now.html",
+				
+				"content_html": "<p>Stompwatch is now my new life, not because I actually care about his life, he just makes it impossible not to hear him as he enters / exits the building</p>\n",
+				"content_text": "Stompwatch is now my new life, not because I actually care about his life, he just makes it impossible not to hear him as he enters / exits the building\n",
+				"date_published": "2022-01-30T18:25:04+01:00",
+				"url": "https://kevin.oh.mg/2022/01/30/stompwatch-is-now.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/29/im-having-a.html",
+				
+				"content_html": "<p>I&rsquo;m having a real struggle bus trying to keep up the gemini server on OH.MG, I have a feeling it might be having problems with a port sniffing bot and crashing out. I&rsquo;m giving sourcehut pages a go on another domain and it seems to be alright stability wise</p>\n",
+				"content_text": "I'm having a real struggle bus trying to keep up the gemini server on OH.MG, I have a feeling it might be having problems with a port sniffing bot and crashing out. I'm giving sourcehut pages a go on another domain and it seems to be alright stability wise\n",
+				"date_published": "2022-01-29T23:14:58+01:00",
+				"url": "https://kevin.oh.mg/2022/01/29/im-having-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/29/for-reference-im.html",
+				
+				"content_html": "<p>For reference, I&rsquo;m not anal, if you have a party here and there, whatever.  If you have one almost every week, you can get fucked</p>\n",
+				"content_text": "For reference, I'm not anal, if you have a party here and there, whatever.  If you have one almost every week, you can get fucked\n",
+				"date_published": "2022-01-29T04:15:51+01:00",
+				"url": "https://kevin.oh.mg/2022/01/29/for-reference-im.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/29/understand-i-never.html",
+				
+				"content_html": "<p>Understand I never thought I&rsquo;d be here CALLING THE FUCKING POLICE ABOUT A NIGHTCLUB IN LY COMPLEX, but here we are see - L&rsquo;histoire de Stompy McStomper | Redacted Identity by OH.MG <a href=\"https://redacted.id/86a9646d\">redacted.id/86a9646d</a></p>\n",
+				"content_text": "Understand I never thought I'd be here CALLING THE FUCKING POLICE ABOUT A NIGHTCLUB IN LY COMPLEX, but here we are see - L'histoire de Stompy McStomper | Redacted Identity by OH.MG [redacted.id/86a9646d](https://redacted.id/86a9646d)\n",
+				"date_published": "2022-01-29T04:14:50+01:00",
+				"url": "https://kevin.oh.mg/2022/01/29/understand-i-never.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/29/i-live-less.html",
+				
+				"content_html": "<p>I live less than 500 metres from a massive police station, and here we are 4 hours in to upstairs&rsquo; 3rd party of the season until JE NE SAIS QUAND DU MAT FUCKIN BORDEL and none of these fuckers can be bothered to show up</p>\n",
+				"content_text": "I live less than 500 metres from a massive police station, and here we are 4 hours in to upstairs' 3rd party of the season until JE NE SAIS QUAND DU MAT FUCKIN BORDEL and none of these fuckers can be bothered to show up\n",
+				"date_published": "2022-01-29T04:04:07+01:00",
+				"url": "https://kevin.oh.mg/2022/01/29/i-live-less.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/27/round-of-doom.html",
+				
+				"content_html": "<p>Round 2 of doom scroll replacement, I searched &ldquo;macintosh&rdquo; on geminispace.info and got some <a href=\"gemini://matthiasportzel.com/gemlog/thoughts-on-macintosh-se\">good content</a> out of it</p>\n",
+				"content_text": "Round 2 of doom scroll replacement, I searched \"macintosh\" on geminispace.info and got some [good content](gemini://matthiasportzel.com/gemlog/thoughts-on-macintosh-se) out of it\n",
+				"date_published": "2022-01-27T00:10:50+01:00",
+				"url": "https://kevin.oh.mg/2022/01/27/round-of-doom.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/27/adios-facebook-redacted.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/e631fb37\">Adios Facebook | Redacted Identity by OH.MG</a> - I wrote a thing about what I do with my phone, and why doom scrolling is no longer part of it</p>\n",
+				"content_text": "[Adios Facebook | Redacted Identity by OH.MG](https://redacted.id/e631fb37) - I wrote a thing about what I do with my phone, and why doom scrolling is no longer part of it\n",
+				"date_published": "2022-01-27T00:00:17+01:00",
+				"url": "https://kevin.oh.mg/2022/01/27/adios-facebook-redacted.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/26/this-is-the.html",
+				
+				"content_html": "<p>This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)\n\n<img src=\"https://kevin.oh.mg/uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-26T23:17:50+01:00",
+				"url": "https://kevin.oh.mg/2022/01/26/this-is-the.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/26/im-probably-going.html",
+				
+				"content_html": "<p>I&rsquo;m probably going to write a post to Redacted.ID for this, but tl;dr I&rsquo;ve deleted a bunch of apps on my phone and moved out Chrome as the browser</p>\n",
+				"content_text": "I'm probably going to write a post to Redacted.ID for this, but tl;dr I've deleted a bunch of apps on my phone and moved out Chrome as the browser\n",
+				"date_published": "2022-01-26T22:55:48+01:00",
+				"url": "https://kevin.oh.mg/2022/01/26/im-probably-going.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/26/i-went-to.html",
+				
+				"content_html": "<p>I went to boot up my old Macintosh PPC, it seems to be running but these modern monitors won&rsquo;t display. I could have sworn I got it to work once, but that&rsquo;ll be a weekend project</p>\n",
+				"content_text": "I went to boot up my old Macintosh PPC, it seems to be running but these modern monitors won't display. I could have sworn I got it to work once, but that'll be a weekend project\n",
+				"date_published": "2022-01-26T18:50:36+01:00",
+				"url": "https://kevin.oh.mg/2022/01/26/i-went-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/22/forever-distracted-redacted.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/fc60690a\">Forever Distracted | Redacted Identity by OH.MG </a> - &ldquo;Drag and drop to cloud providers and have some other external service parse that, meh, fun for a couple minutes at best.&rdquo;</p>\n",
+				"content_text": "[Forever Distracted | Redacted Identity by OH.MG ](https://redacted.id/fc60690a) - \"Drag and drop to cloud providers and have some other external service parse that, meh, fun for a couple minutes at best.\"\n",
+				"date_published": "2022-01-22T03:14:02+01:00",
+				"url": "https://kevin.oh.mg/2022/01/22/forever-distracted-redacted.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/22/i-hate-this.html",
+				
+				"content_html": "<p>I hate this part of the night, where I have so many bright ideas but far too tired to put them in to action</p>\n",
+				"content_text": "I hate this part of the night, where I have so many bright ideas but far too tired to put them in to action\n",
+				"date_published": "2022-01-22T02:48:20+01:00",
+				"url": "https://kevin.oh.mg/2022/01/22/i-hate-this.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/22/ah-the-internet.html",
+				
+				"content_html": "<p>Ah the internet 💖</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" /></p>\n",
+				"content_text": "Ah the internet 💖\n\n<img src=\"https://kevin.oh.mg/uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" />\n",
+				"date_published": "2022-01-22T01:21:05+01:00",
+				"url": "https://kevin.oh.mg/2022/01/22/ah-the-internet.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/01/20/the-hell-of.html",
+				
+				"content_html": "<p><a href=\"https://omg.singles/rveNS\">The Hell of Dating Apps</a> | Be Gay, Do Crime by OHM.GAY - &ldquo;The internet sucks boys and there is no way in hell I&rsquo;m downloading Tinder.&rdquo;</p>\n",
+				"content_text": "[The Hell of Dating Apps](https://omg.singles/rveNS) | Be Gay, Do Crime by OHM.GAY - \"The internet sucks boys and there is no way in hell I'm downloading Tinder.\"\n",
+				"date_published": "2022-01-20T00:11:17+01:00",
+				"url": "https://kevin.oh.mg/2022/01/20/the-hell-of.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/01/19/inexplicably-twitter-decided.html",
 				
 				"content_html": "<p>Inexplicably twitter decided to remove my homepage address from my profile.  No warning, just happened</p>\n",
