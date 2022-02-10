@@ -7,10 +7,124 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/02/10/kaja-is-really.html",
+				
+				"content_html": "<p>Kaja is really unwell tonight and is showing no interest in eating, so we have a vet appointment first thing. 2022 is a cunt and it&rsquo;s doing it to my cat</p>\n",
+				"content_text": "Kaja is really unwell tonight and is showing no interest in eating, so we have a vet appointment first thing. 2022 is a cunt and it's doing it to my cat\n",
+				"date_published": "2022-02-10T20:39:35+01:00",
+				"url": "https://kevin.oh.mg/2022/02/10/kaja-is-really.html",
+				"tags": ["catladywoes"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/08/votre-compte-paypal.html",
+				
+				"content_html": "<p>&ldquo;Votre compte PayPal est actuellement restreint. Nous vous avons récemment demandé de prendre les mesures nécessaires sur votre compte, et nous n&rsquo;avons pas reçu de réponse.&rdquo;</p>\n\n<p>Fun fact PayPal : If you don&rsquo;t ask me for something, I can&rsquo;t answer it</p>\n",
+				"content_text": "\"Votre compte PayPal est actuellement restreint. Nous vous avons récemment demandé de prendre les mesures nécessaires sur votre compte, et nous n'avons pas reçu de réponse.\"\n\nFun fact PayPal : If you don't ask me for something, I can't answer it\n",
+				"date_published": "2022-02-08T20:18:02+01:00",
+				"url": "https://kevin.oh.mg/2022/02/08/votre-compte-paypal.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/08/its-late-i.html",
+				
+				"content_html": "<p>It&rsquo;s late, I found a directory &ldquo;corp&rdquo; in my source files for the site, so I created a thing.  <a href=\"https://omg.singles/4c4VC\">Meatah Corporation</a></p>\n",
+				"content_text": "It's late, I found a directory \"corp\" in my source files for the site, so I created a thing.  [Meatah Corporation](https://omg.singles/4c4VC)\n",
+				"date_published": "2022-02-08T03:13:22+01:00",
+				"url": "https://kevin.oh.mg/2022/02/08/its-late-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/07/today-i-learned.html",
+				
+				"content_html": "<p>Today I learned the difference between a blocked pipe and piss poor plumbing by dropping two bottles of drain cleaner to discover the latter</p>\n",
+				"content_text": "Today I learned the difference between a blocked pipe and piss poor plumbing by dropping two bottles of drain cleaner to discover the latter\n",
+				"date_published": "2022-02-07T22:09:45+01:00",
+				"url": "https://kevin.oh.mg/2022/02/07/today-i-learned.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/07/im-such-an.html",
+				
+				"content_html": "<p>I&rsquo;m such an idiot.  I was thinking I couldn&rsquo;t make www.oh.mg work because LE on DH wasn&rsquo;t going to have it without the root domain.  WELL GUESS WHO HAS A 5 YEAR CERT FOR OH.MG AND WWW.OH.MG.  Whattadick</p>\n",
+				"content_text": "I'm such an idiot.  I was thinking I couldn't make www.oh.mg work because LE on DH wasn't going to have it without the root domain.  WELL GUESS WHO HAS A 5 YEAR CERT FOR OH.MG AND WWW.OH.MG.  Whattadick\n",
+				"date_published": "2022-02-07T03:34:55+01:00",
+				"url": "https://kevin.oh.mg/2022/02/07/im-such-an.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/07/ohmg-moves-redacted.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/ab22764b\">OH.MG Moves</a> | Redacted Identity by OM.Gay</p>\n",
+				"content_text": "[OH.MG Moves](https://redacted.id/ab22764b) | Redacted Identity by OM.Gay\n",
+				"date_published": "2022-02-07T01:40:11+01:00",
+				"url": "https://kevin.oh.mg/2022/02/07/ohmg-moves-redacted.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/07/its-also-nearly.html",
+				
+				"content_html": "<p>It&rsquo;s also nearly 1h, the streets are filled with fireworks and assholes honking. PSG did something apparently</p>\n",
+				"content_text": "It's also nearly 1h, the streets are filled with fireworks and assholes honking. PSG did something apparently\n",
+				"date_published": "2022-02-07T00:59:07+01:00",
+				"url": "https://kevin.oh.mg/2022/02/07/its-also-nearly.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/07/turns-out-content.html",
+				
+				"content_html": "<p>Turns out content was the easy part, now just adding all the redirects is going to be the annoying part</p>\n",
+				"content_text": "Turns out content was the easy part, now just adding all the redirects is going to be the annoying part\n",
+				"date_published": "2022-02-07T00:58:17+01:00",
+				"url": "https://kevin.oh.mg/2022/02/07/turns-out-content.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/06/ive-commenced-work.html",
+				
+				"content_html": "<p>I&rsquo;ve commenced work, that means that gemini://om.gay is a bit broken until all the updates get applied</p>\n",
+				"content_text": "I've commenced work, that means that gemini://om.gay is a bit broken until all the updates get applied\n",
+				"date_published": "2022-02-06T23:13:42+01:00",
+				"url": "https://kevin.oh.mg/2022/02/06/ive-commenced-work.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/06/it-also-means.html",
+				
+				"content_html": "<p>It also means I need to install the new version of kiln on the homebox which I&rsquo;m not excited about, the version isn&rsquo;t as flex as my old one on the VPS</p>\n",
+				"content_text": "It also means I need to install the new version of kiln on the homebox which I'm not excited about, the version isn't as flex as my old one on the VPS\n",
+				"date_published": "2022-02-06T21:46:44+01:00",
+				"url": "https://kevin.oh.mg/2022/02/06/it-also-means.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/06/how-i-vision.html",
+				
+				"content_html": "<p>How I vision this - redirect oh.mg to a hosted website (rather than self hosting the WWW), om.gay becomes the gemini site, gopher / BBS / etc stays where it is.  Awful branding but it works.</p>\n",
+				"content_text": "How I vision this - redirect oh.mg to a hosted website (rather than self hosting the WWW), om.gay becomes the gemini site, gopher / BBS / etc stays where it is.  Awful branding but it works.\n",
+				"date_published": "2022-02-06T21:42:26+01:00",
+				"url": "https://kevin.oh.mg/2022/02/06/how-i-vision.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/06/i-think-tonight.html",
+				
+				"content_html": "<p>I think tonight I&rsquo;m going to do some work on moving everything around, I&rsquo;m having too many issues with the OH.MG Gemini Server, content is all over the place, not much has changed since November 2020, and the clutter in the backend.  Babby jeebus</p>\n",
+				"content_text": "I think tonight I'm going to do some work on moving everything around, I'm having too many issues with the OH.MG Gemini Server, content is all over the place, not much has changed since November 2020, and the clutter in the backend.  Babby jeebus\n",
+				"date_published": "2022-02-06T21:39:48+01:00",
+				"url": "https://kevin.oh.mg/2022/02/06/i-think-tonight.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/05/my-first-two.html",
+				
+				"content_html": "<p>My first two cities weren&rsquo;t great, but who cares</p>\n",
+				"content_text": "My first two cities weren't great, but who cares\n",
+				"date_published": "2022-02-05T02:17:58+01:00",
+				"url": "https://kevin.oh.mg/2022/02/05/my-first-two.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/02/05/ive-downloaded-cities.html",
+				
+				"content_html": "<p>I&rsquo;ve downloaded Cities Skylines and I&rsquo;ve been obsessed for the last few hours</p>\n",
+				"content_text": "I've downloaded Cities Skylines and I've been obsessed for the last few hours\n",
+				"date_published": "2022-02-05T02:17:30+01:00",
+				"url": "https://kevin.oh.mg/2022/02/05/ive-downloaded-cities.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/02/03/got-some-led.html",
 				
-				"content_html": "<p>Got some LED candles, set them out side and I&rsquo;m happy with the results</p>\n\n<p><img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Got some LED candles, set them out side and I'm happy with the results\n\n<img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Got some LED candles, set them out side and I&rsquo;m happy with the results</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Got some LED candles, set them out side and I'm happy with the results\n\n<img src=\"https://kevin.oh.mg/uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-03T18:55:06+01:00",
 				"url": "https://kevin.oh.mg/2022/02/03/got-some-led.html"
 			},
@@ -41,8 +155,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/02/this-would-be.html",
 				
-				"content_html": "<p>This would be my epic security system</p>\n\n<p><img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This would be my epic security system\n\n<img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This would be my epic security system</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This would be my epic security system\n\n<img src=\"https://kevin.oh.mg/uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T02:10:27+01:00",
 				"url": "https://kevin.oh.mg/2022/02/02/this-would-be.html"
 			},
