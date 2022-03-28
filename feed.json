@@ -7,6 +7,110 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/03/28/hey-fitbit-awesome.html",
+				
+				"content_html": "<p>Hey @fitbit awesome product you have there! Love how the Ionic can apparently can start fires and the Versa 2 screen just dies 🤩</p>\n",
+				"content_text": "Hey @fitbit awesome product you have there! Love how the Ionic can apparently can start fires and the Versa 2 screen just dies 🤩\n",
+				"date_published": "2022-03-28T22:25:05+01:00",
+				"url": "https://kevin.oh.mg/2022/03/28/hey-fitbit-awesome.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/26/for-anybody-wondering.html",
+				
+				"content_html": "<p>For anybody wondering the follow up to the CDG problem. No direct way to Paris, had to take a rail replacement, and it took two and a half hours to get home 🤷‍♂️</p>\n",
+				"content_text": "For anybody wondering the follow up to the CDG problem. No direct way to Paris, had to take a rail replacement, and it took two and a half hours to get home 🤷‍♂️\n",
+				"date_published": "2022-03-26T08:22:13+01:00",
+				"url": "https://kevin.oh.mg/2022/03/26/for-anybody-wondering.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/24/and-ohmgs-website.html",
+				
+				"content_html": "<p>and oh.mg&rsquo;s website is kind of down cos a small problem setting up the CDN</p>\n",
+				"content_text": "and oh.mg's website is kind of down cos a small problem setting up the CDN\n",
+				"date_published": "2022-03-24T21:39:44+01:00",
+				"url": "https://kevin.oh.mg/2022/03/24/and-ohmgs-website.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/24/unable-to-parse.html",
+				
+				"content_html": "<p><em>Unable to parse record: Internal error happened.</em> because CF won&rsquo;t do AXFR</p>\n",
+				"content_text": "_Unable to parse record: Internal error happened._ because CF won't do AXFR\n",
+				"date_published": "2022-03-24T21:13:04+01:00",
+				"url": "https://kevin.oh.mg/2022/03/24/unable-to-parse.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/24/trying-to-move.html",
+				
+				"content_html": "<p>Trying to move zone files from CF to elsewhere is no fun</p>\n",
+				"content_text": "Trying to move zone files from CF to elsewhere is no fun\n",
+				"date_published": "2022-03-24T21:10:24+01:00",
+				"url": "https://kevin.oh.mg/2022/03/24/trying-to-move.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/24/in-an-effort.html",
+				
+				"content_html": "<p>In an effort to Europe-ify my web presence I&rsquo;m trying out an EU CDN provider, it seems to work so there is a possibility I can probably move oh.mg away from CloudFlare to another EU DNS provider</p>\n",
+				"content_text": "In an effort to Europe-ify my web presence I'm trying out an EU CDN provider, it seems to work so there is a possibility I can probably move oh.mg away from CloudFlare to another EU DNS provider\n",
+				"date_published": "2022-03-24T19:33:42+01:00",
+				"url": "https://kevin.oh.mg/2022/03/24/in-an-effort.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/23/who-can-i.html",
+				
+				"content_html": "<p>Who can I petition to run this on every screen on a loop in the baggage collection area in CDG with &ldquo;Bienvenue à Paris&rdquo; as an overlay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/a8e4d0163f.gif\" width=\"600\" height=\"540\" alt=\"\" /></p>\n",
+				"content_text": "Who can I petition to run this on every screen on a loop in the baggage collection area in CDG with \"Bienvenue à Paris\" as an overlay\n\n<img src=\"https://kevin.oh.mg/uploads/2022/a8e4d0163f.gif\" width=\"600\" height=\"540\" alt=\"\" />\n",
+				"date_published": "2022-03-23T23:40:03+01:00",
+				"url": "https://kevin.oh.mg/2022/03/23/who-can-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/23/i-have-had.html",
+				
+				"content_html": "<p>I have had zero problems on the other end of each flight, always some kind of transport that is cheap and easily accessible.  But come to Paris and it&rsquo;s a fucking mission to make it 10km</p>\n",
+				"content_text": "I have had zero problems on the other end of each flight, always some kind of transport that is cheap and easily accessible.  But come to Paris and it's a fucking mission to make it 10km\n",
+				"date_published": "2022-03-23T23:28:41+01:00",
+				"url": "https://kevin.oh.mg/2022/03/23/i-have-had.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/23/keeping-in-mind.html",
+				
+				"content_html": "<p>Keeping in mind that I&rsquo;ve flown from CDG pretty consistently for the past three months, and I can count on one finger the amount of times I was actually able to use the RER</p>\n",
+				"content_text": "Keeping in mind that I've flown from CDG pretty consistently for the past three months, and I can count on one finger the amount of times I was actually able to use the RER\n",
+				"date_published": "2022-03-23T23:25:01+01:00",
+				"url": "https://kevin.oh.mg/2022/03/23/keeping-in-mind.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/23/i-fucking-can.html",
+				
+				"content_html": "<p>I fucking can not with La RATP right now.  I get back to Paris on Friday after 22h, buses are on strike and the RER B as usual isn&rsquo;t running because fuck you travaux.  I guess I&rsquo;ll just Rentre Avec (m)Tes Pieds from CDG</p>\n",
+				"content_text": "I fucking can not with La RATP right now.  I get back to Paris on Friday after 22h, buses are on strike and the RER B as usual isn't running because fuck you travaux.  I guess I'll just Rentre Avec (m)Tes Pieds from CDG\n",
+				"date_published": "2022-03-23T23:23:03+01:00",
+				"url": "https://kevin.oh.mg/2022/03/23/i-fucking-can.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/21/so-noctilien-other.html",
+				
+				"content_html": "<p>So Noctilien, other than the driver deciding not to pick up people randomly and being at Gare de l&rsquo;Est at the most terrifying time in the morning. It wasn&rsquo;t so bad</p>\n",
+				"content_text": "So Noctilien, other than the driver deciding not to pick up people randomly and being at Gare de l'Est at the most terrifying time in the morning. It wasn't so bad\n",
+				"date_published": "2022-03-21T05:47:47+01:00",
+				"url": "https://kevin.oh.mg/2022/03/21/so-noctilien-other.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/20/considering-that-the.html",
+				
+				"content_html": "<p>Considering that the RATP app in general is so awful that it some how recommends the absolute worst way to get anywhere, I shouldn&rsquo;t be surprised by this</p>\n",
+				"content_text": "Considering that the RATP app in general is so awful that it some how recommends the absolute worst way to get anywhere, I shouldn't be surprised by this\n",
+				"date_published": "2022-03-20T22:31:09+01:00",
+				"url": "https://kevin.oh.mg/2022/03/20/considering-that-the.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/03/20/nothing-more-safe.html",
+				
+				"content_html": "<p>Nothing more safe than ditching people at Gare du Nord at 3h du mat to wander around to find a stop that&rsquo;s actually at Gare de l&rsquo;Est</p>\n",
+				"content_text": "Nothing more safe than ditching people at Gare du Nord at 3h du mat to wander around to find a stop that's actually at Gare de l'Est\n",
+				"date_published": "2022-03-20T22:25:04+01:00",
+				"url": "https://kevin.oh.mg/2022/03/20/nothing-more-safe.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/03/20/having-to-take.html",
 				
 				"content_html": "<p>Having to take a series of Noctiliens to CDG in a few hours, and RATP tried to send me to a bus stop that no longer exists through their official app 🙄</p>\n",
@@ -145,8 +249,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/14/overnight-kajas-condition.html",
 				
-				"content_html": "<p>Overnight Kaja&rsquo;s condition deteriorated and she fell into a coma.  The hospital was able to recussiate her, but 3 hours later it happened again.  This time she wasn&rsquo;t able to be brought back.</p>\n\n<p>Kaja passed away at 6h this morning.</p>\n\n<p><img src=\"uploads/2022/360209f25b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Overnight Kaja's condition deteriorated and she fell into a coma.  The hospital was able to recussiate her, but 3 hours later it happened again.  This time she wasn't able to be brought back.\r\n\r\nKaja passed away at 6h this morning.\n\n<img src=\"uploads/2022/360209f25b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Overnight Kaja&rsquo;s condition deteriorated and she fell into a coma.  The hospital was able to recussiate her, but 3 hours later it happened again.  This time she wasn&rsquo;t able to be brought back.</p>\n\n<p>Kaja passed away at 6h this morning.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/360209f25b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Overnight Kaja's condition deteriorated and she fell into a coma.  The hospital was able to recussiate her, but 3 hours later it happened again.  This time she wasn't able to be brought back.\r\n\r\nKaja passed away at 6h this morning.\n\n<img src=\"https://kevin.oh.mg/uploads/2022/360209f25b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-14T20:30:20+01:00",
 				"url": "https://kevin.oh.mg/2022/02/14/overnight-kajas-condition.html",
 				"tags": ["catladywoes"]
@@ -154,8 +258,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/14/this-is-the.html",
 				
-				"content_html": "<p>This is the photo the ASCII art is based off of, can&rsquo;t remember exactly when this photo was taken but it was a long time ago</p>\n\n<p><img src=\"uploads/2022/6d06d49bde.png\" width=\"299\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is the photo the ASCII art is based off of, can't remember exactly when this photo was taken but it was a long time ago\n\n<img src=\"uploads/2022/6d06d49bde.png\" width=\"299\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is the photo the ASCII art is based off of, can&rsquo;t remember exactly when this photo was taken but it was a long time ago</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/6d06d49bde.png\" width=\"299\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is the photo the ASCII art is based off of, can't remember exactly when this photo was taken but it was a long time ago\n\n<img src=\"https://kevin.oh.mg/uploads/2022/6d06d49bde.png\" width=\"299\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-14T01:13:38+01:00",
 				"url": "https://kevin.oh.mg/2022/02/14/this-is-the.html"
 			},
@@ -328,8 +432,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/03/got-some-led.html",
 				
-				"content_html": "<p>Got some LED candles, set them out side and I&rsquo;m happy with the results</p>\n\n<p><img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Got some LED candles, set them out side and I'm happy with the results\n\n<img src=\"uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Got some LED candles, set them out side and I&rsquo;m happy with the results</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Got some LED candles, set them out side and I'm happy with the results\n\n<img src=\"https://kevin.oh.mg/uploads/2022/548812c5a5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-03T18:55:06+01:00",
 				"url": "https://kevin.oh.mg/2022/02/03/got-some-led.html"
 			},
@@ -360,8 +464,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/02/this-would-be.html",
 				
-				"content_html": "<p>This would be my epic security system</p>\n\n<p><img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This would be my epic security system\n\n<img src=\"uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This would be my epic security system</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This would be my epic security system\n\n<img src=\"https://kevin.oh.mg/uploads/2022/f53a07b33b.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T02:10:27+01:00",
 				"url": "https://kevin.oh.mg/2022/02/02/this-would-be.html"
 			},
@@ -376,8 +480,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/02/02/im-sat-outside.html",
 				
-				"content_html": "<p>I&rsquo;m sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins</p>\n\n<p><img src=\"uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins\n\n<img src=\"uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm sat outside with Kaja at 2h du mat because she is obsessed with being outside and trying to get to the bins\n\n<img src=\"https://kevin.oh.mg/uploads/2022/1c8d327b75.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T01:58:57+01:00",
 				"url": "https://kevin.oh.mg/2022/02/02/im-sat-outside.html",
 				"tags": ["catladywoes"]
@@ -481,8 +585,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/01/26/this-is-the.html",
 				
-				"content_html": "<p>This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)</p>\n\n<p><img src=\"uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)\n\n<img src=\"uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is the new setup, hidden some work and financial things, but trying to cut the screen time on some of the web (although I do need to keep Chrome for work)\n\n<img src=\"https://kevin.oh.mg/uploads/2022/5390c0743d.jpg\" width=\"276\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-26T23:17:50+01:00",
 				"url": "https://kevin.oh.mg/2022/01/26/this-is-the.html"
 			},
@@ -521,8 +625,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/01/22/ah-the-internet.html",
 				
-				"content_html": "<p>Ah the internet 💖</p>\n\n<p><img src=\"uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" /></p>\n",
-				"content_text": "Ah the internet 💖\n\n<img src=\"uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" />\n",
+				"content_html": "<p>Ah the internet 💖</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" /></p>\n",
+				"content_text": "Ah the internet 💖\n\n<img src=\"https://kevin.oh.mg/uploads/2022/f21a1471d3.png\" width=\"449\" height=\"317\" alt=\"\" />\n",
 				"date_published": "2022-01-22T01:21:05+01:00",
 				"url": "https://kevin.oh.mg/2022/01/22/ah-the-internet.html"
 			},
@@ -609,8 +713,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/12/30/cant-go-anywhere.html",
 				
-				"content_html": "<p>Can&rsquo;t go anywhere without doing one of these, great times with Omicron 🙄</p>\n\n<p><img src=\"uploads/2021/7a751d2335.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Can't go anywhere without doing one of these, great times with Omicron 🙄\n\n<img src=\"uploads/2021/7a751d2335.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Can&rsquo;t go anywhere without doing one of these, great times with Omicron 🙄</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/7a751d2335.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Can't go anywhere without doing one of these, great times with Omicron 🙄\n\n<img src=\"https://kevin.oh.mg/uploads/2021/7a751d2335.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-30T15:19:52+01:00",
 				"url": "https://kevin.oh.mg/2021/12/30/cant-go-anywhere.html"
 			},
@@ -713,8 +817,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/11/27/working-on-the.html",
 				
-				"content_html": "<p>Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area</p>\n\n<p><img src=\"uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area\n\n<img src=\"uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Working on the BBS today, and also starting to mirror out my journal to FTP / the BBS file area\n\n<img src=\"https://kevin.oh.mg/uploads/2021/5086e89aaa.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-27T15:33:34+01:00",
 				"url": "https://kevin.oh.mg/2021/11/27/working-on-the.html",
 				"tags": ["BBS"]
@@ -778,8 +882,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/11/14/i-like-picking.html",
 				
-				"content_html": "<p>I like picking up flags of places I&rsquo;ve been, but I think on this occasion I may have gone a touch overboard. It&rsquo;s quite huge</p>\n\n<p><img src=\"uploads/2021/92710a8442.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I like picking up flags of places I've been, but I think on this occasion I may have gone a touch overboard. It's quite huge\n\n<img src=\"uploads/2021/92710a8442.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I like picking up flags of places I&rsquo;ve been, but I think on this occasion I may have gone a touch overboard. It&rsquo;s quite huge</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/92710a8442.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I like picking up flags of places I've been, but I think on this occasion I may have gone a touch overboard. It's quite huge\n\n<img src=\"https://kevin.oh.mg/uploads/2021/92710a8442.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-14T20:36:50+01:00",
 				"url": "https://kevin.oh.mg/2021/11/14/i-like-picking.html"
 			},
@@ -794,8 +898,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/11/13/update-the-troll.html",
 				
-				"content_html": "<p>Update : the troll was seen</p>\n\n<p><img src=\"uploads/2021/a067cd634a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Update : the troll was seen\n\n<img src=\"uploads/2021/a067cd634a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Update : the troll was seen</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/a067cd634a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Update : the troll was seen\n\n<img src=\"https://kevin.oh.mg/uploads/2021/a067cd634a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-13T13:49:02+01:00",
 				"url": "https://kevin.oh.mg/2021/11/13/update-the-troll.html"
 			},
@@ -850,16 +954,16 @@
 			{
 				"id": "http://mmn.micro.blog/2021/10/25/to-give-some.html",
 				
-				"content_html": "<p>To give some context, the internet struggle bus is real</p>\n\n<p><img src=\"uploads/2021/3a549283f7.png\" width=\"600\" height=\"314\" alt=\"\" /></p>\n",
-				"content_text": "To give some context, the internet struggle bus is real\n\n<img src=\"uploads/2021/3a549283f7.png\" width=\"600\" height=\"314\" alt=\"\" />\n",
+				"content_html": "<p>To give some context, the internet struggle bus is real</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/3a549283f7.png\" width=\"600\" height=\"314\" alt=\"\" /></p>\n",
+				"content_text": "To give some context, the internet struggle bus is real\n\n<img src=\"https://kevin.oh.mg/uploads/2021/3a549283f7.png\" width=\"600\" height=\"314\" alt=\"\" />\n",
 				"date_published": "2021-10-25T21:56:35+01:00",
 				"url": "https://kevin.oh.mg/2021/10/25/to-give-some.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2021/10/25/my-freebox-seems.html",
 				
-				"content_html": "<p>My Freebox seems to be having a bit of a night so it&rsquo;s questionable if any of the servers are responding properly until they fix it - <a href=\"https://gurl.oh.mg/status\">OH.MG Status</a></p>\n\n<p><img src=\"uploads/2021/829ce32524.png\" width=\"345\" height=\"148\" alt=\"\" /></p>\n",
-				"content_text": "My Freebox seems to be having a bit of a night so it's questionable if any of the servers are responding properly until they fix it - [OH.MG Status](https://gurl.oh.mg/status)\n\n<img src=\"uploads/2021/829ce32524.png\" width=\"345\" height=\"148\" alt=\"\" />\n",
+				"content_html": "<p>My Freebox seems to be having a bit of a night so it&rsquo;s questionable if any of the servers are responding properly until they fix it - <a href=\"https://gurl.oh.mg/status\">OH.MG Status</a></p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/829ce32524.png\" width=\"345\" height=\"148\" alt=\"\" /></p>\n",
+				"content_text": "My Freebox seems to be having a bit of a night so it's questionable if any of the servers are responding properly until they fix it - [OH.MG Status](https://gurl.oh.mg/status)\n\n<img src=\"https://kevin.oh.mg/uploads/2021/829ce32524.png\" width=\"345\" height=\"148\" alt=\"\" />\n",
 				"date_published": "2021-10-25T21:26:44+01:00",
 				"url": "https://kevin.oh.mg/2021/10/25/my-freebox-seems.html"
 			},
@@ -1056,8 +1160,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/09/04/still-without-real.html",
 				
-				"content_html": "<p>Still without real internet so I&rsquo;m improvising</p>\n\n<p><img src=\"uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" /></p>\n",
-				"content_text": "Still without real internet so I'm improvising\n\n<img src=\"uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" />\n",
+				"content_html": "<p>Still without real internet so I&rsquo;m improvising</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" /></p>\n",
+				"content_text": "Still without real internet so I'm improvising\n\n<img src=\"https://kevin.oh.mg/uploads/2021/7a4102ec15.png\" width=\"600\" height=\"238\" alt=\"\" />\n",
 				"date_published": "2021-09-04T21:13:12+01:00",
 				"url": "https://kevin.oh.mg/2021/09/04/still-without-real.html"
 			},
@@ -1179,8 +1283,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/08/07/i-was-really.html",
 				
-				"content_html": "<p>I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I&rsquo;d have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I&rsquo;ve missed seeing them in the last few weeks</p>\n\n<p><img src=\"uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" /></p>\n",
-				"content_text": "I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I'd have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I've missed seeing them in the last few weeks\n\n<img src=\"uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" />\n",
+				"content_html": "<p>I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I&rsquo;d have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I&rsquo;ve missed seeing them in the last few weeks</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" /></p>\n",
+				"content_text": "I was really concerned with all the plague parades around that when traffic was stopped and there was chanting, I'd have another wonderful Saturday.  Instead, for once, there is a normal protest of Maliens and I've missed seeing them in the last few weeks\n\n<img src=\"https://kevin.oh.mg/uploads/2021/1effdf1a69.jpg\" width=\"600\" height=\"302\" alt=\"\" />\n",
 				"date_published": "2021-08-07T16:06:01+01:00",
 				"url": "https://kevin.oh.mg/2021/08/07/i-was-really.html"
 			},
@@ -1292,8 +1396,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/17/le-walking-delta.html",
 				
-				"content_html": "<p>Le Walking Delta Variants</p>\n\n<p><img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Le Walking Delta Variants\n\n<img src=\"uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Le Walking Delta Variants</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Le Walking Delta Variants\n\n<img src=\"https://kevin.oh.mg/uploads/2021/8562761bd2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-07-17T16:20:56+01:00",
 				"url": "https://kevin.oh.mg/2021/07/17/le-walking-delta.html"
 			},
@@ -1316,8 +1420,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/04/i-tried-this.html",
 				
-				"content_html": "<p>I tried this as well but apparently we&rsquo;re uploading things in 1992 as it&rsquo;s not going anywhere</p>\n\n<p><img src=\"uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" /></p>\n",
-				"content_text": "I tried this as well but apparently we're uploading things in 1992 as it's not going anywhere\n\n<img src=\"uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" />\n",
+				"content_html": "<p>I tried this as well but apparently we&rsquo;re uploading things in 1992 as it&rsquo;s not going anywhere</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" /></p>\n",
+				"content_text": "I tried this as well but apparently we're uploading things in 1992 as it's not going anywhere\n\n<img src=\"https://kevin.oh.mg/uploads/2021/0ed517295f.png\" width=\"600\" height=\"305\" alt=\"\" />\n",
 				"date_published": "2021-07-04T14:19:11+01:00",
 				"url": "https://kevin.oh.mg/2021/07/04/i-tried-this.html"
 			},
@@ -1332,8 +1436,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/07/03/to-put-it.html",
 				
-				"content_html": "<p>To put it into context, I&rsquo;ve had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they&rsquo;re fucked.</p>\n\n<p><img src=\"uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" /></p>\n",
-				"content_text": "To put it into context, I've had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they're fucked.\n\n<img src=\"uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" />\n",
+				"content_html": "<p>To put it into context, I&rsquo;ve had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they&rsquo;re fucked.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" /></p>\n",
+				"content_text": "To put it into context, I've had to do so many of these tests recently, my friends now use me as their barometer of infection.  If I ever get a positive, they know they're fucked.\n\n<img src=\"https://kevin.oh.mg/uploads/2021/d5b82adb77.png\" width=\"350\" height=\"162\" alt=\"\" />\n",
 				"date_published": "2021-07-03T00:57:24+01:00",
 				"url": "https://kevin.oh.mg/2021/07/03/to-put-it.html"
 			},
@@ -1380,8 +1484,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/06/13/233834.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/6e6bd013d1.jpg\" width=\"552\" height=\"522\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/6e6bd013d1.jpg\" width=\"552\" height=\"522\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://kevin.oh.mg/uploads/2021/6e6bd013d1.jpg\" width=\"552\" height=\"522\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://kevin.oh.mg/uploads/2021/6e6bd013d1.jpg\" width=\"552\" height=\"522\" alt=\"\" />\n",
 				"date_published": "2021-06-13T22:38:34+01:00",
 				"url": "https://kevin.oh.mg/2021/06/13/233834.html"
 			},
@@ -1420,8 +1524,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/23/quite-literally-every.html",
 				
-				"content_html": "<p>Quite literally every time I post a link on here, these are the immediate visitors to the exact number and location</p>\n\n<p><img src=\"uploads/2021/66ae90e12b.png\" width=\"228\" height=\"106\" alt=\"\" /></p>\n",
-				"content_text": "Quite literally every time I post a link on here, these are the immediate visitors to the exact number and location\n\n<img src=\"uploads/2021/66ae90e12b.png\" width=\"228\" height=\"106\" alt=\"\" />\n",
+				"content_html": "<p>Quite literally every time I post a link on here, these are the immediate visitors to the exact number and location</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/66ae90e12b.png\" width=\"228\" height=\"106\" alt=\"\" /></p>\n",
+				"content_text": "Quite literally every time I post a link on here, these are the immediate visitors to the exact number and location\n\n<img src=\"https://kevin.oh.mg/uploads/2021/66ae90e12b.png\" width=\"228\" height=\"106\" alt=\"\" />\n",
 				"date_published": "2021-05-23T01:29:53+01:00",
 				"url": "https://kevin.oh.mg/2021/05/23/quite-literally-every.html"
 			},
@@ -1581,8 +1685,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/22/and-here-we.html",
 				
-				"content_html": "<p>And here we have why #GER should win this one #Eurovision, thank you Birdsite for delivering</p>\n\n<p><img src=\"uploads/2021/66a50cea4d.jpg\" width=\"406\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "And here we have why #GER should win this one #Eurovision, thank you Birdsite for delivering\n\n<img src=\"uploads/2021/66a50cea4d.jpg\" width=\"406\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>And here we have why #GER should win this one #Eurovision, thank you Birdsite for delivering</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/66a50cea4d.jpg\" width=\"406\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "And here we have why #GER should win this one #Eurovision, thank you Birdsite for delivering\n\n<img src=\"https://kevin.oh.mg/uploads/2021/66a50cea4d.jpg\" width=\"406\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T22:51:04+01:00",
 				"url": "https://kevin.oh.mg/2021/05/22/and-here-we.html",
 				"tags": ["Eurovision"]
@@ -1769,8 +1873,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/22/imma-break-this.html",
 				
-				"content_html": "<p>Imma break this app #Eurovision</p>\n\n<p><img src=\"uploads/2021/691d99d2da.jpg\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Imma break this app #Eurovision\n\n<img src=\"uploads/2021/691d99d2da.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Imma break this app #Eurovision</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/691d99d2da.jpg\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Imma break this app #Eurovision\n\n<img src=\"https://kevin.oh.mg/uploads/2021/691d99d2da.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T21:28:08+01:00",
 				"url": "https://kevin.oh.mg/2021/05/22/imma-break-this.html",
 				"tags": ["Eurovision"]
@@ -2026,8 +2130,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/14/i-accidentally-stayed.html",
 				
-				"content_html": "<p>I accidentally stayed up all night playing <a href=\"https://www.youtube.com/watch?v=q12KwXpP7SI\">Fuser</a> and I have no regrets</p>\n\n<p><img src=\"uploads/2021/ee9e136d14.gif\" width=\"267\" height=\"200\" alt=\"\" /></p>\n",
-				"content_text": "I accidentally stayed up all night playing [Fuser](https://www.youtube.com/watch?v=q12KwXpP7SI) and I have no regrets\n\n<img src=\"uploads/2021/ee9e136d14.gif\" width=\"267\" height=\"200\" alt=\"\" />\n",
+				"content_html": "<p>I accidentally stayed up all night playing <a href=\"https://www.youtube.com/watch?v=q12KwXpP7SI\">Fuser</a> and I have no regrets</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/ee9e136d14.gif\" width=\"267\" height=\"200\" alt=\"\" /></p>\n",
+				"content_text": "I accidentally stayed up all night playing [Fuser](https://www.youtube.com/watch?v=q12KwXpP7SI) and I have no regrets\n\n<img src=\"https://kevin.oh.mg/uploads/2021/ee9e136d14.gif\" width=\"267\" height=\"200\" alt=\"\" />\n",
 				"date_published": "2021-05-14T19:19:42+01:00",
 				"url": "https://kevin.oh.mg/2021/05/14/i-accidentally-stayed.html"
 			},
@@ -2074,8 +2178,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/09/je-recherche-des.html",
 				
-				"content_html": "<p>Je recherche des restaurants qui acceptent Swile, je complète mon panier après avoir soigneusement choisi la nourriture que je veux vraiment maintenant, OH LOL, ils n&rsquo;acceptent pas Swile. Et répétez dix fois de plus, voici l&rsquo;expérience @Deliveroo_FR</p>\n\n<p><img src=\"uploads/2021/dd2f7b38e5.png\" width=\"600\" height=\"148\" alt=\"\" /></p>\n",
-				"content_text": "Je recherche des restaurants qui acceptent Swile, je complète mon panier après avoir soigneusement choisi la nourriture que je veux vraiment maintenant, OH LOL, ils n'acceptent pas Swile. Et répétez dix fois de plus, voici l'expérience @Deliveroo_FR\n\n<img src=\"uploads/2021/dd2f7b38e5.png\" width=\"600\" height=\"148\" alt=\"\" />\n",
+				"content_html": "<p>Je recherche des restaurants qui acceptent Swile, je complète mon panier après avoir soigneusement choisi la nourriture que je veux vraiment maintenant, OH LOL, ils n&rsquo;acceptent pas Swile. Et répétez dix fois de plus, voici l&rsquo;expérience @Deliveroo_FR</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/dd2f7b38e5.png\" width=\"600\" height=\"148\" alt=\"\" /></p>\n",
+				"content_text": "Je recherche des restaurants qui acceptent Swile, je complète mon panier après avoir soigneusement choisi la nourriture que je veux vraiment maintenant, OH LOL, ils n'acceptent pas Swile. Et répétez dix fois de plus, voici l'expérience @Deliveroo_FR\n\n<img src=\"https://kevin.oh.mg/uploads/2021/dd2f7b38e5.png\" width=\"600\" height=\"148\" alt=\"\" />\n",
 				"date_published": "2021-05-09T13:51:05+01:00",
 				"url": "https://kevin.oh.mg/2021/05/09/je-recherche-des.html"
 			},
@@ -2180,8 +2284,8 @@
 			{
 				"id": "http://mmn.micro.blog/2021/05/04/ah-amazon-your.html",
 				
-				"content_html": "<p>Ah Amazon, Your Number One Choice for Launching Spam and Vulnerability Attacks 👍</p>\n\n<p>&ldquo;Because money is money, and fuck you&rdquo;\n-Overlord Bezos</p>\n\n<p><img src=\"uploads/2021/9d9ba47acb.png\" width=\"599\" height=\"329\" alt=\"\" /></p>\n",
-				"content_text": "Ah Amazon, Your Number One Choice for Launching Spam and Vulnerability Attacks 👍\n\n\"Because money is money, and fuck you\"\n-Overlord Bezos\n\n<img src=\"uploads/2021/9d9ba47acb.png\" width=\"599\" height=\"329\" alt=\"\" />\n",
+				"content_html": "<p>Ah Amazon, Your Number One Choice for Launching Spam and Vulnerability Attacks 👍</p>\n\n<p>&ldquo;Because money is money, and fuck you&rdquo;\n-Overlord Bezos</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2021/9d9ba47acb.png\" width=\"599\" height=\"329\" alt=\"\" /></p>\n",
+				"content_text": "Ah Amazon, Your Number One Choice for Launching Spam and Vulnerability Attacks 👍\n\n\"Because money is money, and fuck you\"\n-Overlord Bezos\n\n<img src=\"https://kevin.oh.mg/uploads/2021/9d9ba47acb.png\" width=\"599\" height=\"329\" alt=\"\" />\n",
 				"date_published": "2021-05-04T17:58:44+01:00",
 				"url": "https://kevin.oh.mg/2021/05/04/ah-amazon-your.html"
 			},
@@ -2762,8 +2866,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/12/13/there-is-a.html",
 				
-				"content_html": "<p>There is a high probability I give up on self-hosted email.</p>\n\n<p><img src=\"uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
-				"content_text": "There is a high probability I give up on self-hosted email.\n\n<img src=\"uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" />\n",
+				"content_html": "<p>There is a high probability I give up on self-hosted email.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" /></p>\n",
+				"content_text": "There is a high probability I give up on self-hosted email.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/c984bd79a9.png\" width=\"600\" height=\"251\" alt=\"\" />\n",
 				"date_published": "2020-12-13T02:34:47+01:00",
 				"url": "https://kevin.oh.mg/2020/12/13/there-is-a.html"
 			},
@@ -2787,8 +2891,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/12/11/rebootsy-doodles-this.html",
 				
-				"content_html": "<p><a href=\"https://oh.mg/journal/rebootsy-doodles/\">Rebootsy Doodles</a> - 404 This Site is Not Mounted</p>\n\n<p><img src=\"uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" /></p>\n",
-				"content_text": "[Rebootsy Doodles](https://oh.mg/journal/rebootsy-doodles/) - 404 This Site is Not Mounted\n\n<img src=\"uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://oh.mg/journal/rebootsy-doodles/\">Rebootsy Doodles</a> - 404 This Site is Not Mounted</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" /></p>\n",
+				"content_text": "[Rebootsy Doodles](https://oh.mg/journal/rebootsy-doodles/) - 404 This Site is Not Mounted\n\n<img src=\"https://kevin.oh.mg/uploads/2020/d1ce5e6e99.gif\" width=\"447\" height=\"252\" alt=\"\" />\n",
 				"date_published": "2020-12-11T20:30:43+01:00",
 				"url": "https://kevin.oh.mg/2020/12/11/rebootsy-doodles-this.html"
 			},
@@ -2828,8 +2932,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/12/03/looks-like-ive.html",
 				
-				"content_html": "<p>Looks like I&rsquo;ve found a shit load of fake Insta accounts that used my domains prior to me registering them, any ideas what to do with these ?  How can I tell ?  What chaos can be caused ?</p>\n\n<p><img src=\"uploads/2020/5236195b8c.png\" width=\"600\" height=\"275\" alt=\"\" /></p>\n",
-				"content_text": "Looks like I've found a shit load of fake Insta accounts that used my domains prior to me registering them, any ideas what to do with these ?  How can I tell ?  What chaos can be caused ?\n\n<img src=\"uploads/2020/5236195b8c.png\" width=\"600\" height=\"275\" alt=\"\" />\n",
+				"content_html": "<p>Looks like I&rsquo;ve found a shit load of fake Insta accounts that used my domains prior to me registering them, any ideas what to do with these ?  How can I tell ?  What chaos can be caused ?</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/5236195b8c.png\" width=\"600\" height=\"275\" alt=\"\" /></p>\n",
+				"content_text": "Looks like I've found a shit load of fake Insta accounts that used my domains prior to me registering them, any ideas what to do with these ?  How can I tell ?  What chaos can be caused ?\n\n<img src=\"https://kevin.oh.mg/uploads/2020/5236195b8c.png\" width=\"600\" height=\"275\" alt=\"\" />\n",
 				"date_published": "2020-12-03T02:01:09+01:00",
 				"url": "https://kevin.oh.mg/2020/12/03/looks-like-ive.html"
 			},
@@ -2908,8 +3012,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/11/27/im-loving-this.html",
 				
-				"content_html": "<p>I&rsquo;m loving this gemini / html generator, it&rsquo;s making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don&rsquo;t think that&rsquo;s doable as of yet <a href=\"https://oh.mg/journal/moving-them-domains/\">Journal Post</a></p>\n\n<p><img src=\"uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" /></p>\n",
-				"content_text": "I'm loving this gemini / html generator, it's making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don't think that's doable as of yet [Journal Post](https://oh.mg/journal/moving-them-domains/)\n\n<img src=\"uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m loving this gemini / html generator, it&rsquo;s making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don&rsquo;t think that&rsquo;s doable as of yet <a href=\"https://oh.mg/journal/moving-them-domains/\">Journal Post</a></p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" /></p>\n",
+				"content_text": "I'm loving this gemini / html generator, it's making my life more easy and pushing out a very might weight version of the website I want.  It would be nice to be able to automatically generate the content for a gopher server, but I don't think that's doable as of yet [Journal Post](https://oh.mg/journal/moving-them-domains/)\n\n<img src=\"https://kevin.oh.mg/uploads/2020/9258487066.png\" width=\"600\" height=\"499\" alt=\"\" />\n",
 				"date_published": "2020-11-27T02:50:40+01:00",
 				"url": "https://kevin.oh.mg/2020/11/27/im-loving-this.html"
 			},
@@ -2996,8 +3100,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/11/17/tikka-masala-was.html",
 				
-				"content_html": "<p>Tikka Masala was a success, but it needed some fresh chilli. Learned for next time</p>\n\n<p><img src=\"uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tikka Masala was a success, but it needed some fresh chilli. Learned for next time\n\n<img src=\"uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tikka Masala was a success, but it needed some fresh chilli. Learned for next time</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tikka Masala was a success, but it needed some fresh chilli. Learned for next time\n\n<img src=\"https://kevin.oh.mg/uploads/2020/51efda7aca.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-17T21:04:38+01:00",
 				"url": "https://kevin.oh.mg/2020/11/17/tikka-masala-was.html"
 			},
@@ -3375,8 +3479,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/09/12/there-were-many.html",
 				
-				"content_html": "<p>There were many stairs, but when admission is 11€50, you do them all</p>\n\n<p><img src=\"uploads/2020/b1b6e854f9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "There were many stairs, but when admission is 11€50, you do them all\n\n<img src=\"uploads/2020/b1b6e854f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>There were many stairs, but when admission is 11€50, you do them all</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/b1b6e854f9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "There were many stairs, but when admission is 11€50, you do them all\n\n<img src=\"https://kevin.oh.mg/uploads/2020/b1b6e854f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-09-12T15:08:44+01:00",
 				"url": "https://kevin.oh.mg/2020/09/12/there-were-many.html"
 			},
@@ -3503,8 +3607,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/08/07/i-call-this.html",
 				
-				"content_html": "<p>I call this one Shitty Kitty Cam</p>\n\n<p><img src=\"uploads/2020/f11a96eb80.jpg\" width=\"600\" height=\"276\" alt=\"\" /></p>\n",
-				"content_text": "I call this one Shitty Kitty Cam\n\n<img src=\"uploads/2020/f11a96eb80.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_html": "<p>I call this one Shitty Kitty Cam</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/f11a96eb80.jpg\" width=\"600\" height=\"276\" alt=\"\" /></p>\n",
+				"content_text": "I call this one Shitty Kitty Cam\n\n<img src=\"https://kevin.oh.mg/uploads/2020/f11a96eb80.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2020-08-07T16:15:11+01:00",
 				"url": "https://kevin.oh.mg/2020/08/07/i-call-this.html"
 			},
@@ -3519,16 +3623,16 @@
 			{
 				"id": "http://mmn.micro.blog/2020/08/02/mbaug-blast-from.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html\">#mbaug</a> Blast from the past, Bristol 2012</p>\n\n<p><img src=\"uploads/2020/7a722f57d1.jpg\" width=\"600\" height=\"448\" alt=\"\" /></p>\n",
-				"content_text": "[#mbaug](https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html) Blast from the past, Bristol 2012\n\n<img src=\"uploads/2020/7a722f57d1.jpg\" width=\"600\" height=\"448\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html\">#mbaug</a> Blast from the past, Bristol 2012</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/7a722f57d1.jpg\" width=\"600\" height=\"448\" alt=\"\" /></p>\n",
+				"content_text": "[#mbaug](https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html) Blast from the past, Bristol 2012\n\n<img src=\"https://kevin.oh.mg/uploads/2020/7a722f57d1.jpg\" width=\"600\" height=\"448\" alt=\"\" />\n",
 				"date_published": "2020-08-02T16:11:18+01:00",
 				"url": "https://kevin.oh.mg/2020/08/02/mbaug-blast-from.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/08/01/this-mbaug-is.html",
 				
-				"content_html": "<p>This #mbaug is perfect for little madame, it&rsquo;s her favourite looking direction 🐦</p>\n\n<p><img src=\"uploads/2020/fa1443192b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This #mbaug is perfect for little madame, it's her favourite looking direction 🐦\n\n<img src=\"uploads/2020/fa1443192b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This #mbaug is perfect for little madame, it&rsquo;s her favourite looking direction 🐦</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/fa1443192b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This #mbaug is perfect for little madame, it's her favourite looking direction 🐦\n\n<img src=\"https://kevin.oh.mg/uploads/2020/fa1443192b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-01T15:28:17+01:00",
 				"url": "https://kevin.oh.mg/2020/08/01/this-mbaug-is.html"
 			},
@@ -3559,8 +3663,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/07/19/window-latch-roblem.html",
 				
-				"content_html": "<p>Window latch problem solved today, I also cleaned out what could be another cat entirely out of the clim so it will now breathe better and chill like it&rsquo;s got Netflix.  I had to chisel out 60 years of paint from the window lock and it&rsquo;s screws.  I&rsquo;m sure I have lead poisoning ¯_(ツ)_/¯</p>\n\n<p><img src=\"uploads/2020/d15d50e7a3.jpg\" width=\"288\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Window latch problem solved today, I also cleaned out what could be another cat entirely out of the clim so it will now breathe better and chill like it's got Netflix.  I had to chisel out 60 years of paint from the window lock and it's screws.  I'm sure I have lead poisoning ¯\\_(ツ)_/¯\n\n<img src=\"uploads/2020/d15d50e7a3.jpg\" width=\"288\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Window latch problem solved today, I also cleaned out what could be another cat entirely out of the clim so it will now breathe better and chill like it&rsquo;s got Netflix.  I had to chisel out 60 years of paint from the window lock and it&rsquo;s screws.  I&rsquo;m sure I have lead poisoning ¯_(ツ)_/¯</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/d15d50e7a3.jpg\" width=\"288\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Window latch problem solved today, I also cleaned out what could be another cat entirely out of the clim so it will now breathe better and chill like it's got Netflix.  I had to chisel out 60 years of paint from the window lock and it's screws.  I'm sure I have lead poisoning ¯\\_(ツ)_/¯\n\n<img src=\"https://kevin.oh.mg/uploads/2020/d15d50e7a3.jpg\" width=\"288\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-19T15:00:00+01:00",
 				"url": "https://kevin.oh.mg/2020/07/19/window-latch-roblem.html",
 				"tags": ["catladywoes"]
@@ -3592,8 +3696,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/07/18/i-should-really.html",
 				
-				"content_html": "<p>I should really be doing <a href=\"https://mmn.lgbt/2020/07/17/i-have-found.html\">real world things</a>, but here I find myself wrapped up in the digital world and watching the <a href=\"https://fr.wikipedia.org/wiki/Le_Tueur_du_vendredi\">concequences of premarital sex</a></p>\n\n<p><img src=\"uploads/2020/36f9e92973.png\" width=\"561\" height=\"324\" alt=\"\" /></p>\n",
-				"content_text": "I should really be doing [real world things](https://mmn.lgbt/2020/07/17/i-have-found.html), but here I find myself wrapped up in the digital world and watching the [concequences of premarital sex](https://fr.wikipedia.org/wiki/Le_Tueur_du_vendredi) \n\n<img src=\"uploads/2020/36f9e92973.png\" width=\"561\" height=\"324\" alt=\"\" />\n",
+				"content_html": "<p>I should really be doing <a href=\"https://mmn.lgbt/2020/07/17/i-have-found.html\">real world things</a>, but here I find myself wrapped up in the digital world and watching the <a href=\"https://fr.wikipedia.org/wiki/Le_Tueur_du_vendredi\">concequences of premarital sex</a></p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/36f9e92973.png\" width=\"561\" height=\"324\" alt=\"\" /></p>\n",
+				"content_text": "I should really be doing [real world things](https://mmn.lgbt/2020/07/17/i-have-found.html), but here I find myself wrapped up in the digital world and watching the [concequences of premarital sex](https://fr.wikipedia.org/wiki/Le_Tueur_du_vendredi) \n\n<img src=\"https://kevin.oh.mg/uploads/2020/36f9e92973.png\" width=\"561\" height=\"324\" alt=\"\" />\n",
 				"date_published": "2020-07-18T16:31:02+01:00",
 				"url": "https://kevin.oh.mg/2020/07/18/i-should-really.html"
 			},
@@ -3640,24 +3744,24 @@
 			{
 				"id": "http://mmn.micro.blog/2020/07/04/in-to-get.html",
 				
-				"content_html": "<p>In 2020 to get a single viagra spam in the slew of Coronaspam reminds me of the good old days</p>\n\n<p><img src=\"uploads/2020/290fb591bc.png\" width=\"600\" height=\"132\" alt=\"\" /></p>\n",
-				"content_text": "In 2020 to get a single viagra spam in the slew of Coronaspam reminds me of the good old days\n\n<img src=\"uploads/2020/290fb591bc.png\" width=\"600\" height=\"132\" alt=\"\" />\n",
+				"content_html": "<p>In 2020 to get a single viagra spam in the slew of Coronaspam reminds me of the good old days</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/290fb591bc.png\" width=\"600\" height=\"132\" alt=\"\" /></p>\n",
+				"content_text": "In 2020 to get a single viagra spam in the slew of Coronaspam reminds me of the good old days\n\n<img src=\"https://kevin.oh.mg/uploads/2020/290fb591bc.png\" width=\"600\" height=\"132\" alt=\"\" />\n",
 				"date_published": "2020-07-04T20:10:00+01:00",
 				"url": "https://kevin.oh.mg/2020/07/04/in-to-get.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/07/03/a-sneak-peak.html",
 				
-				"content_html": "<p>A sneak peak of the old server farm :\nTop : mailcow\nMiddle : WildDuck\nBottom : BBS</p>\n\n<p><img src=\"uploads/2020/228fcbbc71.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "A sneak peak of the old server farm :\nTop : mailcow\nMiddle : WildDuck\nBottom : BBS\n\n<img src=\"uploads/2020/228fcbbc71.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>A sneak peak of the old server farm :\nTop : mailcow\nMiddle : WildDuck\nBottom : BBS</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/228fcbbc71.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A sneak peak of the old server farm :\nTop : mailcow\nMiddle : WildDuck\nBottom : BBS\n\n<img src=\"https://kevin.oh.mg/uploads/2020/228fcbbc71.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-07-03T19:38:37+01:00",
 				"url": "https://kevin.oh.mg/2020/07/03/a-sneak-peak.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/07/03/trying-out-mailcowemail.html",
 				
-				"content_html": "<p>Trying out mailcow.email on an older server, it&rsquo;s got some good points but not as easy to pgp encrypt all incoming emails like wildduck.email</p>\n\n<p><img src=\"uploads/2020/09d036ad15.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Trying out mailcow.email on an older server, it's got some good points but not as easy to pgp encrypt all incoming emails like wildduck.email\n\n<img src=\"uploads/2020/09d036ad15.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Trying out mailcow.email on an older server, it&rsquo;s got some good points but not as easy to pgp encrypt all incoming emails like wildduck.email</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/09d036ad15.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Trying out mailcow.email on an older server, it's got some good points but not as easy to pgp encrypt all incoming emails like wildduck.email\n\n<img src=\"https://kevin.oh.mg/uploads/2020/09d036ad15.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-03T18:56:51+01:00",
 				"url": "https://kevin.oh.mg/2020/07/03/trying-out-mailcowemail.html"
 			},
@@ -3680,16 +3784,16 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/30/of-course-the.html",
 				
-				"content_html": "<p>Of course the image didn&rsquo;t quite upload&hellip;</p>\n\n<p><img src=\"uploads/2020/d56bddee40.png\" width=\"316\" height=\"379\" alt=\"\" /></p>\n",
-				"content_text": "Of course the image didn't quite upload...\n\n<img src=\"uploads/2020/d56bddee40.png\" width=\"316\" height=\"379\" alt=\"\" />\n",
+				"content_html": "<p>Of course the image didn&rsquo;t quite upload&hellip;</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/d56bddee40.png\" width=\"316\" height=\"379\" alt=\"\" /></p>\n",
+				"content_text": "Of course the image didn't quite upload...\n\n<img src=\"https://kevin.oh.mg/uploads/2020/d56bddee40.png\" width=\"316\" height=\"379\" alt=\"\" />\n",
 				"date_published": "2020-06-30T20:44:02+01:00",
 				"url": "https://kevin.oh.mg/2020/06/30/of-course-the.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/06/30/its-pride-week.html",
 				
-				"content_html": "<p>It&rsquo;s pride week, so I re-registered mmn.lgbt and decided to rename the computer the BBS is hosted on.  Forever in your email headers :</p>\n\n<p>Received: from core-mec03.mmn.lgbt (core-mec03.mmn.lgbt [192.168.0.20])</p>\n\n<p><img src=\"uploads/2020/310fbca807.png\" width=\"316\" height=\"379\" alt=\"\" /></p>\n",
-				"content_text": "It's pride week, so I re-registered mmn.lgbt and decided to rename the computer the BBS is hosted on.  Forever in your email headers :\n\nReceived: from core-mec03.mmn.lgbt (core-mec03.mmn.lgbt [192.168.0.20])\n\n<img src=\"uploads/2020/310fbca807.png\" width=\"316\" height=\"379\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s pride week, so I re-registered mmn.lgbt and decided to rename the computer the BBS is hosted on.  Forever in your email headers :</p>\n\n<p>Received: from core-mec03.mmn.lgbt (core-mec03.mmn.lgbt [192.168.0.20])</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/310fbca807.png\" width=\"316\" height=\"379\" alt=\"\" /></p>\n",
+				"content_text": "It's pride week, so I re-registered mmn.lgbt and decided to rename the computer the BBS is hosted on.  Forever in your email headers :\n\nReceived: from core-mec03.mmn.lgbt (core-mec03.mmn.lgbt [192.168.0.20])\n\n<img src=\"https://kevin.oh.mg/uploads/2020/310fbca807.png\" width=\"316\" height=\"379\" alt=\"\" />\n",
 				"date_published": "2020-06-30T20:31:27+01:00",
 				"url": "https://kevin.oh.mg/2020/06/30/its-pride-week.html"
 			},
@@ -3736,8 +3840,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/20/meanwhile-kaja-just.html",
 				
-				"content_html": "<p>Meanwhile Kaja just be chillin&rsquo;</p>\n\n<p><img src=\"uploads/2020/2d341ac339.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Meanwhile Kaja just be chillin'\n\n<img src=\"uploads/2020/2d341ac339.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Meanwhile Kaja just be chillin&rsquo;</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/2d341ac339.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Meanwhile Kaja just be chillin'\n\n<img src=\"https://kevin.oh.mg/uploads/2020/2d341ac339.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-20T18:26:38+01:00",
 				"url": "https://kevin.oh.mg/2020/06/20/meanwhile-kaja-just.html",
 				"tags": ["catladywoes"]
@@ -3761,8 +3865,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/20/my-birthday-it.html",
 				
-				"content_html": "<p>My birthday it is not, like not even close, and @fitbit has been spamming me in English and in French about some fathers day offer, discounted delivery or something, rather obnoxious.  It really is just like a crazy ex filling your mailbox with REMEMBER I&rsquo;M HERE.</p>\n\n<p><img src=\"uploads/2020/ebdad32224.png\" width=\"310\" height=\"107\" alt=\"\" /></p>\n",
-				"content_text": "My birthday it is not, like not even close, and @fitbit has been spamming me in English and in French about some fathers day offer, discounted delivery or something, rather obnoxious.  It really is just like a crazy ex filling your mailbox with REMEMBER I'M HERE.\n\n<img src=\"uploads/2020/ebdad32224.png\" width=\"310\" height=\"107\" alt=\"\" />\n",
+				"content_html": "<p>My birthday it is not, like not even close, and @fitbit has been spamming me in English and in French about some fathers day offer, discounted delivery or something, rather obnoxious.  It really is just like a crazy ex filling your mailbox with REMEMBER I&rsquo;M HERE.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/ebdad32224.png\" width=\"310\" height=\"107\" alt=\"\" /></p>\n",
+				"content_text": "My birthday it is not, like not even close, and @fitbit has been spamming me in English and in French about some fathers day offer, discounted delivery or something, rather obnoxious.  It really is just like a crazy ex filling your mailbox with REMEMBER I'M HERE.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/ebdad32224.png\" width=\"310\" height=\"107\" alt=\"\" />\n",
 				"date_published": "2020-06-20T10:08:40+01:00",
 				"url": "https://kevin.oh.mg/2020/06/20/my-birthday-it.html"
 			},
@@ -3825,8 +3929,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/13/the-whole-computer.html",
 				
-				"content_html": "<p>The whole computer noped out earlier on VNC as well, so I had to bring up backup interface TV 😅</p>\n\n<p><img src=\"uploads/2020/dba09c58bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "The whole computer noped out earlier on VNC as well, so I had to bring up backup interface TV 😅\n\n<img src=\"uploads/2020/dba09c58bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>The whole computer noped out earlier on VNC as well, so I had to bring up backup interface TV 😅</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/dba09c58bf.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The whole computer noped out earlier on VNC as well, so I had to bring up backup interface TV 😅\n\n<img src=\"https://kevin.oh.mg/uploads/2020/dba09c58bf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-06-13T11:16:38+01:00",
 				"url": "https://kevin.oh.mg/2020/06/13/the-whole-computer.html"
 			},
@@ -3881,8 +3985,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/07/shes-hunting-a.html",
 				
-				"content_html": "<p>She&rsquo;s hunting a bird in the tree, hiding behind the cat grass</p>\n\n<p><img src=\"uploads/2020/93b19536d9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "She's hunting a bird in the tree, hiding behind the cat grass\n\n<img src=\"uploads/2020/93b19536d9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>She&rsquo;s hunting a bird in the tree, hiding behind the cat grass</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/93b19536d9.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "She's hunting a bird in the tree, hiding behind the cat grass\n\n<img src=\"https://kevin.oh.mg/uploads/2020/93b19536d9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-06-07T13:10:50+01:00",
 				"url": "https://kevin.oh.mg/2020/06/07/shes-hunting-a.html"
 			},
@@ -3897,8 +4001,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/06/in-other-news.html",
 				
-				"content_html": "<p>In other news, this is a photo of the little lady I took last night.  Adorbs.</p>\n\n<p><img src=\"uploads/2020/6e28216192.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "In other news, this is a photo of the little lady I took last night.  Adorbs.\n\n<img src=\"uploads/2020/6e28216192.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>In other news, this is a photo of the little lady I took last night.  Adorbs.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/6e28216192.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "In other news, this is a photo of the little lady I took last night.  Adorbs.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/6e28216192.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-06-06T16:34:04+01:00",
 				"url": "https://kevin.oh.mg/2020/06/06/in-other-news.html"
 			},
@@ -3913,8 +4017,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/06/06/some-jackass-got.html",
 				
-				"content_html": "<p>Some jackass got ml.gy flagged for malware and only two subdomains were ever flagged for SPAM by FreeDNS.  Thanks Google, thanks douchebag SPAM jerks 👍 now just waiting for the site to be reviewed</p>\n\n<p><img src=\"uploads/2020/d43d3582ea.png\" width=\"600\" height=\"287\" alt=\"\" /></p>\n",
-				"content_text": "Some jackass got ml.gy flagged for malware and only two subdomains were ever flagged for SPAM by FreeDNS.  Thanks Google, thanks douchebag SPAM jerks 👍 now just waiting for the site to be reviewed\n\n<img src=\"uploads/2020/d43d3582ea.png\" width=\"600\" height=\"287\" alt=\"\" />\n",
+				"content_html": "<p>Some jackass got ml.gy flagged for malware and only two subdomains were ever flagged for SPAM by FreeDNS.  Thanks Google, thanks douchebag SPAM jerks 👍 now just waiting for the site to be reviewed</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/d43d3582ea.png\" width=\"600\" height=\"287\" alt=\"\" /></p>\n",
+				"content_text": "Some jackass got ml.gy flagged for malware and only two subdomains were ever flagged for SPAM by FreeDNS.  Thanks Google, thanks douchebag SPAM jerks 👍 now just waiting for the site to be reviewed\n\n<img src=\"https://kevin.oh.mg/uploads/2020/d43d3582ea.png\" width=\"600\" height=\"287\" alt=\"\" />\n",
 				"date_published": "2020-06-06T16:16:07+01:00",
 				"url": "https://kevin.oh.mg/2020/06/06/some-jackass-got.html"
 			},
@@ -3986,8 +4090,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/24/all-her-things.html",
 				
-				"content_html": "<p>All her things outside today so she can enjoy the weather</p>\n\n<p><img src=\"uploads/2020/8c88ba6fbd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "All her things outside today so she can enjoy the weather\n\n<img src=\"uploads/2020/8c88ba6fbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>All her things outside today so she can enjoy the weather</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/8c88ba6fbd.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "All her things outside today so she can enjoy the weather\n\n<img src=\"https://kevin.oh.mg/uploads/2020/8c88ba6fbd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-24T12:45:41+01:00",
 				"url": "https://kevin.oh.mg/2020/05/24/all-her-things.html"
 			},
@@ -4012,8 +4116,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/23/her-majesty-is.html",
 				
-				"content_html": "<p>Her Majesty is having a nice little afternoon</p>\n\n<p><img src=\"uploads/2020/1d2b80f69e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Her Majesty is having a nice little afternoon\n\n<img src=\"uploads/2020/1d2b80f69e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Her Majesty is having a nice little afternoon</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/1d2b80f69e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Her Majesty is having a nice little afternoon\n\n<img src=\"https://kevin.oh.mg/uploads/2020/1d2b80f69e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-23T13:48:10+01:00",
 				"url": "https://kevin.oh.mg/2020/05/23/her-majesty-is.html"
 			},
@@ -4028,8 +4132,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/17/me-make-one.html",
 				
-				"content_html": "<p>Me : Make one small error on a URL in config.toml.\nHugo for the 8th time in the last hour :</p>\n\n<p><img src=\"uploads/2020/9531b5a6da.png\" width=\"203\" height=\"173\" alt=\"\" /></p>\n",
-				"content_text": "Me : Make one small error on a URL in config.toml.\nHugo for the 8th time in the last hour :\n\n<img src=\"uploads/2020/9531b5a6da.png\" width=\"203\" height=\"173\" alt=\"\" />\n",
+				"content_html": "<p>Me : Make one small error on a URL in config.toml.\nHugo for the 8th time in the last hour :</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/9531b5a6da.png\" width=\"203\" height=\"173\" alt=\"\" /></p>\n",
+				"content_text": "Me : Make one small error on a URL in config.toml.\nHugo for the 8th time in the last hour :\n\n<img src=\"https://kevin.oh.mg/uploads/2020/9531b5a6da.png\" width=\"203\" height=\"173\" alt=\"\" />\n",
 				"date_published": "2020-05-17T03:15:28+01:00",
 				"url": "https://kevin.oh.mg/2020/05/17/me-make-one.html"
 			},
@@ -4052,8 +4156,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/17/micro-challenge-barrio.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 7/7 - Barrio Gótico, Barcelona (Catalunya) 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/0b78038dcb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 7/7 - Barrio Gótico, Barcelona (Catalunya) 📷🌈 #mbmay\n\n<img src=\"uploads/2020/0b78038dcb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 7/7 - Barrio Gótico, Barcelona (Catalunya) 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/0b78038dcb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 7/7 - Barrio Gótico, Barcelona (Catalunya) 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/0b78038dcb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-16T23:38:10+01:00",
 				"url": "https://kevin.oh.mg/2020/05/17/micro-challenge-barrio.html",
 				"tags": ["Micro Challenge"]
@@ -4077,8 +4181,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/16/micro-challenge-el.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 6/7 - El Poblenou, Barcelona (Catalunya) 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/f465d88d92.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 6/7 - El Poblenou, Barcelona (Catalunya) 📷🌈 #mbmay\n\n<img src=\"uploads/2020/f465d88d92.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 6/7 - El Poblenou, Barcelona (Catalunya) 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/f465d88d92.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 6/7 - El Poblenou, Barcelona (Catalunya) 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/f465d88d92.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-16T14:34:17+01:00",
 				"url": "https://kevin.oh.mg/2020/05/16/micro-challenge-el.html",
 				"tags": ["Micro Challenge"]
@@ -4086,16 +4190,16 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/15/be-like.html",
 				
-				"content_html": "<p>2021 be like&hellip;</p>\n\n<p><img src=\"uploads/2020/915e070b39.png\" width=\"321\" height=\"232\" alt=\"\" /></p>\n",
-				"content_text": "2021 be like...\n\n<img src=\"uploads/2020/915e070b39.png\" width=\"321\" height=\"232\" alt=\"\" />\n",
+				"content_html": "<p>2021 be like&hellip;</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/915e070b39.png\" width=\"321\" height=\"232\" alt=\"\" /></p>\n",
+				"content_text": "2021 be like...\n\n<img src=\"https://kevin.oh.mg/uploads/2020/915e070b39.png\" width=\"321\" height=\"232\" alt=\"\" />\n",
 				"date_published": "2020-05-15T22:29:10+01:00",
 				"url": "https://kevin.oh.mg/2020/05/15/be-like.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/15/micro-challenge-mairie.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 5/7 - Mairie de Dhuizon (41) 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/883a1df744.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 5/7 - Mairie de Dhuizon (41) 🇫🇷 📷🌈 #mbmay\n\n<img src=\"uploads/2020/883a1df744.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 5/7 - Mairie de Dhuizon (41) 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/883a1df744.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 5/7 - Mairie de Dhuizon (41) 🇫🇷 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/883a1df744.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-15T03:25:48+01:00",
 				"url": "https://kevin.oh.mg/2020/05/15/micro-challenge-mairie.html",
 				"tags": ["Micro Challenge"]
@@ -4119,8 +4223,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/14/micro-challenge-chteau.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 4/7 - Château de Chambord 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/3bdb9a74c5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 4/7 - Château de Chambord 🇫🇷 📷🌈 #mbmay\n\n<img src=\"uploads/2020/3bdb9a74c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 4/7 - Château de Chambord 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/3bdb9a74c5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 4/7 - Château de Chambord 🇫🇷 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/3bdb9a74c5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-14T02:12:21+01:00",
 				"url": "https://kevin.oh.mg/2020/05/14/micro-challenge-chteau.html",
 				"tags": ["Micro Challenge"]
@@ -4128,8 +4232,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/13/micro-challenge-kick.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 3/7 - Kick back to 2017 (Paris 2ème) 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/7339484648.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 3/7 - Kick back to 2017 (Paris 2ème) 🇫🇷 📷🌈 #mbmay\n\n<img src=\"uploads/2020/7339484648.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 3/7 - Kick back to 2017 (Paris 2ème) 🇫🇷 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/7339484648.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 3/7 - Kick back to 2017 (Paris 2ème) 🇫🇷 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/7339484648.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-13T01:22:31+01:00",
 				"url": "https://kevin.oh.mg/2020/05/13/micro-challenge-kick.html",
 				"tags": ["Micro Challenge"]
@@ -4137,16 +4241,16 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/12/still-awake-so.html",
 				
-				"content_html": "<p>Still awake so I did some terrible ASCII art for one of the HELLO.BBS screens #port70</p>\n\n<p><img src=\"uploads/2020/7792d1b61d.png\" width=\"600\" height=\"370\" alt=\"\" /></p>\n",
-				"content_text": "Still awake so I did some terrible ASCII art for one of the HELLO.BBS screens #port70\n\n<img src=\"uploads/2020/7792d1b61d.png\" width=\"600\" height=\"370\" alt=\"\" />\n",
+				"content_html": "<p>Still awake so I did some terrible ASCII art for one of the HELLO.BBS screens #port70</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/7792d1b61d.png\" width=\"600\" height=\"370\" alt=\"\" /></p>\n",
+				"content_text": "Still awake so I did some terrible ASCII art for one of the HELLO.BBS screens #port70\n\n<img src=\"https://kevin.oh.mg/uploads/2020/7792d1b61d.png\" width=\"600\" height=\"370\" alt=\"\" />\n",
 				"date_published": "2020-05-12T03:35:24+01:00",
 				"url": "https://kevin.oh.mg/2020/05/12/still-awake-so.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/12/micro-challenge-oslo.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 2/7 - Oslo (again) 🇳🇴 📷🌈 #mbmay</p>\n\n<p><img src=\"uploads/2020/8e95e70775.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 2/7 - Oslo (again) 🇳🇴 📷🌈 #mbmay\n\n<img src=\"uploads/2020/8e95e70775.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2020/05/11/weve-entered-the.html\">Micro Challenge</a> 2/7 - Oslo (again) 🇳🇴 📷🌈 #mbmay</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/8e95e70775.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "[Micro Challenge](https://micro.welltempered.net/2020/05/11/weve-entered-the.html) 2/7 - Oslo (again) 🇳🇴 📷🌈 #mbmay\n\n<img src=\"https://kevin.oh.mg/uploads/2020/8e95e70775.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-12T02:26:57+01:00",
 				"url": "https://kevin.oh.mg/2020/05/12/micro-challenge-oslo.html",
 				"tags": ["Micro Challenge"]
@@ -4154,8 +4258,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/11/micro-challenge-oslo.html",
 				
-				"content_html": "<p>📷 Micro Challenge - Oslo 🇳🇴</p>\n\n<p><img src=\"uploads/2020/b65810ae3d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 Micro Challenge - Oslo 🇳🇴\n\n<img src=\"uploads/2020/b65810ae3d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 Micro Challenge - Oslo 🇳🇴</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/b65810ae3d.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Micro Challenge - Oslo 🇳🇴\n\n<img src=\"https://kevin.oh.mg/uploads/2020/b65810ae3d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-11T18:47:51+01:00",
 				"url": "https://kevin.oh.mg/2020/05/11/micro-challenge-oslo.html",
 				"tags": ["Micro Challenge"]
@@ -4163,16 +4267,16 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/09/and-if-she.html",
 				
-				"content_html": "<p>And if she thinks she&rsquo;s not under constant supervision, she is wrong</p>\n\n<p><img src=\"uploads/2020/469c10681f.png\" width=\"179\" height=\"150\" alt=\"\" /></p>\n",
-				"content_text": "And if she thinks she's not under constant supervision, she is wrong\n\n<img src=\"uploads/2020/469c10681f.png\" width=\"179\" height=\"150\" alt=\"\" />\n",
+				"content_html": "<p>And if she thinks she&rsquo;s not under constant supervision, she is wrong</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/469c10681f.png\" width=\"179\" height=\"150\" alt=\"\" /></p>\n",
+				"content_text": "And if she thinks she's not under constant supervision, she is wrong\n\n<img src=\"https://kevin.oh.mg/uploads/2020/469c10681f.png\" width=\"179\" height=\"150\" alt=\"\" />\n",
 				"date_published": "2020-05-09T09:14:16+01:00",
 				"url": "https://kevin.oh.mg/2020/05/09/and-if-she.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/09/her-second-outdoor.html",
 				
-				"content_html": "<p>Her second outdoor ban (heat cycle) has been lifted, and already she&rsquo;s looking to start shit with the local wildlife</p>\n\n<p><img src=\"uploads/2020/3c0e82fdf0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Her second outdoor ban (heat cycle) has been lifted, and already she's looking to start shit with the local wildlife\n\n<img src=\"uploads/2020/3c0e82fdf0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Her second outdoor ban (heat cycle) has been lifted, and already she&rsquo;s looking to start shit with the local wildlife</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/3c0e82fdf0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Her second outdoor ban (heat cycle) has been lifted, and already she's looking to start shit with the local wildlife\n\n<img src=\"https://kevin.oh.mg/uploads/2020/3c0e82fdf0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-09T09:10:35+01:00",
 				"url": "https://kevin.oh.mg/2020/05/09/her-second-outdoor.html"
 			},
@@ -4195,32 +4299,32 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/08/always-watching-something.html",
 				
-				"content_html": "<p>Always watching something this one</p>\n\n<p><img src=\"uploads/2020/0ce2c10aa6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Always watching something this one\n\n<img src=\"uploads/2020/0ce2c10aa6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Always watching something this one</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/0ce2c10aa6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Always watching something this one\n\n<img src=\"https://kevin.oh.mg/uploads/2020/0ce2c10aa6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-08T19:53:53+01:00",
 				"url": "https://kevin.oh.mg/2020/05/08/always-watching-something.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/08/cat-corner-is.html",
 				
-				"content_html": "<p>Cat corner is a success, finally something she likes</p>\n\n<p><img src=\"uploads/2020/6adea3581e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Cat corner is a success, finally something she likes\n\n<img src=\"uploads/2020/6adea3581e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Cat corner is a success, finally something she likes</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/6adea3581e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Cat corner is a success, finally something she likes\n\n<img src=\"https://kevin.oh.mg/uploads/2020/6adea3581e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-08T19:46:24+01:00",
 				"url": "https://kevin.oh.mg/2020/05/08/cat-corner-is.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/08/thanks-amazon.html",
 				
-				"content_html": "<p>Thanks Amazon 👏</p>\n\n<p><img src=\"uploads/2020/37adfeb1e1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/2e7fa4b331.jpg\" width=\"600\" height=\"288\" alt=\"\" /><img src=\"uploads/2020/67d26c2a6d.jpg\" width=\"600\" height=\"288\" alt=\"\" /></p>\n",
-				"content_text": "Thanks Amazon 👏\n\n<img src=\"uploads/2020/37adfeb1e1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/2e7fa4b331.jpg\" width=\"600\" height=\"288\" alt=\"\" /><img src=\"uploads/2020/67d26c2a6d.jpg\" width=\"600\" height=\"288\" alt=\"\" />\n",
+				"content_html": "<p>Thanks Amazon 👏</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/37adfeb1e1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://kevin.oh.mg/uploads/2020/2e7fa4b331.jpg\" width=\"600\" height=\"288\" alt=\"\" /><img src=\"https://kevin.oh.mg/uploads/2020/67d26c2a6d.jpg\" width=\"600\" height=\"288\" alt=\"\" /></p>\n",
+				"content_text": "Thanks Amazon 👏\n\n<img src=\"https://kevin.oh.mg/uploads/2020/37adfeb1e1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://kevin.oh.mg/uploads/2020/2e7fa4b331.jpg\" width=\"600\" height=\"288\" alt=\"\" /><img src=\"https://kevin.oh.mg/uploads/2020/67d26c2a6d.jpg\" width=\"600\" height=\"288\" alt=\"\" />\n",
 				"date_published": "2020-05-08T16:02:08+01:00",
 				"url": "https://kevin.oh.mg/2020/05/08/thanks-amazon.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/05/08/of-course-the.html",
 				
-				"content_html": "<p>Of course the teryaki sauce that wasn&rsquo;t cheap would do a spectacular swan dive from the top shelf.  I really don&rsquo;t want to have to go to the shop again tomorrow on the basis this fucked up my meal</p>\n\n<p><img src=\"uploads/2020/bd314d8bab.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Of course the teryaki sauce that wasn't cheap would do a spectacular swan dive from the top shelf.  I really don't want to have to go to the shop again tomorrow on the basis this fucked up my meal\n\n<img src=\"uploads/2020/bd314d8bab.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Of course the teryaki sauce that wasn&rsquo;t cheap would do a spectacular swan dive from the top shelf.  I really don&rsquo;t want to have to go to the shop again tomorrow on the basis this fucked up my meal</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/bd314d8bab.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Of course the teryaki sauce that wasn't cheap would do a spectacular swan dive from the top shelf.  I really don't want to have to go to the shop again tomorrow on the basis this fucked up my meal\n\n<img src=\"https://kevin.oh.mg/uploads/2020/bd314d8bab.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-08T01:02:30+01:00",
 				"url": "https://kevin.oh.mg/2020/05/08/of-course-the.html"
 			},
@@ -4235,8 +4339,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/06/i-also-forgot.html",
 				
-				"content_html": "<p>I also forgot to show the efforts of my early morning Marie Konto style re-organisation</p>\n\n<p><img src=\"uploads/2020/5a17b24b16.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I also forgot to show the efforts of my early morning Marie Konto style re-organisation\n\n<img src=\"uploads/2020/5a17b24b16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I also forgot to show the efforts of my early morning Marie Konto style re-organisation</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/5a17b24b16.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I also forgot to show the efforts of my early morning Marie Konto style re-organisation\n\n<img src=\"https://kevin.oh.mg/uploads/2020/5a17b24b16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-06T19:12:12+01:00",
 				"url": "https://kevin.oh.mg/2020/05/06/i-also-forgot.html"
 			},
@@ -4259,8 +4363,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/03/little-lady-got.html",
 				
-				"content_html": "<p>Little lady got her outdoor fountain, and privlidges to be outside again after the <em>incident</em>.  She seems to be enjoying herself, unaware that she has another toy coming soon</p>\n\n<p><img src=\"uploads/2020/25bcc79673.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Little lady got her outdoor fountain, and privlidges to be outside again after the *incident*.  She seems to be enjoying herself, unaware that she has another toy coming soon\n\n<img src=\"uploads/2020/25bcc79673.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Little lady got her outdoor fountain, and privlidges to be outside again after the <em>incident</em>.  She seems to be enjoying herself, unaware that she has another toy coming soon</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/25bcc79673.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Little lady got her outdoor fountain, and privlidges to be outside again after the *incident*.  She seems to be enjoying herself, unaware that she has another toy coming soon\n\n<img src=\"https://kevin.oh.mg/uploads/2020/25bcc79673.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-03T12:56:29+01:00",
 				"url": "https://kevin.oh.mg/2020/05/03/little-lady-got.html"
 			},
@@ -4275,8 +4379,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/05/03/another-year-another.html",
 				
-				"content_html": "<p>Another year, another greeting from my board ☺️</p>\n\n<p><img src=\"uploads/2020/81e489c870.png\" width=\"560\" height=\"337\" alt=\"\" /></p>\n",
-				"content_text": "Another year, another greeting from my board ☺️\n\n<img src=\"uploads/2020/81e489c870.png\" width=\"560\" height=\"337\" alt=\"\" />\n",
+				"content_html": "<p>Another year, another greeting from my board ☺️</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/81e489c870.png\" width=\"560\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "Another year, another greeting from my board ☺️\n\n<img src=\"https://kevin.oh.mg/uploads/2020/81e489c870.png\" width=\"560\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2020-05-03T07:34:11+01:00",
 				"url": "https://kevin.oh.mg/2020/05/03/another-year-another.html"
 			},
@@ -4397,8 +4501,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/17/time.html",
 				
-				"content_html": "<p>🍔 time</p>\n\n<p><img src=\"uploads/2020/1c771852d4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "🍔 time\n\n<img src=\"uploads/2020/1c771852d4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>🍔 time</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/1c771852d4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "🍔 time\n\n<img src=\"https://kevin.oh.mg/uploads/2020/1c771852d4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-17T19:17:57+01:00",
 				"url": "https://kevin.oh.mg/2020/04/17/time.html"
 			},
@@ -4421,8 +4525,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/14/i-can-clearly.html",
 				
-				"content_html": "<p>I can clearly still flip a 🍔</p>\n\n<p><img src=\"uploads/2020/800e1d876e.png\" width=\"385\" height=\"324\" alt=\"\" /></p>\n",
-				"content_text": "I can clearly still flip a 🍔\n\n<img src=\"uploads/2020/800e1d876e.png\" width=\"385\" height=\"324\" alt=\"\" />\n",
+				"content_html": "<p>I can clearly still flip a 🍔</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/800e1d876e.png\" width=\"385\" height=\"324\" alt=\"\" /></p>\n",
+				"content_text": "I can clearly still flip a 🍔\n\n<img src=\"https://kevin.oh.mg/uploads/2020/800e1d876e.png\" width=\"385\" height=\"324\" alt=\"\" />\n",
 				"date_published": "2020-04-14T17:07:51+01:00",
 				"url": "https://kevin.oh.mg/2020/04/14/i-can-clearly.html"
 			},
@@ -4518,8 +4622,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/10/i-also-gave.html",
 				
-				"content_html": "<p>I also gave Miss Katze another candle for her night garden, but it seems she&rsquo;d rather camp out on my bed instead&hellip;</p>\n\n<p><img src=\"uploads/2020/2729a9583b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I also gave Miss Katze another candle for her night garden, but it seems she'd rather camp out on my bed instead...\n\n<img src=\"uploads/2020/2729a9583b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I also gave Miss Katze another candle for her night garden, but it seems she&rsquo;d rather camp out on my bed instead&hellip;</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/2729a9583b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I also gave Miss Katze another candle for her night garden, but it seems she'd rather camp out on my bed instead...\n\n<img src=\"https://kevin.oh.mg/uploads/2020/2729a9583b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-10T20:22:01+01:00",
 				"url": "https://kevin.oh.mg/2020/04/10/i-also-gave.html"
 			},
@@ -4550,8 +4654,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/06/that-was-a.html",
 				
-				"content_html": "<p>That was a wild ride</p>\n\n<p><img src=\"uploads/2020/90a28111bc.jpg\" width=\"395\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "That was a wild ride\n\n<img src=\"uploads/2020/90a28111bc.jpg\" width=\"395\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>That was a wild ride</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/90a28111bc.jpg\" width=\"395\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "That was a wild ride\n\n<img src=\"https://kevin.oh.mg/uploads/2020/90a28111bc.jpg\" width=\"395\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-06T16:54:14+01:00",
 				"url": "https://kevin.oh.mg/2020/04/06/that-was-a.html"
 			},
@@ -4585,8 +4689,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/05/shes-just-doing.html",
 				
-				"content_html": "<p>She&rsquo;s just doing as she do 🐱</p>\n\n<p><img src=\"uploads/2020/1296b147fd.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "She's just doing as she do 🐱\n\n<img src=\"uploads/2020/1296b147fd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>She&rsquo;s just doing as she do 🐱</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/1296b147fd.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "She's just doing as she do 🐱\n\n<img src=\"https://kevin.oh.mg/uploads/2020/1296b147fd.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-05T11:06:52+01:00",
 				"url": "https://kevin.oh.mg/2020/04/05/shes-just-doing.html"
 			},
@@ -4625,24 +4729,24 @@
 			{
 				"id": "http://mmn.micro.blog/2020/04/03/avec-plus-des.html",
 				
-				"content_html": "<p>Avec plus des #hashtags : Cher Twittosphère, j’ai appelé de nombreux #tabacs dans la quartier et aucun ne répond, quelqu’un connaît-il un #tabac ouvert près de #Duroc (#Paris 6) par hasard ? Merci !</p>\n\n<p><img src=\"uploads/2020/3d6c0f663c.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Avec plus des #hashtags : Cher Twittosphère, j’ai appelé de nombreux #tabacs dans la quartier et aucun ne répond, quelqu’un connaît-il un #tabac ouvert près de #Duroc (#Paris 6) par hasard ? Merci !\n\n<img src=\"uploads/2020/3d6c0f663c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Avec plus des #hashtags : Cher Twittosphère, j’ai appelé de nombreux #tabacs dans la quartier et aucun ne répond, quelqu’un connaît-il un #tabac ouvert près de #Duroc (#Paris 6) par hasard ? Merci !</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/3d6c0f663c.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Avec plus des #hashtags : Cher Twittosphère, j’ai appelé de nombreux #tabacs dans la quartier et aucun ne répond, quelqu’un connaît-il un #tabac ouvert près de #Duroc (#Paris 6) par hasard ? Merci !\n\n<img src=\"https://kevin.oh.mg/uploads/2020/3d6c0f663c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-03T15:17:02+01:00",
 				"url": "https://kevin.oh.mg/2020/04/03/avec-plus-des.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/04/03/cher-twittosphre-jai.html",
 				
-				"content_html": "<p>Cher Twittosphère, J&rsquo;ai appelé de nombreux tabacs dans la quartier et aucun ne répond, quelqu&rsquo;un connaît-il un tabac ouvert près de #Duroc (Paris 6) par hasard ? Merci !</p>\n\n<p><img src=\"uploads/2020/ef4520f7f2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Cher Twittosphère, J'ai appelé de nombreux tabacs dans la quartier et aucun ne répond, quelqu'un connaît-il un tabac ouvert près de #Duroc (Paris 6) par hasard ? Merci !\n\n<img src=\"uploads/2020/ef4520f7f2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cher Twittosphère, J&rsquo;ai appelé de nombreux tabacs dans la quartier et aucun ne répond, quelqu&rsquo;un connaît-il un tabac ouvert près de #Duroc (Paris 6) par hasard ? Merci !</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/ef4520f7f2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cher Twittosphère, J'ai appelé de nombreux tabacs dans la quartier et aucun ne répond, quelqu'un connaît-il un tabac ouvert près de #Duroc (Paris 6) par hasard ? Merci !\n\n<img src=\"https://kevin.oh.mg/uploads/2020/ef4520f7f2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-03T15:13:10+01:00",
 				"url": "https://kevin.oh.mg/2020/04/03/cher-twittosphre-jai.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/04/01/obviously-one-crashes.html",
 				
-				"content_html": "<p>OBVIOUSLY ONE CRASHES OUT</p>\n\n<p><img src=\"uploads/2020/396df135c3.jpg\" width=\"314\" height=\"79\" alt=\"\" /></p>\n",
-				"content_text": "OBVIOUSLY ONE CRASHES OUT\n\n<img src=\"uploads/2020/396df135c3.jpg\" width=\"314\" height=\"79\" alt=\"\" />\n",
+				"content_html": "<p>OBVIOUSLY ONE CRASHES OUT</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/396df135c3.jpg\" width=\"314\" height=\"79\" alt=\"\" /></p>\n",
+				"content_text": "OBVIOUSLY ONE CRASHES OUT\n\n<img src=\"https://kevin.oh.mg/uploads/2020/396df135c3.jpg\" width=\"314\" height=\"79\" alt=\"\" />\n",
 				"date_published": "2020-04-01T19:51:11+01:00",
 				"url": "https://kevin.oh.mg/2020/04/01/obviously-one-crashes.html"
 			},
@@ -4699,40 +4803,40 @@
 			{
 				"id": "http://mmn.micro.blog/2020/03/20/i-might-be.html",
 				
-				"content_html": "<p>I might be going a tiny bit crazay #lockdown</p>\n\n<p><img src=\"uploads/2020/81fba9d37e.png\" width=\"600\" height=\"392\" alt=\"\" /></p>\n",
-				"content_text": "I might be going a tiny bit crazay #lockdown\n\n<img src=\"uploads/2020/81fba9d37e.png\" width=\"600\" height=\"392\" alt=\"\" />\n",
+				"content_html": "<p>I might be going a tiny bit crazay #lockdown</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/81fba9d37e.png\" width=\"600\" height=\"392\" alt=\"\" /></p>\n",
+				"content_text": "I might be going a tiny bit crazay #lockdown\n\n<img src=\"https://kevin.oh.mg/uploads/2020/81fba9d37e.png\" width=\"600\" height=\"392\" alt=\"\" />\n",
 				"date_published": "2020-03-20T13:05:58+01:00",
 				"url": "https://kevin.oh.mg/2020/03/20/i-might-be.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/03/18/at-least-somebody.html",
 				
-				"content_html": "<p>At least somebody can go outside</p>\n\n<p><img src=\"uploads/2020/f59a15dbd2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "At least somebody can go outside\n\n<img src=\"uploads/2020/f59a15dbd2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>At least somebody can go outside</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/f59a15dbd2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At least somebody can go outside\n\n<img src=\"https://kevin.oh.mg/uploads/2020/f59a15dbd2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-18T12:43:52+01:00",
 				"url": "https://kevin.oh.mg/2020/03/18/at-least-somebody.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/03/17/working-from-home.html",
 				
-				"content_html": "<p>Working from home has affected one of us more than the other</p>\n\n<p><img src=\"uploads/2020/71ba8eeea1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Working from home has affected one of us more than the other\n\n<img src=\"uploads/2020/71ba8eeea1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Working from home has affected one of us more than the other</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/71ba8eeea1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Working from home has affected one of us more than the other\n\n<img src=\"https://kevin.oh.mg/uploads/2020/71ba8eeea1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-03-17T16:25:50+01:00",
 				"url": "https://kevin.oh.mg/2020/03/17/working-from-home.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/03/17/helpful-tips-for.html",
 				
-				"content_html": "<p>Helpful tips for the next 15 days</p>\n\n<p><img src=\"uploads/2020/0e2a4a1441.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Helpful tips for the next 15 days\n\n<img src=\"uploads/2020/0e2a4a1441.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Helpful tips for the next 15 days</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/0e2a4a1441.jpg\" width=\"550\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Helpful tips for the next 15 days\n\n<img src=\"https://kevin.oh.mg/uploads/2020/0e2a4a1441.jpg\" width=\"550\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-17T10:57:54+01:00",
 				"url": "https://kevin.oh.mg/2020/03/17/helpful-tips-for.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/03/16/everybody-be-panic.html",
 				
-				"content_html": "<p>Everybody be panic buying toilet roll and pasta today.  People gotta calm the fuck down pls</p>\n\n<p><img src=\"uploads/2020/36446bf536.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Everybody be panic buying toilet roll and pasta today.  People gotta calm the fuck down pls\n\n<img src=\"uploads/2020/36446bf536.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Everybody be panic buying toilet roll and pasta today.  People gotta calm the fuck down pls</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/36446bf536.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Everybody be panic buying toilet roll and pasta today.  People gotta calm the fuck down pls\n\n<img src=\"https://kevin.oh.mg/uploads/2020/36446bf536.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-03-16T12:48:38+01:00",
 				"url": "https://kevin.oh.mg/2020/03/16/everybody-be-panic.html"
 			},
@@ -4755,8 +4859,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/03/14/when-we-said.html",
 				
-				"content_html": "<p>When we said goodbye to 🇳🇴 because of Covid-19.</p>\n\n<p><img src=\"uploads/2020/138d6e7348.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "When we said goodbye to 🇳🇴 because of Covid-19.\n\n<img src=\"uploads/2020/138d6e7348.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>When we said goodbye to 🇳🇴 because of Covid-19.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/138d6e7348.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "When we said goodbye to 🇳🇴 because of Covid-19.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/138d6e7348.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-14T18:50:17+01:00",
 				"url": "https://kevin.oh.mg/2020/03/14/when-we-said.html"
 			},
@@ -4771,8 +4875,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/03/05/free-single-handedly.html",
 				
-				"content_html": "<p>Free single handedly ruined my 100% uptime streak with 18 hours of downtime, Merci Free.</p>\n\n<p><img src=\"uploads/2020/2ea162b652.png\" width=\"600\" height=\"189\" alt=\"\" /></p>\n",
-				"content_text": "Free single handedly ruined my 100% uptime streak with 18 hours of downtime, Merci Free.\n\n<img src=\"uploads/2020/2ea162b652.png\" width=\"600\" height=\"189\" alt=\"\" />\n",
+				"content_html": "<p>Free single handedly ruined my 100% uptime streak with 18 hours of downtime, Merci Free.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/2ea162b652.png\" width=\"600\" height=\"189\" alt=\"\" /></p>\n",
+				"content_text": "Free single handedly ruined my 100% uptime streak with 18 hours of downtime, Merci Free.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/2ea162b652.png\" width=\"600\" height=\"189\" alt=\"\" />\n",
 				"date_published": "2020-03-05T08:18:18+01:00",
 				"url": "https://kevin.oh.mg/2020/03/05/free-single-handedly.html"
 			},
@@ -4795,8 +4899,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/03/04/my-bbs-and.html",
 				
-				"content_html": "<p>My BBS and gopher.is are down right now because my fibre doesn&rsquo;t seem to be working since earlier today 😒</p>\n\n<p><img src=\"uploads/2020/bc240cff47.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "My BBS and gopher.is are down right now because my fibre doesn't seem to be working since earlier today 😒\n\n<img src=\"uploads/2020/bc240cff47.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>My BBS and gopher.is are down right now because my fibre doesn&rsquo;t seem to be working since earlier today 😒</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/bc240cff47.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "My BBS and gopher.is are down right now because my fibre doesn't seem to be working since earlier today 😒\n\n<img src=\"https://kevin.oh.mg/uploads/2020/bc240cff47.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-03-04T22:46:09+01:00",
 				"url": "https://kevin.oh.mg/2020/03/04/my-bbs-and.html"
 			},
@@ -4819,8 +4923,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/03/01/shes-surprisingly-unamused.html",
 				
-				"content_html": "<p>She&rsquo;s surprisingly unamused by this</p>\n\n<p><img src=\"uploads/2020/3d4ea57b82.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "She's surprisingly unamused by this\n\n<img src=\"uploads/2020/3d4ea57b82.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>She&rsquo;s surprisingly unamused by this</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/3d4ea57b82.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "She's surprisingly unamused by this\n\n<img src=\"https://kevin.oh.mg/uploads/2020/3d4ea57b82.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-03-01T23:55:26+01:00",
 				"url": "https://kevin.oh.mg/2020/03/01/shes-surprisingly-unamused.html"
 			},
@@ -4868,8 +4972,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/02/22/lets-play-find.html",
 				
-				"content_html": "<p>Let&rsquo;s play Find The Feline, first prize is a surprise attack</p>\n\n<p><img src=\"uploads/2020/363c13f643.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Let's play Find The Feline, first prize is a surprise attack\n\n<img src=\"uploads/2020/363c13f643.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Let&rsquo;s play Find The Feline, first prize is a surprise attack</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/363c13f643.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Let's play Find The Feline, first prize is a surprise attack\n\n<img src=\"https://kevin.oh.mg/uploads/2020/363c13f643.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-22T16:48:08+01:00",
 				"url": "https://kevin.oh.mg/2020/02/22/lets-play-find.html"
 			},
@@ -4885,8 +4989,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/02/16/ive-left-the.html",
 				
-				"content_html": "<p>I&rsquo;ve left the window open all day, but as I&rsquo;m preparing for bed, suddenly she&rsquo;s all like &ldquo;gonna live outside now BRB&rdquo;. Thanks cat</p>\n\n<p><img src=\"uploads/2020/14f754bccc.jpg\" width=\"276\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I've left the window open all day, but as I'm preparing for bed, suddenly she's all like \"gonna live outside now BRB\". Thanks cat\n\n<img src=\"uploads/2020/14f754bccc.jpg\" width=\"276\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ve left the window open all day, but as I&rsquo;m preparing for bed, suddenly she&rsquo;s all like &ldquo;gonna live outside now BRB&rdquo;. Thanks cat</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/14f754bccc.jpg\" width=\"276\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I've left the window open all day, but as I'm preparing for bed, suddenly she's all like \"gonna live outside now BRB\". Thanks cat\n\n<img src=\"https://kevin.oh.mg/uploads/2020/14f754bccc.jpg\" width=\"276\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-16T02:03:35+01:00",
 				"url": "https://kevin.oh.mg/2020/02/16/ive-left-the.html"
 			},
@@ -4902,8 +5006,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/02/15/try-to-do.html",
 				
-				"content_html": "<p>Try to do a thing and this is what I have to deal with</p>\n\n<p><img src=\"uploads/2020/087ada7101.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Try to do a thing and this is what I have to deal with\n\n<img src=\"uploads/2020/087ada7101.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Try to do a thing and this is what I have to deal with</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/087ada7101.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Try to do a thing and this is what I have to deal with\n\n<img src=\"https://kevin.oh.mg/uploads/2020/087ada7101.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-15T13:26:41+01:00",
 				"url": "https://kevin.oh.mg/2020/02/15/try-to-do.html"
 			},
@@ -4950,8 +5054,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/02/09/until-few-minutes.html",
 				
-				"content_html": "<p>Until à few minutes ago this is how we were living the Barcelona dream 😂</p>\n\n<p><img src=\"uploads/2020/77cec1bd5e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Until à few minutes ago this is how we were living the Barcelona dream 😂\n\n<img src=\"uploads/2020/77cec1bd5e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Until à few minutes ago this is how we were living the Barcelona dream 😂</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/77cec1bd5e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Until à few minutes ago this is how we were living the Barcelona dream 😂\n\n<img src=\"https://kevin.oh.mg/uploads/2020/77cec1bd5e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-02-09T21:10:43+01:00",
 				"url": "https://kevin.oh.mg/2020/02/09/until-few-minutes.html"
 			},
@@ -4974,24 +5078,24 @@
 			{
 				"id": "http://mmn.micro.blog/2020/02/09/manufacturer-warranty.html",
 				
-				"content_html": "<p>Manufacturer 1, Warranty 0</p>\n\n<p><img src=\"uploads/2020/67a7d2c9f2.jpg\" width=\"480\" height=\"588\" alt=\"\" /></p>\n",
-				"content_text": "Manufacturer 1, Warranty 0\n\n<img src=\"uploads/2020/67a7d2c9f2.jpg\" width=\"480\" height=\"588\" alt=\"\" />\n",
+				"content_html": "<p>Manufacturer 1, Warranty 0</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/67a7d2c9f2.jpg\" width=\"480\" height=\"588\" alt=\"\" /></p>\n",
+				"content_text": "Manufacturer 1, Warranty 0\n\n<img src=\"https://kevin.oh.mg/uploads/2020/67a7d2c9f2.jpg\" width=\"480\" height=\"588\" alt=\"\" />\n",
 				"date_published": "2020-02-09T11:39:24+01:00",
 				"url": "https://kevin.oh.mg/2020/02/09/manufacturer-warranty.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/02/04/sunrise-over-bcn.html",
 				
-				"content_html": "<p>Sunrise over BCN</p>\n\n<p><img src=\"uploads/2020/1958a29edc.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Sunrise over BCN\n\n<img src=\"uploads/2020/1958a29edc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Sunrise over BCN</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/1958a29edc.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunrise over BCN\n\n<img src=\"https://kevin.oh.mg/uploads/2020/1958a29edc.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-04T23:35:03+01:00",
 				"url": "https://kevin.oh.mg/2020/02/04/sunrise-over-bcn.html"
 			},
 			{
 				"id": "http://mmn.micro.blog/2020/01/30/ive-been-on.html",
 				
-				"content_html": "<p>I&rsquo;ve been on the interwebs for a while, and every so often LiveJournal will remind me.</p>\n\n<p><img src=\"uploads/2020/9fc5f3df3a.jpg\" width=\"600\" height=\"286\" alt=\"\" /></p>\n",
-				"content_text": "I've been on the interwebs for a while, and every so often LiveJournal will remind me.\n\n<img src=\"uploads/2020/9fc5f3df3a.jpg\" width=\"600\" height=\"286\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ve been on the interwebs for a while, and every so often LiveJournal will remind me.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/9fc5f3df3a.jpg\" width=\"600\" height=\"286\" alt=\"\" /></p>\n",
+				"content_text": "I've been on the interwebs for a while, and every so often LiveJournal will remind me.\n\n<img src=\"https://kevin.oh.mg/uploads/2020/9fc5f3df3a.jpg\" width=\"600\" height=\"286\" alt=\"\" />\n",
 				"date_published": "2020-01-30T19:01:00+01:00",
 				"url": "https://kevin.oh.mg/2020/01/30/ive-been-on.html",
 				"tags": ["blogging"]
@@ -4999,8 +5103,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/01/28/if-it-doesnt.html",
 				
-				"content_html": "<p>If it doesn&rsquo;t spark joy, blow it up.</p>\n\n<p><img src=\"uploads/2020/4923251c0c.jpg\" width=\"503\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "If it doesn't spark joy, blow it up. \n\n<img src=\"uploads/2020/4923251c0c.jpg\" width=\"503\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>If it doesn&rsquo;t spark joy, blow it up.</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/4923251c0c.jpg\" width=\"503\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "If it doesn't spark joy, blow it up. \n\n<img src=\"https://kevin.oh.mg/uploads/2020/4923251c0c.jpg\" width=\"503\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-28T23:06:00+01:00",
 				"url": "https://kevin.oh.mg/2020/01/28/if-it-doesnt.html"
 			},
@@ -5057,8 +5161,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/01/21/i-guess-now.html",
 				
-				"content_html": "<p>I guess now this has died down in the news, I can post this with impunity</p>\n\n<p><img src=\"uploads/2020/f14230e6a5.jpg\" width=\"600\" height=\"487\" alt=\"\" /></p>\n",
-				"content_text": "I guess now this has died down in the news, I can post this with impunity\n\n<img src=\"uploads/2020/f14230e6a5.jpg\" width=\"600\" height=\"487\" alt=\"\" />\n",
+				"content_html": "<p>I guess now this has died down in the news, I can post this with impunity</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/f14230e6a5.jpg\" width=\"600\" height=\"487\" alt=\"\" /></p>\n",
+				"content_text": "I guess now this has died down in the news, I can post this with impunity\n\n<img src=\"https://kevin.oh.mg/uploads/2020/f14230e6a5.jpg\" width=\"600\" height=\"487\" alt=\"\" />\n",
 				"date_published": "2020-01-21T20:30:08+01:00",
 				"url": "https://kevin.oh.mg/2020/01/21/i-guess-now.html"
 			},
@@ -5146,8 +5250,8 @@
 			{
 				"id": "http://mmn.micro.blog/2020/01/18/one-is-unamused.html",
 				
-				"content_html": "<p>One is unamused as usual</p>\n\n<p><img src=\"uploads/2020/92d6c95a25.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "One is unamused as usual\n\n<img src=\"uploads/2020/92d6c95a25.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>One is unamused as usual</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2020/92d6c95a25.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "One is unamused as usual\n\n<img src=\"https://kevin.oh.mg/uploads/2020/92d6c95a25.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-01-18T19:25:42+01:00",
 				"url": "https://kevin.oh.mg/2020/01/18/one-is-unamused.html"
 			},
@@ -5212,8 +5316,8 @@
 			{
 				"id": "http://mmn.micro.blog/2019/03/11/giving-this-a.html",
 				
-				"content_html": "<p>Giving this a shot, showing off my</p>\n\n<p><img src=\"uploads/2019/b8848d08f9.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Giving this a shot, showing off my \n\n<img src=\"uploads/2019/b8848d08f9.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Giving this a shot, showing off my</p>\n\n<p><img src=\"https://mmn.micro.blog/uploads/2019/b8848d08f9.jpg\" width=\"449\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Giving this a shot, showing off my \n\n<img src=\"https://mmn.micro.blog/uploads/2019/b8848d08f9.jpg\" width=\"449\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-11T23:28:27+01:00",
 				"url": "https://kevin.oh.mg/2019/03/11/giving-this-a.html"
 			}
