@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/04/24/kind-of-proud.html",
+				
+				"content_html": "<p>Kind of proud of the new site, you don&rsquo;t notice much (maybe except all the permalinks have changed).  Swapped over the content on the Gemini server, web server is happening shortly.</p>\n",
+				"content_text": "Kind of proud of the new site, you don't notice much (maybe except all the permalinks have changed).  Swapped over the content on the Gemini server, web server is happening shortly.\n",
+				"date_published": "2022-04-24T03:00:13+02:00",
+				"url": "https://kevin.oh.mg/2022/04/24/kind-of-proud.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/04/23/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to try and totally rebuild my web / gemini site today.  Wish me luck, it could be a total disaster</p>\n",
+				"content_text": "I'm going to try and totally rebuild my web / gemini site today.  Wish me luck, it could be a total disaster\n",
+				"date_published": "2022-04-23T13:14:26+02:00",
+				"url": "https://kevin.oh.mg/2022/04/23/im-going-to.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/04/16/havent-updated-the.html",
 				
 				"content_html": "<p>Haven&rsquo;t updated the content on my site for a month or so, but did I just add a mailing list subscribe box and some <a href=\"https://omg.singles/0yT8M\">ASCII Art</a>.  Obvs yes</p>\n\n<p><img src=\"uploads/2022/2075c9f7a5.png\" width=\"460\" height=\"457\" alt=\"\" /></p>\n",
