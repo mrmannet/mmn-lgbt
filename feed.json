@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/06/11/i-finally-got.html",
+				
+				"content_html": "<p>I finally got all my sites out of one <a href=\"https://omg.singles/IfV5Y\">text repository</a>.  Tonight, two years late, I work on getting the <a href=\"gopher://oh.mg:70/1\">Gopherhole</a> mirroring the available content in .txt form</p>\n",
+				"content_text": "I finally got all my sites out of one [text repository](https://omg.singles/IfV5Y).  Tonight, two years late, I work on getting the [Gopherhole](gopher://oh.mg:70/1) mirroring the available content in .txt form\n",
+				"date_published": "2022-06-11T23:25:31+02:00",
+				"url": "https://kevin.oh.mg/2022/06/11/i-finally-got.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/05/21/ive-started-to.html",
 				
 				"content_html": "<p>I&rsquo;ve started to upload my <a href=\"https://omg.singles/fN9nj\">photo albums</a> to a self-hosted photo system.</p>\n",
