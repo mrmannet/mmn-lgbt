@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/07/30/incidentally-total-energies.html",
+				
+				"content_html": "<p>Incidentally, Total Energies who not long ago emailed me to say that my tariff was no longer commercially viable are now reporting record profits</p>\n",
+				"content_text": "Incidentally, Total Energies who not long ago emailed me to say that my tariff was no longer commercially viable are now reporting record profits\n",
+				"date_published": "2022-07-30T18:22:24+02:00",
+				"url": "https://kevin.oh.mg/2022/07/30/incidentally-total-energies.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/07/30/if-you-didnt.html",
+				
+				"content_html": "<p>If you didn&rsquo;t think it was time to eat the billionaire class, it is, the energy companies are ripping us off, the landlords are spiking up rents because they can, and multimillion euro companies are destroying the planet</p>\n",
+				"content_text": "If you didn't think it was time to eat the billionaire class, it is, the energy companies are ripping us off, the landlords are spiking up rents because they can, and multimillion euro companies are destroying the planet\n",
+				"date_published": "2022-07-30T18:21:07+02:00",
+				"url": "https://kevin.oh.mg/2022/07/30/if-you-didnt.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/07/24/cats-always-photogenic.html",
+				
+				"content_html": "<p>Cats - always photogenic</p>\n\n<p><img src=\"uploads/2022/bba7548b20.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Cats - always photogenic\n\n<img src=\"uploads/2022/bba7548b20.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-24T16:17:15+02:00",
+				"url": "https://kevin.oh.mg/2022/07/24/cats-always-photogenic.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/07/24/because-i-fell.html",
+				
+				"content_html": "<p>Because I fell asleep on the sofa all day, I&rsquo;m now getting around to moving OH.MG over to <a href=\"https://omg.singles/ouvaton\">Ouvaton.coop – La Coopérative d&rsquo;hébergement numérique</a></p>\n",
+				"content_text": "Because I fell asleep on the sofa all day, I'm now getting around to moving OH.MG over to [Ouvaton.coop – La Coopérative d'hébergement numérique](https://omg.singles/ouvaton)\n",
+				"date_published": "2022-07-24T01:18:12+02:00",
+				"url": "https://kevin.oh.mg/2022/07/24/because-i-fell.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/07/23/ive-been-in.html",
+				
+				"content_html": "<p>I&rsquo;ve been in the office all week and the cats have been stuck inside for a while.  This weekend&rsquo;s home project so they can frollick outside is moving what I can on OH.MG to cooperative run services (web hosting / email)</p>\n",
+				"content_text": "I've been in the office all week and the cats have been stuck inside for a while.  This weekend's home project so they can frollick outside is moving what I can on OH.MG to cooperative run services (web hosting / email)\n",
+				"date_published": "2022-07-23T12:19:05+02:00",
+				"url": "https://kevin.oh.mg/2022/07/23/ive-been-in.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/07/18/for-the-last.html",
 				
 				"content_html": "<p>For the last couple days I&rsquo;ve been having this weird obsessive dream about a domain name (it&rsquo;s already taken) and I genuinely can&rsquo;t explain why it&rsquo;s woken me up at 5h30 this morning</p>\n",
@@ -17,8 +57,8 @@
 			{
 				"id": "http://mmn.micro.blog/2022/07/17/theyre-doing-their.html",
 				
-				"content_html": "<p>They&rsquo;re doing their own thing and yes, Jarod is sleeping in their toy box</p>\n\n<p><img src=\"uploads/2022/be02ec3628.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "They're doing their own thing and yes, Jarod is sleeping in their toy box\n\n<img src=\"uploads/2022/be02ec3628.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>They&rsquo;re doing their own thing and yes, Jarod is sleeping in their toy box</p>\n\n<p><img src=\"https://kevin.oh.mg/uploads/2022/be02ec3628.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "They're doing their own thing and yes, Jarod is sleeping in their toy box\n\n<img src=\"https://kevin.oh.mg/uploads/2022/be02ec3628.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-17T14:57:53+02:00",
 				"url": "https://kevin.oh.mg/2022/07/17/theyre-doing-their.html"
 			},
