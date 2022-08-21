@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2022/08/21/i-went-too.html",
+				
+				"content_html": "<p><a href=\"https://redacted.id/bas8dp\">I went too far and I got overwhelmed</a></p>\n",
+				"content_text": "[I went too far and I got overwhelmed](https://redacted.id/bas8dp)\n",
+				"date_published": "2022-08-21T18:42:00+02:00",
+				"url": "https://kevin.oh.mg/2022/08/21/i-went-too.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/08/07/after-doing-a.html",
+				
+				"content_html": "<p>After doing a lot of hacking around I&rsquo;ve almost completed my <a href=\"https://oh.mg/\">OH.MG</a> move.  Just waiting on the SSL cert to be dropped on the main server (you&rsquo;ll notice this if you&rsquo;re in Europe), hashed up the GeoDNS to easy up the need for a CDN in certain places, and the content</p>\n",
+				"content_text": "After doing a lot of hacking around I've almost completed my [OH.MG](https://oh.mg/) move.  Just waiting on the SSL cert to be dropped on the main server (you'll notice this if you're in Europe), hashed up the GeoDNS to easy up the need for a CDN in certain places, and the content\n",
+				"date_published": "2022-08-07T22:14:40+02:00",
+				"url": "https://kevin.oh.mg/2022/08/07/after-doing-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/08/07/i-of-course.html",
+				
+				"content_html": "<p>I, of course, did all my work in an all night frenzy that lasted until I passed out at 6h.  You can really tell what parts got closer to that hour 😅</p>\n",
+				"content_text": "I, of course, did all my work in an all night frenzy that lasted until I passed out at 6h.  You can really tell what parts got closer to that hour 😅\n",
+				"date_published": "2022-08-07T12:44:48+02:00",
+				"url": "https://kevin.oh.mg/2022/08/07/i-of-course.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2022/08/07/im-waiting-for.html",
+				
+				"content_html": "<p>I&rsquo;m waiting for my host to install the domain cert (manual job) so if you&rsquo;re visiting www.om.gay from within Europe you&rsquo;ll get errors, everywhere else, you&rsquo;ll get file errors until I rebuild entirely from the archive</p>\n",
+				"content_text": "I'm waiting for my host to install the domain cert (manual job) so if you're visiting www.om.gay from within Europe you'll get errors, everywhere else, you'll get file errors until I rebuild entirely from the archive\n",
+				"date_published": "2022-08-07T12:43:00+02:00",
+				"url": "https://kevin.oh.mg/2022/08/07/im-waiting-for.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/08/07/last-night-i.html",
 				
 				"content_html": "<p>Last night I decided to fully redevelop my site from the ground up.  I&rsquo;ve gone full hog, change to the structure, colour theme, and more importantly, I&rsquo;ve adapted the GeoDNS to use the CDN only when necessary / provide different content in certain countries</p>\n",
