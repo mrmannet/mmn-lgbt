@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2023/04/30/nous-vivons-dans.html",
+				
+				"content_html": "<p>Nous vivons dans une réalité absurde où la majorité doit souffrir tandis qu&rsquo;une petite minorité achète des babioles brillantes avec les richesses volées. Ces gens sont des parasites de notre société et de notre planète qui privatisent les richesses et socialisent les conséquences</p>\n",
+				"content_text": "Nous vivons dans une réalité absurde où la majorité doit souffrir tandis qu'une petite minorité achète des babioles brillantes avec les richesses volées. Ces gens sont des parasites de notre société et de notre planète qui privatisent les richesses et socialisent les conséquences\n",
+				"date_published": "2023-04-30T10:06:38+02:00",
+				"url": "https://kevin.oh.mg/2023/04/30/nous-vivons-dans.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2022/12/22/im-struggling-to.html",
 				"title": "I'm struggling to pull the content from ...",
 				"content_html": "<p class=\"p-name e-content entry-content\">I'm struggling to pull the content from the main W8.org site, obvs, so it looks like a fresh start</p>\n",
