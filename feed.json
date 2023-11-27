@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2023/11/27/remember-when-having.html",
+				
+				"content_html": "<p>Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?</p>\n\n<p><img src=\"uploads/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\"></p>\n",
+				"content_text": "Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?\n\n<img src=\"uploads/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\">\n",
+				"date_published": "2023-11-27T11:19:59+01:00",
+				"url": "https://mmn.on.ca/2023/11/27/remember-when-having.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2023/11/26/im-asking-again.html",
 				
 				"content_html": "<p>I&rsquo;m asking again for #MutualAid, I&rsquo;m getting to the freezer section of what food is left and it is getting depressing.  My flat reeks of fish because that&rsquo;s all I have left (no pasta, rice, or bred), <a href=\"https://www.oh.mg/donate/\">via my bank is the fastest way</a> 🙏</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://mmn.micro.blog/2023/11/24/i-love-when.html",
 				
-				"content_html": "<p>I love when this happens</p>\n\n<p><img src=\"uploads/2023/capture-decran-2023-11-24-a-03.34.29.png\" width=\"600\" height=\"285\" alt=\"\"></p>\n",
-				"content_text": "I love when this happens\n\n<img src=\"uploads/2023/capture-decran-2023-11-24-a-03.34.29.png\" width=\"600\" height=\"285\" alt=\"\">\n",
+				"content_html": "<p>I love when this happens</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-11-24-a-03.34.29.png\" width=\"600\" height=\"285\" alt=\"\"></p>\n",
+				"content_text": "I love when this happens\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-11-24-a-03.34.29.png\" width=\"600\" height=\"285\" alt=\"\">\n",
 				"date_published": "2023-11-24T03:35:16+01:00",
 				"url": "https://mmn.on.ca/2023/11/24/i-love-when.html"
 			},
