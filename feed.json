@@ -7,10 +7,220 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2023/12/10/very-not-great.html",
+				
+				"content_html": "<p>Very not great that the BBS lost all knowledge of the usenet server it is supposed to connect to</p>\n",
+				"content_text": "Very not great that the BBS lost all knowledge of the usenet server it is supposed to connect to\n",
+				"date_published": "2023-12-10T00:15:36+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/very-not-great.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/07/i-also-had.html",
+				
+				"content_html": "<p>I also had to find another contact form anti-spam plugin, because the modern internet</p>\n",
+				"content_text": "I also had to find another contact form anti-spam plugin, because the modern internet\n",
+				"date_published": "2023-12-07T14:03:30+01:00",
+				"url": "https://mmn.on.ca/2023/12/07/i-also-had.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/07/at-some-point.html",
+				
+				"content_html": "<p>At some point I need to get around to getting out of bed and out of the house to go find out what that recorded delivery is (I suspect it is a violent demand for money), then get my coins out in the shop</p>\n",
+				"content_text": "At some point I need to get around to getting out of bed and out of the house to go find out what that recorded delivery is (I suspect it is a violent demand for money), then get my coins out in the shop\n",
+				"date_published": "2023-12-07T13:58:49+01:00",
+				"url": "https://mmn.on.ca/2023/12/07/at-some-point.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/05/the-mobile-underground.html",
+				
+				"content_html": "<p>&ldquo;The mobile underground&rdquo; at one point pocket rectangles were novel <a href=\"https://web.archive.org/web/20010331063717/http://www.uboot.com/uk/html/Whatisuboot.html\">web.archive.org/web/20010&hellip;</a></p>\n",
+				"content_text": "\"The mobile underground\" at one point pocket rectangles were novel [web.archive.org/web/20010...](https://web.archive.org/web/20010331063717/http://www.uboot.com/uk/html/Whatisuboot.html)\n",
+				"date_published": "2023-12-05T23:24:59+01:00",
+				"url": "https://mmn.on.ca/2023/12/05/the-mobile-underground.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/03/im-already-writing.html",
+				
+				"content_html": "<p>I&rsquo;m already writing my survey response in my head, the kind that would make Karl Marx shead a tear</p>\n",
+				"content_text": "I'm already writing my survey response in my head, the kind that would make Karl Marx shead a tear\n",
+				"date_published": "2023-12-03T11:19:44+01:00",
+				"url": "https://mmn.on.ca/2023/12/03/im-already-writing.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/03/im-not-talking.html",
+				
+				"content_html": "<p>I&rsquo;m not talking the smaller city shop either, the full big surface mega supermarket</p>\n",
+				"content_text": "I'm not talking the smaller city shop either, the full big surface mega supermarket\n",
+				"date_published": "2023-12-03T11:04:35+01:00",
+				"url": "https://mmn.on.ca/2023/12/03/im-not-talking.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/03/capitalism-brings-the.html",
+				
+				"content_html": "<p>Capitalism brings the best innovation - the Carrefour seems to be stocking up on full price own brand and brand name products while the discount versions get pushed off the shelf</p>\n",
+				"content_text": "Capitalism brings the best innovation - the Carrefour seems to be stocking up on full price own brand and brand name products while the discount versions get pushed off the shelf\n",
+				"date_published": "2023-12-03T11:00:02+01:00",
+				"url": "https://mmn.on.ca/2023/12/03/capitalism-brings-the.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/02/remind-me-again.html",
+				
+				"content_html": "<p>Remind me again, why the mother fucker who sent water through my ceiling is being a fucking pain in the ass to do the bare minimum so I can continue doing all the work to repair his damage</p>\n",
+				"content_text": "Remind me again, why the mother fucker who sent water through my ceiling is being a fucking pain in the ass to do the bare minimum so I can continue doing all the work to repair his damage\n",
+				"date_published": "2023-12-02T14:38:56+01:00",
+				"url": "https://mmn.on.ca/2023/12/02/remind-me-again.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/02/other-than-everything.html",
+				
+				"content_html": "<p>Other than everything not going right today, I did do this right.  Postfix header checks regex is actually a lot easier than I thought</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-02-a-02.48.32.png\" width=\"426\" height=\"116\" alt=\"\"></p>\n",
+				"content_text": "Other than everything not going right today, I did do this right.  Postfix header checks regex is actually a lot easier than I thought\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-02-a-02.48.32.png\" width=\"426\" height=\"116\" alt=\"\">\n",
+				"date_published": "2023-12-02T02:49:29+01:00",
+				"url": "https://mmn.on.ca/2023/12/02/other-than-everything.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/also-yes-the.html",
+				
+				"content_html": "<p>Also, yes <a href=\"https://oh.mg/bbs/\">the BBS</a> is still down.  I&rsquo;ve not got around to dealing with it between cutting the power, doing insurance shit, and having a mental breakdown.</p>\n",
+				"content_text": "Also, yes [the BBS](https://oh.mg/bbs/) is still down.  I've not got around to dealing with it between cutting the power, doing insurance shit, and having a mental breakdown.\n",
+				"date_published": "2023-12-01T23:05:00+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/also-yes-the.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/to-say-im.html",
+				
+				"content_html": "<p>To say I&rsquo;m furious is an understatement</p>\n",
+				"content_text": "To say I'm furious is an understatement\n",
+				"date_published": "2023-12-01T21:52:05+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/to-say-im.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/the-guy-who.html",
+				
+				"content_html": "<p>The guy who flooded my place earlier had his music up like he&rsquo;s got a party happening. Some people just really want to go to A&amp;E</p>\n",
+				"content_text": "The guy who flooded my place earlier had his music up like he's got a party happening. Some people just really want to go to A&E\n",
+				"date_published": "2023-12-01T21:51:39+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/the-guy-who.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/update-i-did.html",
+				
+				"content_html": "<p>Update - I did have a nuclear meltdown, it was in the post office trying to print the fucking constat (spoiler I couldn&rsquo;t).  It was very public and a collection of every single thing over the past 12 months focused exclusively at a printer that just wouldn&rsquo;t but charged me money anyways</p>\n",
+				"content_text": "Update - I did have a nuclear meltdown, it was in the post office trying to print the fucking constat (spoiler I couldn't).  It was very public and a collection of every single thing over the past 12 months focused exclusively at a printer that just wouldn't but charged me money anyways\n",
+				"date_published": "2023-12-01T18:29:49+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/update-i-did.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/getting-to-print.html",
+				
+				"content_html": "<p>Getting to print this fucking contstat amiable dégât des eaux is going to put me in a grave I swear to fucking god</p>\n",
+				"content_text": "Getting to print this fucking contstat amiable dégât des eaux is going to put me in a grave I swear to fucking god\n",
+				"date_published": "2023-12-01T16:25:33+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/getting-to-print.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/omg-i-just.html",
+				
+				"content_html": "<p>omg I just got in to it</p>\n",
+				"content_text": "omg I just got in to it\n",
+				"date_published": "2023-12-01T14:30:40+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/omg-i-just.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/yeah-this-is.html",
+				
+				"content_html": "<p>Yeah this is going to be the trigger for a nuclear meltdown. Thanks asshole neighbour, merry fucking Christmas</p>\n",
+				"content_text": "Yeah this is going to be the trigger for a nuclear meltdown. Thanks asshole neighbour, merry fucking Christmas\n",
+				"date_published": "2023-12-01T14:24:35+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/yeah-this-is.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/fuck-because-i.html",
+				
+				"content_html": "<p>Fuck, because I had to switch off the electric and it has been a long fucking time I can&rsquo;t remember the password for the disk on my mail server. I might only be able to flash it 🙃</p>\n",
+				"content_text": "Fuck, because I had to switch off the electric and it has been a long fucking time I can't remember the password for the disk on my mail server. I might only be able to flash it 🙃\n",
+				"date_published": "2023-12-01T14:21:48+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/fuck-because-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/01/you-know-that.html",
+				
+				"content_html": "<p>You know that thing that just might push you over the edge ?  Let me present &ldquo;I&rsquo;m late on my insurance premiums and it&rsquo;s raining in my house&rdquo;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/8a5fe3c478.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "You know that thing that just might push you over the edge ?  Let me present \"I'm late on my insurance premiums and it's raining in my house\"\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/8a5fe3c478.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-01T13:07:39+01:00",
+				"url": "https://mmn.on.ca/2023/12/01/you-know-that.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/30/that-is-certainly.html",
+				
+				"content_html": "<p>That is certainly an interesting method to, um, woo back advertisers to your (morally) bankrupt platform</p>\n\n<p><a href=\"https://9to5mac.com/2023/11/29/elon-musk-apple-disney-advertising-commment/\">9to5mac.com/2023/11/2&hellip;</a></p>\n",
+				"content_text": "That is certainly an interesting method to, um, woo back advertisers to your (morally) bankrupt platform\r\n\r\n[9to5mac.com/2023/11/2...](https://9to5mac.com/2023/11/29/elon-musk-apple-disney-advertising-commment/)\n",
+				"date_published": "2023-11-30T13:12:05+01:00",
+				"url": "https://mmn.on.ca/2023/11/30/that-is-certainly.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/30/because-job-searching.html",
+				
+				"content_html": "<p>Because job searching and ghosting is a thing, I set up a Marketing CRM to do all the leg work.  I&rsquo;m not above letting robots harass recruiters nor dropping trackers in their emails</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-11-30-a-11.26.08.png\" width=\"600\" height=\"163\" alt=\"\"></p>\n",
+				"content_text": "Because job searching and ghosting is a thing, I set up a Marketing CRM to do all the leg work.  I'm not above letting robots harass recruiters nor dropping trackers in their emails\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-11-30-a-11.26.08.png\" width=\"600\" height=\"163\" alt=\"\">\n",
+				"date_published": "2023-11-30T11:46:04+01:00",
+				"url": "https://mmn.on.ca/2023/11/30/because-job-searching.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/29/im-absolutely-bricking.html",
+				
+				"content_html": "<p>I&rsquo;m absolutely bricking it for the next electric bill, I&rsquo;ve had to switch on the not-so-energy efficient radiator at the bare minimum to not freeze and this is the night I need to switch the hot water heater back on overnight</p>\n",
+				"content_text": "I'm absolutely bricking it for the next electric bill, I've had to switch on the not-so-energy efficient radiator at the bare minimum to not freeze and this is the night I need to switch the hot water heater back on overnight\n",
+				"date_published": "2023-11-29T23:20:49+01:00",
+				"url": "https://mmn.on.ca/2023/11/29/im-absolutely-bricking.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/29/samy-has-a.html",
+				
+				"content_html": "<p><a href=\"https://ko-fi.com/Post/Update-on-Samy-good-news-V7V5RNI5E\">Samy</a> has a bit of an update, if anything it is very good and partially will confuse his vet and say the poor bureaucrat who has to process the update</p>\n",
+				"content_text": "[Samy](https://ko-fi.com/Post/Update-on-Samy-good-news-V7V5RNI5E) has a bit of an update, if anything it is very good and partially will confuse his vet and say the poor bureaucrat who has to process the update\n",
+				"date_published": "2023-11-29T16:52:05+01:00",
+				"url": "https://mmn.on.ca/2023/11/29/samy-has-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/28/so-im-going.html",
+				
+				"content_html": "<p>So I&rsquo;m going to have to write my experience about this shitshow in both French and English, because I have a few hot political takes that might not translate well but still should be said</p>\n",
+				"content_text": "So I'm going to have to write my experience about this shitshow in both French and English, because I have a few hot political takes that might not translate well but still should be said\n",
+				"date_published": "2023-11-28T11:45:14+01:00",
+				"url": "https://mmn.on.ca/2023/11/28/so-im-going.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/28/id-live-toot.html",
+				
+				"content_html": "<p>I&rsquo;d live toot but I&rsquo;d probably be sanctioned</p>\n",
+				"content_text": "I'd live toot but I'd probably be sanctioned\n",
+				"date_published": "2023-11-28T09:33:52+01:00",
+				"url": "https://mmn.on.ca/2023/11/28/id-live-toot.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/28/so-im-at.html",
+				
+				"content_html": "<p>So I&rsquo;m at my thing after a 90 minute walk and let me tell you I have a blog post coming about this hilarity</p>\n",
+				"content_text": "So I'm at my thing after a 90 minute walk and let me tell you I have a blog post coming about this hilarity\n",
+				"date_published": "2023-11-28T09:33:28+01:00",
+				"url": "https://mmn.on.ca/2023/11/28/so-im-at.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/11/27/ive-started-to.html",
+				
+				"content_html": "<p>I&rsquo;ve started to try and recover some of the sites I made in the past and put the details on oh.mg, so far I got two with some basic details.</p>\n\n<p>I do, however, need to remember the rest&hellip; <a href=\"https://www.oh.mg/moar/old-sites/\">www.oh.mg/moar/old-&hellip;</a></p>\n",
+				"content_text": "I've started to try and recover some of the sites I made in the past and put the details on oh.mg, so far I got two with some basic details.\r\n\r\nI do, however, need to remember the rest... [www.oh.mg/moar/old-...](https://www.oh.mg/moar/old-sites/)\n",
+				"date_published": "2023-11-27T11:51:35+01:00",
+				"url": "https://mmn.on.ca/2023/11/27/ive-started-to.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2023/11/27/remember-when-having.html",
 				
-				"content_html": "<p>Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?</p>\n\n<p><img src=\"uploads/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\"></p>\n",
-				"content_text": "Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?\n\n<img src=\"uploads/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\">\n",
+				"content_html": "<p>Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\"></p>\n",
+				"content_text": "Remember when having a webcam in your house uploading every 5 minutes was a thing before surveillance capitalism ruined our fun ?\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/stripcam01.jpg\" width=\"320\" height=\"240\" alt=\"\">\n",
 				"date_published": "2023-11-27T11:19:59+01:00",
 				"url": "https://mmn.on.ca/2023/11/27/remember-when-having.html"
 			},
@@ -33,8 +243,8 @@
 			{
 				"id": "http://mmn.micro.blog/2023/11/25/im-down-to.html",
 				
-				"content_html": "<p>I&rsquo;m down to the dregs of the freezer, today&rsquo;s was salty haddock with guacamole.  If you&rsquo;re vibing, consider dropping a <a href=\"https://bunq.me/kcostelloe\">few euro</a> so I can buy something that doesn&rsquo;t suck</p>\n\n<p><img src=\"uploads/2023/2559fa20a8.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "I'm down to the dregs of the freezer, today's was salty haddock with guacamole.  If you're vibing, consider dropping a [few euro](https://bunq.me/kcostelloe) so I can buy something that doesn't suck\n\n<img src=\"uploads/2023/2559fa20a8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>I&rsquo;m down to the dregs of the freezer, today&rsquo;s was salty haddock with guacamole.  If you&rsquo;re vibing, consider dropping a <a href=\"https://bunq.me/kcostelloe\">few euro</a> so I can buy something that doesn&rsquo;t suck</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/2559fa20a8.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "I'm down to the dregs of the freezer, today's was salty haddock with guacamole.  If you're vibing, consider dropping a [few euro](https://bunq.me/kcostelloe) so I can buy something that doesn't suck\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/2559fa20a8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-25T22:20:45+01:00",
 				"url": "https://mmn.on.ca/2023/11/25/im-down-to.html"
 			},
