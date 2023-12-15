@@ -7,6 +7,104 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2023/12/15/hey-hachette-harpercollins.html",
+				
+				"content_html": "<p>Hey #Hachette, #HarperCollins, #PenguinRandomHouse &amp; #Wiley: Instead of <a href=\"https://blog.archive.org/2023/12/15/internet-archive-defends-digital-rights-for-libraries/\">suing libraries</a> like #InternetArchive, just sell them ebooks they can own &amp; preserve for the public. #SellDontSue</p>\n",
+				"content_text": "Hey #Hachette, #HarperCollins, #PenguinRandomHouse & #Wiley: Instead of [suing libraries](https://blog.archive.org/2023/12/15/internet-archive-defends-digital-rights-for-libraries/) like #InternetArchive, just sell them ebooks they can own & preserve for the public. #SellDontSue\n",
+				"date_published": "2023-12-15T19:37:14+01:00",
+				"url": "https://mmn.on.ca/2023/12/15/hey-hachette-harpercollins.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/14/jarod-is-currently.html",
+				
+				"content_html": "<p>Jarod is currently screaming because he&rsquo;s not allowed to climb through the restaurant window and that his feet are cold because it is winter</p>\n",
+				"content_text": "Jarod is currently screaming because he's not allowed to climb through the restaurant window and that his feet are cold because it is winter\n",
+				"date_published": "2023-12-14T19:49:05+01:00",
+				"url": "https://mmn.on.ca/2023/12/14/jarod-is-currently.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/14/while-jarod-is.html",
+				
+				"content_html": "<p>While Jarod is sleeping I thought I&rsquo;d be nice and spend some time with Samy in the dark outside.  I popped him out the door, went to organise my things to go out, and as soon as I pass through the door myself, I realise, I just pushed my cat out in to the rain like an asshole</p>\n",
+				"content_text": "While Jarod is sleeping I thought I'd be nice and spend some time with Samy in the dark outside.  I popped him out the door, went to organise my things to go out, and as soon as I pass through the door myself, I realise, I just pushed my cat out in to the rain like an asshole\n",
+				"date_published": "2023-12-14T02:04:16+01:00",
+				"url": "https://mmn.on.ca/2023/12/14/while-jarod-is.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/13/ive-had-a.html",
+				
+				"content_html": "<p>I&rsquo;ve had a couple days of paralysing dread that basically kept me in bed and awake all night.  Right now, seem to be snapping out of it a bit because of some moderately good news (still not employed).  All it takes is a small 1/3rd success</p>\n",
+				"content_text": "I've had a couple days of paralysing dread that basically kept me in bed and awake all night.  Right now, seem to be snapping out of it a bit because of some moderately good news (still not employed).  All it takes is a small 1/3rd success\n",
+				"date_published": "2023-12-13T22:29:15+01:00",
+				"url": "https://mmn.on.ca/2023/12/13/ive-had-a.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/of-course-i.html",
+				
+				"content_html": "<p>Of course I fucked up my Apache config and had a subdomain running as oh.mg and thus breaking everything for hours 🙃</p>\n",
+				"content_text": "Of course I fucked up my Apache config and had a subdomain running as oh.mg and thus breaking everything for hours 🙃\n",
+				"date_published": "2023-12-10T05:00:48+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/of-course-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/bbs-server-is.html",
+				
+				"content_html": "<p>BBS server is now called winserver which is a success, but what isn&rsquo;t a success is that this renaming broke the modem for some reason and it won&rsquo;t come back 🫡</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-04.13.07.png\" width=\"600\" height=\"95\" alt=\"\"></p>\n",
+				"content_text": "BBS server is now called winserver which is a success, but what isn't a success is that this renaming broke the modem for some reason and it won't come back 🫡\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-04.13.07.png\" width=\"600\" height=\"95\" alt=\"\">\n",
+				"date_published": "2023-12-10T04:14:32+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/bbs-server-is.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/and-when-i.html",
+				
+				"content_html": "<p>and when I say vibe, I mean I moved house and it was shutdown for weeks in between</p>\n",
+				"content_text": "and when I say vibe, I mean I moved house and it was shutdown for weeks in between\n",
+				"date_published": "2023-12-10T03:50:13+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/and-when-i.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/argh-im-having.html",
+				
+				"content_html": "<p>ARGH I&rsquo;m having that fucking modem port not opening problem with the BBS again, it took months last time for the modem to vibe again</p>\n",
+				"content_text": "ARGH I'm having that fucking modem port not opening problem with the BBS again, it took months last time for the modem to vibe again\n",
+				"date_published": "2023-12-10T03:49:35+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/argh-im-having.html",
+				"tags": ["BBS"]
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/the-whole-email.html",
+				
+				"content_html": "<p>The whole email thing is internally working surprisingly well</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-02.59.36.png\" width=\"600\" height=\"303\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-03.02.29.png\" width=\"600\" height=\"178\" alt=\"\"></p>\n",
+				"content_text": "The whole email thing is internally working surprisingly well\n\n<img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-02.59.36.png\" width=\"600\" height=\"303\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/8961/2023/capture-decran-2023-12-10-a-03.02.29.png\" width=\"600\" height=\"178\" alt=\"\">\n",
+				"date_published": "2023-12-10T03:03:01+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/the-whole-email.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/yes-i-do.html",
+				
+				"content_html": "<p>Yes, <a href=\"https://news.om.gd/archive/a3a0d991-543d-45c3-9845-ae579555dc99\">I do run a mailing list</a>, why do you ask ?</p>\n",
+				"content_text": "Yes, [I do run a mailing list](https://news.om.gd/archive/a3a0d991-543d-45c3-9845-ae579555dc99), why do you ask ?\n",
+				"date_published": "2023-12-10T02:24:09+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/yes-i-do.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/what-goes-up.html",
+				
+				"content_html": "<p>What goes up must come down and the algorithm loves a downer <a href=\"https://invidious.fdn.fr/watch?v=zwCD6DZCg7U\">invidious.fdn.fr/watch</a></p>\n",
+				"content_text": "What goes up must come down and the algorithm loves a downer [invidious.fdn.fr/watch](https://invidious.fdn.fr/watch?v=zwCD6DZCg7U)\n",
+				"date_published": "2023-12-10T01:26:36+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/what-goes-up.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/10/this-stuff-will.html",
+				
+				"content_html": "<p>This stuff will never get old <a href=\"https://invidious.fdn.fr/watch?v=prn7MVvQ_W0\">invidious.fdn.fr/watch</a></p>\n",
+				"content_text": "This stuff will never get old [invidious.fdn.fr/watch](https://invidious.fdn.fr/watch?v=prn7MVvQ_W0)\n",
+				"date_published": "2023-12-10T01:15:09+01:00",
+				"url": "https://mmn.on.ca/2023/12/10/this-stuff-will.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2023/12/10/very-not-great.html",
 				
 				"content_html": "<p>Very not great that the BBS lost all knowledge of the usenet server it is supposed to connect to</p>\n",
