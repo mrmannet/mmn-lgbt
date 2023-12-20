@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2023/12/20/i-just-discovered.html",
+				
+				"content_html": "<p>I just discovered why my WP Backup plugin was taking forever to do anything and it&rsquo;s because every WP Cron instruction guide is stolen from one dumb instruction guide that doesn&rsquo;t tell you how to do it right 🙄</p>\n",
+				"content_text": "I just discovered why my WP Backup plugin was taking forever to do anything and it's because every WP Cron instruction guide is stolen from one dumb instruction guide that doesn't tell you how to do it right 🙄\n",
+				"date_published": "2023-12-20T20:19:39+01:00",
+				"url": "https://mmn.on.ca/2023/12/20/i-just-discovered.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/20/as-i-started.html",
+				
+				"content_html": "<p>As I started to write my great success that was Yeets and tell you how I did the amazing thing of getting a little Microblogging thing on my actual blog (because fuck you that’s why), I was celebrating my success at it posting correctly over to Mastodon and Tumblr.</p>\n\n<p><a href=\"https://oh.mg/b/3SX\">oh.mg/b/3SX</a></p>\n",
+				"content_text": "As I started to write my great success that was Yeets and tell you how I did the amazing thing of getting a little Microblogging thing on my actual blog (because fuck you that’s why), I was celebrating my success at it posting correctly over to Mastodon and Tumblr.\r\n\r\n[oh.mg/b/3SX](https://oh.mg/b/3SX)\n",
+				"date_published": "2023-12-20T08:02:29+01:00",
+				"url": "https://mmn.on.ca/2023/12/20/as-i-started.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/20/tootin-from-my.html",
+				
+				"content_html": "<p>Tootin&rsquo; from my #Newton</p>\n\n<p>(Technically)</p>\n\n<p><img src=\"uploads/2023/5723367e4d.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Tootin' from my #Newton\n\n(Technically)\n\n<img src=\"uploads/2023/5723367e4d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-20T01:26:49+01:00",
+				"url": "https://mmn.on.ca/2023/12/20/tootin-from-my.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/19/i-had-to.html",
+				
+				"content_html": "<p>I had to use bleach on the toilet and because I do this rarely I forget the reason why I do this rarely is because Jarod gets high as balls off of it.  He&rsquo;s bouncing off the walls, quite literally</p>\n",
+				"content_text": "I had to use bleach on the toilet and because I do this rarely I forget the reason why I do this rarely is because Jarod gets high as balls off of it.  He's bouncing off the walls, quite literally\n",
+				"date_published": "2023-12-19T22:55:40+01:00",
+				"url": "https://mmn.on.ca/2023/12/19/i-had-to.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/19/time-to-get.html",
+				
+				"content_html": "<p>Time to get using <a href=\"https://grocy.info/\">Grocy</a> again in anger</p>\n",
+				"content_text": "Time to get using [Grocy](https://grocy.info/) again in anger\n",
+				"date_published": "2023-12-19T12:58:26+01:00",
+				"url": "https://mmn.on.ca/2023/12/19/time-to-get.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/19/jarod-im-upset.html",
+				
+				"content_html": "<p>Jarod : I&rsquo;m upset that my claws keep on getting stuck in fabrics</p>\n\n<p>Also Jarod : I&rsquo;ll fight you if you think I&rsquo;ll let you trim them</p>\n",
+				"content_text": "Jarod : I'm upset that my claws keep on getting stuck in fabrics\r\n\r\nAlso Jarod : I'll fight you if you think I'll let you trim them\n",
+				"date_published": "2023-12-19T09:03:05+01:00",
+				"url": "https://mmn.on.ca/2023/12/19/jarod-im-upset.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/18/hours-is-all.html",
+				
+				"content_html": "<p>18 hours is all it took for Threads to throw racism in to my feed, for the absolute first time it was in French. I follow mainly (99%) Spanish and English speakers, so getting it in French was unexpected and ultra specific</p>\n",
+				"content_text": "18 hours is all it took for Threads to throw racism in to my feed, for the absolute first time it was in French. I follow mainly (99%) Spanish and English speakers, so getting it in French was unexpected and ultra specific\n",
+				"date_published": "2023-12-18T04:32:39+01:00",
+				"url": "https://mmn.on.ca/2023/12/18/hours-is-all.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/17/samy-is-looking.html",
+				
+				"content_html": "<p>Samy is looking out the window like he wants to go outside, so I let him out, he had a good five minutes before he decided 1° was not his working temperature and came back.  He&rsquo;s now looking out of the window again</p>\n",
+				"content_text": "Samy is looking out the window like he wants to go outside, so I let him out, he had a good five minutes before he decided 1° was not his working temperature and came back.  He's now looking out of the window again\n",
+				"date_published": "2023-12-17T10:49:42+01:00",
+				"url": "https://mmn.on.ca/2023/12/17/samy-is-looking.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/17/i-setup-my.html",
+				
+				"content_html": "<p>I setup my threads account because there are a few people who migrated there I follow.  For the most part, Threads sucks, but there is only one thing I can say is a positive - automatic alt text - while not perfect is better than nothing and ish accurate.  Obvs robbing data for AI &ldquo;art&rdquo;</p>\n",
+				"content_text": "I setup my threads account because there are a few people who migrated there I follow.  For the most part, Threads sucks, but there is only one thing I can say is a positive - automatic alt text - while not perfect is better than nothing and ish accurate.  Obvs robbing data for AI \"art\"\n",
+				"date_published": "2023-12-17T08:32:11+01:00",
+				"url": "https://mmn.on.ca/2023/12/17/i-setup-my.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2023/12/16/i-never-quite.html",
+				
+				"content_html": "<p>I never quite understood why my phone outside on the terrace in the pitch black is always lit up like it&rsquo;s midday. I just found out why when my outdoor cat cam reset. Infrared light, obviously 🥴</p>\n",
+				"content_text": "I never quite understood why my phone outside on the terrace in the pitch black is always lit up like it's midday. I just found out why when my outdoor cat cam reset. Infrared light, obviously 🥴\n",
+				"date_published": "2023-12-16T01:10:55+01:00",
+				"url": "https://mmn.on.ca/2023/12/16/i-never-quite.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2023/12/15/hey-hachette-harpercollins.html",
 				
 				"content_html": "<p>Hey #Hachette, #HarperCollins, #PenguinRandomHouse &amp; #Wiley: Instead of <a href=\"https://blog.archive.org/2023/12/15/internet-archive-defends-digital-rights-for-libraries/\">suing libraries</a> like #InternetArchive, just sell them ebooks they can own &amp; preserve for the public. #SellDontSue</p>\n",
