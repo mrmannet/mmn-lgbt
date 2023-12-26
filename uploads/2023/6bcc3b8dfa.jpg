@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta http-equiv="refresh" content="5;url=/" />
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>The requested page does not exist or is temporarily not available</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./css/parkingpage.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container-fluid">
+      <div class="header clearfix">
+        <h3 class="text-muted"><img src="./images/JokerLogo2x.png"></h3>
+      </div>
+    </div>
+
+<div class="container">
+      <div class="jumbotron">
+        <h1 class="display-3">404 - page not found</h1>
+        <p class="lead">The page that you have requested may have moved or does not exist. Please check the URL for proper spelling and capitalization.</p>
+        <p><a class="btn btn-lg btn-success" href="https://joker.com/?pk_campaign=Parking&pk_kwd=text" role="button">JOKER.COM</a></p>
+      </div>
+
+      <footer class="footer">
+        <p>&copy; 2017 CSL GmbH / JOKER.COM</p>
+      </footer>
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+
