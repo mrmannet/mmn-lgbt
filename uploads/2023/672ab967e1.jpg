@@ -1,0 +1,425 @@
+<!doctype html><html class="no-js" lang="en">
+<base href="http://web.archive.org/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/"/><head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=t1Bf4PY_" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle.js"></script>
+<script type="text/javascript">
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.sarkiegit.com/ljstuffz/heyYOU.gif","20190726173134","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1564162294");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>The Guild of Pastoral Psychology |</title><link href="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/assets/images/favicon.ico" rel="icon" type="image/x-icon"/><meta name="description" content=""/><meta name="keywords" content=""/><meta property="og:site_name" content="Guild of Pastoral Psychology"><meta property="og:description" content="GPP general meta description"/><meta property="og:title" content="The Guild of Pastoral Psychology | "/><meta property="og:type" content="website"><meta property="og:url" content="http://web.archive.org/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/"/><meta property="og:image" content="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/images/og-img.png"/><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@merckx"><meta name="twitter:title" content="The Guild of Pastoral Psychology | "><meta name="twitter:description" content="GPP general meta description"><meta name="twitter:image" content="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/images/og-img.png"><link rel="canonical" href="http://web.archive.org/web/20190726173134/http://merckx.com/"><link href="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/assets/images/apple-touch-icon.png" rel="apple-touch-icon"/><link href="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/assets/images/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/><link href="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/assets/images/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/><link href="/web/20190726173134im_/https://www.guildofpastoralpsychology.org.uk/assets/images/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/><!--[if lt IE 9]> <script type="text/javascript">/**
+* @preserve HTML5 Shiv 3.7.2 | @afarkas @jdalton @jon_neal @rem | MIT/GPL2 Licensed (Includes print shiv)
+*/
+(function(window,document){var version="3.7.2";var options=window.html5||{};var reSkip=/^<|^(?:button|map|select|textarea|object|iframe|option|optgroup)$/i;var saveClones=/^(?:a|b|code|div|fieldset|h1|h2|h3|h4|h5|h6|i|label|li|ol|p|q|span|strong|style|table|tbody|td|th|tr|ul)$/i;var supportsHtml5Styles;var expando="_html5shiv";var expanID=0;var expandoData={};var supportsUnknownElements;(function(){try{var a=document.createElement("a");a.innerHTML="<xyz></xyz>";supportsHtml5Styles=("hidden" in a);supportsUnknownElements=a.childNodes.length==1||(function(){(document.createElement)("a");var frag=document.createDocumentFragment();return(typeof frag.cloneNode=="undefined"||typeof frag.createDocumentFragment=="undefined"||typeof frag.createElement=="undefined");}());}catch(e){supportsHtml5Styles=true;supportsUnknownElements=true;}}());function addStyleSheet(ownerDocument,cssText){var p=ownerDocument.createElement("p"),parent=ownerDocument.getElementsByTagName("head")[0]||ownerDocument.documentElement;p.innerHTML="x<style>"+cssText+"</style>";return parent.insertBefore(p.lastChild,parent.firstChild);}function getElements(){var elements=html5.elements;return typeof elements=="string"?elements.split(" "):elements;}function addElements(newElements,ownerDocument){var elements=html5.elements;if(typeof elements!="string"){elements=elements.join(" ");}if(typeof newElements!="string"){newElements=newElements.join(" ");}html5.elements=elements+" "+newElements;shivDocument(ownerDocument);}function getExpandoData(ownerDocument){var data=expandoData[ownerDocument[expando]];if(!data){data={};expanID++;ownerDocument[expando]=expanID;expandoData[expanID]=data;}return data;}function createElement(nodeName,ownerDocument,data){if(!ownerDocument){ownerDocument=document;}if(supportsUnknownElements){return ownerDocument.createElement(nodeName);}if(!data){data=getExpandoData(ownerDocument);}var node;if(data.cache[nodeName]){node=data.cache[nodeName].cloneNode();}else{if(saveClones.test(nodeName)){node=(data.cache[nodeName]=data.createElem(nodeName)).cloneNode();}else{node=data.createElem(nodeName);}}return node.canHaveChildren&&!reSkip.test(nodeName)&&!node.tagUrn?data.frag.appendChild(node):node;}function createDocumentFragment(ownerDocument,data){if(!ownerDocument){ownerDocument=document;}if(supportsUnknownElements){return ownerDocument.createDocumentFragment();}data=data||getExpandoData(ownerDocument);var clone=data.frag.cloneNode(),i=0,elems=getElements(),l=elems.length;for(;i<l;i++){clone.createElement(elems[i]);}return clone;}function shivMethods(ownerDocument,data){if(!data.cache){data.cache={};data.createElem=ownerDocument.createElement;data.createFrag=ownerDocument.createDocumentFragment;data.frag=data.createFrag();}ownerDocument.createElement=function(nodeName){if(!html5.shivMethods){return data.createElem(nodeName);}return createElement(nodeName,ownerDocument,data);};ownerDocument.createDocumentFragment=Function("h,f","return function(){var n=f.cloneNode(),c=n.createElement;h.shivMethods&&("+getElements().join().replace(/[\w\-:]+/g,function(nodeName){data.createElem(nodeName);data.frag.createElement(nodeName);return'c("'+nodeName+'")';})+");return n}")(html5,data.frag);}function shivDocument(ownerDocument){if(!ownerDocument){ownerDocument=document;}var data=getExpandoData(ownerDocument);if(html5.shivCSS&&!supportsHtml5Styles&&!data.hasCSS){data.hasCSS=!!addStyleSheet(ownerDocument,"article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}");}if(!supportsUnknownElements){shivMethods(ownerDocument,data);}return ownerDocument;}var html5={elements:options.elements||"abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output picture progress section summary template time video",version:version,shivCSS:(options.shivCSS!==false),supportsUnknownElements:supportsUnknownElements,shivMethods:(options.shivMethods!==false),type:"default",shivDocument:shivDocument,createElement:createElement,createDocumentFragment:createDocumentFragment,addElements:addElements};window.html5=html5;shivDocument(document);var reMedia=/^$|\b(?:all|print)\b/;var shivNamespace="html5shiv";var supportsShivableSheets=!supportsUnknownElements&&(function(){var docEl=document.documentElement;return !(typeof document.namespaces=="undefined"||typeof document.parentWindow=="undefined"||typeof docEl.applyElement=="undefined"||typeof docEl.removeNode=="undefined"||typeof window.attachEvent=="undefined");}());function addWrappers(ownerDocument){var node,nodes=ownerDocument.getElementsByTagName("*"),index=nodes.length,reElements=RegExp("^(?:"+getElements().join("|")+")$","i"),result=[];while(index--){node=nodes[index];if(reElements.test(node.nodeName)){result.push(node.applyElement(createWrapper(node)));}}return result;}function createWrapper(element){var node,nodes=element.attributes,index=nodes.length,wrapper=element.ownerDocument.createElement(shivNamespace+":"+element.nodeName);while(index--){node=nodes[index];node.specified&&wrapper.setAttribute(node.nodeName,node.nodeValue);}wrapper.style.cssText=element.style.cssText;return wrapper;}function shivCssText(cssText){var pair,parts=cssText.split("{"),index=parts.length,reElements=RegExp("(^|[\\s,>+~])("+getElements().join("|")+")(?=[[\\s,>+~#.:]|$)","gi"),replacement="$1"+shivNamespace+"\\:$2";while(index--){pair=parts[index]=parts[index].split("}");pair[pair.length-1]=pair[pair.length-1].replace(reElements,replacement);parts[index]=pair.join("}");}return parts.join("{");}function removeWrappers(wrappers){var index=wrappers.length;while(index--){wrappers[index].removeNode();}}function shivPrint(ownerDocument){var shivedSheet,wrappers,data=getExpandoData(ownerDocument),namespaces=ownerDocument.namespaces,ownerWindow=ownerDocument.parentWindow;if(!supportsShivableSheets||ownerDocument.printShived){return ownerDocument;}if(typeof namespaces[shivNamespace]=="undefined"){namespaces.add(shivNamespace);}function removeSheet(){clearTimeout(data._removeSheetTimer);if(shivedSheet){shivedSheet.removeNode(true);}shivedSheet=null;}ownerWindow.attachEvent("onbeforeprint",function(){removeSheet();var imports,length,sheet,collection=ownerDocument.styleSheets,cssText=[],index=collection.length,sheets=Array(index);while(index--){sheets[index]=collection[index];}while((sheet=sheets.pop())){if(!sheet.disabled&&reMedia.test(sheet.media)){try{imports=sheet.imports;length=imports.length;}catch(er){length=0;}for(index=0;index<length;index++){sheets.push(imports[index]);}try{cssText.push(sheet.cssText);}catch(er){}}}cssText=shivCssText(cssText.reverse().join(""));wrappers=addWrappers(ownerDocument);shivedSheet=addStyleSheet(ownerDocument,cssText);});ownerWindow.attachEvent("onafterprint",function(){removeWrappers(wrappers);clearTimeout(data._removeSheetTimer);data._removeSheetTimer=setTimeout(removeSheet,500);});ownerDocument.printShived=true;return ownerDocument;}html5.type+=" print";html5.shivPrint=shivPrint;shivPrint(document);}(this,document));</script> <![endif]--> <script type="text/javascript">/*! Picturefill - v2.3.1 - 2015-04-09
+* http://scottjehl.github.io/picturefill
+* Copyright (c) 2015 https://github.com/scottjehl/picturefill/blob/master/Authors.txt; Licensed MIT */
+window.matchMedia||(window.matchMedia=function(){"use strict";var a=window.styleMedia||window.media;if(!a){var b=document.createElement("style"),c=document.getElementsByTagName("script")[0],d=null;b.type="text/css",b.id="matchmediajs-test",c.parentNode.insertBefore(b,c),d="getComputedStyle"in window&&window.getComputedStyle(b,null)||b.currentStyle,a={matchMedium:function(a){var c="@media "+a+"{ #matchmediajs-test { width: 1px; } }";return b.styleSheet?b.styleSheet.cssText=c:b.textContent=c,"1px"===d.width}}}return function(b){return{matches:a.matchMedium(b||"all"),media:b||"all"}}}()),function(a,b,c){"use strict";function d(b){"object"==typeof module&&"object"==typeof module.exports?module.exports=b:"function"==typeof define&&define.amd&&define("picturefill",function(){return b}),"object"==typeof a&&(a.picturefill=b)}function e(a){var b,c,d,e,f,i=a||{};b=i.elements||g.getAllElements();for(var j=0,k=b.length;k>j;j++)if(c=b[j],d=c.parentNode,e=void 0,f=void 0,"IMG"===c.nodeName.toUpperCase()&&(c[g.ns]||(c[g.ns]={}),i.reevaluate||!c[g.ns].evaluated)){if(d&&"PICTURE"===d.nodeName.toUpperCase()){if(g.removeVideoShim(d),e=g.getMatch(c,d),e===!1)continue}else e=void 0;(d&&"PICTURE"===d.nodeName.toUpperCase()||!g.sizesSupported&&c.srcset&&h.test(c.srcset))&&g.dodgeSrcset(c),e?(f=g.processSourceSet(e),g.applyBestCandidate(f,c)):(f=g.processSourceSet(c),(void 0===c.srcset||c[g.ns].srcset)&&g.applyBestCandidate(f,c)),c[g.ns].evaluated=!0}}function f(){function c(){clearTimeout(d),d=setTimeout(h,60)}g.initTypeDetects(),e();var d,f=setInterval(function(){return e(),/^loaded|^i|^c/.test(b.readyState)?void clearInterval(f):void 0},250),h=function(){e({reevaluate:!0})};a.addEventListener?a.addEventListener("resize",c,!1):a.attachEvent&&a.attachEvent("onresize",c)}if(a.HTMLPictureElement)return void d(function(){});b.createElement("picture");var g=a.picturefill||{},h=/\s+\+?\d+(e\d+)?w/;g.ns="picturefill",function(){g.srcsetSupported="srcset"in c,g.sizesSupported="sizes"in c,g.curSrcSupported="currentSrc"in c}(),g.trim=function(a){return a.trim?a.trim():a.replace(/^\s+|\s+$/g,"")},g.makeUrl=function(){var a=b.createElement("a");return function(b){return a.href=b,a.href}}(),g.restrictsMixedContent=function(){return"https:"===a.location.protocol},g.matchesMedia=function(b){return a.matchMedia&&a.matchMedia(b).matches},g.getDpr=function(){return a.devicePixelRatio||1},g.getWidthFromLength=function(a){var c;if(!a||a.indexOf("%")>-1!=!1||!(parseFloat(a)>0||a.indexOf("calc(")>-1))return!1;a=a.replace("vw","%"),g.lengthEl||(g.lengthEl=b.createElement("div"),g.lengthEl.style.cssText="border:0;display:block;font-size:1em;left:0;margin:0;padding:0;position:absolute;visibility:hidden",g.lengthEl.className="helper-from-picturefill-js"),g.lengthEl.style.width="0px";try{g.lengthEl.style.width=a}catch(d){}return b.body.appendChild(g.lengthEl),c=g.lengthEl.offsetWidth,0>=c&&(c=!1),b.body.removeChild(g.lengthEl),c},g.detectTypeSupport=function(b,c){var d=new a.Image;return d.onerror=function(){g.types[b]=!1,e()},d.onload=function(){g.types[b]=1===d.width,e()},d.src=c,"pending"},g.types=g.types||{},g.initTypeDetects=function(){g.types["image/jpeg"]=!0,g.types["image/gif"]=!0,g.types["image/png"]=!0,g.types["image/svg+xml"]=b.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1"),g.types["image/webp"]=g.detectTypeSupport("image/webp","data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=")},g.verifyTypeSupport=function(a){var b=a.getAttribute("type");if(null===b||""===b)return!0;var c=g.types[b];return"string"==typeof c&&"pending"!==c?(g.types[b]=g.detectTypeSupport(b,c),"pending"):"function"==typeof c?(c(),"pending"):c},g.parseSize=function(a){var b=/(\([^)]+\))?\s*(.+)/g.exec(a);return{media:b&&b[1],length:b&&b[2]}},g.findWidthFromSourceSize=function(c){for(var d,e=g.trim(c).split(/\s*,\s*/),f=0,h=e.length;h>f;f++){var i=e[f],j=g.parseSize(i),k=j.length,l=j.media;if(k&&(!l||g.matchesMedia(l))&&(d=g.getWidthFromLength(k)))break}return d||Math.max(a.innerWidth||0,b.documentElement.clientWidth)},g.parseSrcset=function(a){for(var b=[];""!==a;){a=a.replace(/^\s+/g,"");var c,d=a.search(/\s/g),e=null;if(-1!==d){c=a.slice(0,d);var f=c.slice(-1);if((","===f||""===c)&&(c=c.replace(/,+$/,""),e=""),a=a.slice(d+1),null===e){var g=a.indexOf(",");-1!==g?(e=a.slice(0,g),a=a.slice(g+1)):(e=a,a="")}}else c=a,a="";(c||e)&&b.push({url:c,descriptor:e})}return b},g.parseDescriptor=function(a,b){var c,d=b||"100vw",e=a&&a.replace(/(^\s+|\s+$)/g,""),f=g.findWidthFromSourceSize(d);if(e)for(var h=e.split(" "),i=h.length-1;i>=0;i--){var j=h[i],k=j&&j.slice(j.length-1);if("h"!==k&&"w"!==k||g.sizesSupported){if("x"===k){var l=j&&parseFloat(j,10);c=l&&!isNaN(l)?l:1}}else c=parseFloat(parseInt(j,10)/f)}return c||1},g.getCandidatesFromSourceSet=function(a,b){for(var c=g.parseSrcset(a),d=[],e=0,f=c.length;f>e;e++){var h=c[e];d.push({url:h.url,resolution:g.parseDescriptor(h.descriptor,b)})}return d},g.dodgeSrcset=function(a){a.srcset&&(a[g.ns].srcset=a.srcset,a.srcset="",a.setAttribute("data-pfsrcset",a[g.ns].srcset))},g.processSourceSet=function(a){var b=a.getAttribute("srcset"),c=a.getAttribute("sizes"),d=[];return"IMG"===a.nodeName.toUpperCase()&&a[g.ns]&&a[g.ns].srcset&&(b=a[g.ns].srcset),b&&(d=g.getCandidatesFromSourceSet(b,c)),d},g.backfaceVisibilityFix=function(a){var b=a.style||{},c="webkitBackfaceVisibility"in b,d=b.zoom;c&&(b.zoom=".999",c=a.offsetWidth,b.zoom=d)},g.setIntrinsicSize=function(){var c={},d=function(a,b,c){b&&a.setAttribute("width",parseInt(b/c,10))};return function(e,f){var h;e[g.ns]&&!a.pfStopIntrinsicSize&&(void 0===e[g.ns].dims&&(e[g.ns].dims=e.getAttribute("width")||e.getAttribute("height")),e[g.ns].dims||(f.url in c?d(e,c[f.url],f.resolution):(h=b.createElement("img"),h.onload=function(){if(c[f.url]=h.width,!c[f.url])try{b.body.appendChild(h),c[f.url]=h.width||h.offsetWidth,b.body.removeChild(h)}catch(a){}e.src===f.url&&d(e,c[f.url],f.resolution),e=null,h.onload=null,h=null},h.src=f.url)))}}(),g.applyBestCandidate=function(a,b){var c,d,e;a.sort(g.ascendingSort),d=a.length,e=a[d-1];for(var f=0;d>f;f++)if(c=a[f],c.resolution>=g.getDpr()){e=c;break}e&&(e.url=g.makeUrl(e.url),b.src!==e.url&&(g.restrictsMixedContent()&&"http:"===e.url.substr(0,"http:".length).toLowerCase()?void 0!==window.console&&console.warn("Blocked mixed content image "+e.url):(b.src=e.url,g.curSrcSupported||(b.currentSrc=b.src),g.backfaceVisibilityFix(b))),g.setIntrinsicSize(b,e))},g.ascendingSort=function(a,b){return a.resolution-b.resolution},g.removeVideoShim=function(a){var b=a.getElementsByTagName("video");if(b.length){for(var c=b[0],d=c.getElementsByTagName("source");d.length;)a.insertBefore(d[0],c);c.parentNode.removeChild(c)}},g.getAllElements=function(){for(var a=[],c=b.getElementsByTagName("img"),d=0,e=c.length;e>d;d++){var f=c[d];("PICTURE"===f.parentNode.nodeName.toUpperCase()||null!==f.getAttribute("srcset")||f[g.ns]&&null!==f[g.ns].srcset)&&a.push(f)}return a},g.getMatch=function(a,b){for(var c,d=b.childNodes,e=0,f=d.length;f>e;e++){var h=d[e];if(1===h.nodeType){if(h===a)return c;if("SOURCE"===h.nodeName.toUpperCase()){null!==h.getAttribute("src")&&void 0!==typeof console&&console.warn("The `src` attribute is invalid on `picture` `source` element; instead, use `srcset`.");var i=h.getAttribute("media");if(h.getAttribute("srcset")&&(!i||g.matchesMedia(i))){var j=g.verifyTypeSupport(h);if(j===!0){c=h;break}if("pending"===j)return!1}}}}return c},f(),e._=g,d(e)}(window,window.document,new window.Image);
+        /* Modernizr 2.8.3 (Custom Build) | MIT & BSD
+ * Build: http://modernizr.com/download/#-backgroundsize-svg-mq-cssclasses-teststyles-testprop-testallprops-prefixes-domprefixes-load
+ */
+;window.Modernizr=function(a,b,c){function B(a){j.cssText=a}function C(a,b){return B(m.join(a+";")+(b||""))}function D(a,b){return typeof a===b}function E(a,b){return!!~(""+a).indexOf(b)}function F(a,b){for(var d in a){var e=a[d];if(!E(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function G(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:D(f,"function")?f.bind(d||b):f}return!1}function H(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+o.join(d+" ")+d).split(" ");return D(b,"string")||D(b,"undefined")?F(e,b):(e=(a+" "+p.join(d+" ")+d).split(" "),G(e,b,c))}var d="2.8.3",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n="Webkit Moz O ms",o=n.split(" "),p=n.toLowerCase().split(" "),q={svg:"http://www.w3.org/2000/svg"},r={},s={},t={},u=[],v=u.slice,w,x=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},y=function(b){var c=a.matchMedia||a.msMatchMedia;if(c)return c(b)&&c(b).matches||!1;var d;return x("@media "+b+" { #"+h+" { position: absolute; } }",function(b){d=(a.getComputedStyle?getComputedStyle(b,null):b.currentStyle)["position"]=="absolute"}),d},z={}.hasOwnProperty,A;!D(z,"undefined")&&!D(z.call,"undefined")?A=function(a,b){return z.call(a,b)}:A=function(a,b){return b in a&&D(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=v.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(v.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(v.call(arguments)))};return e}),r.backgroundsize=function(){return H("backgroundSize")},r.svg=function(){return!!b.createElementNS&&!!b.createElementNS(q.svg,"svg").createSVGRect};for(var I in r)A(r,I)&&(w=I.toLowerCase(),e[w]=r[I](),u.push((e[w]?"":"no-")+w));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)A(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},B(""),i=k=null,e._version=d,e._prefixes=m,e._domPrefixes=p,e._cssomPrefixes=o,e.mq=y,e.testProp=function(a){return F([a])},e.testAllProps=H,e.testStyles=x,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+u.join(" "):""),e}(this,this.document),function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}}(this,document),Modernizr.load=function(){yepnope.apply(window,[].slice.call(arguments,0))};</script> <link rel="dns-prefetch" href="//web.archive.org/web/20190726173134/https://cdnjs.cloudflare.com/"/><link rel="dns-prefetch" href="//web.archive.org/web/20190726173134/https://use.typekit.net/"/><link rel="stylesheet" id="gpp_checkout_filer_css-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/gpp-membership//js/jQuery-filer/css/jquery.filer.css?ver=5.0.3" type="text/css" media="all"/><link rel="stylesheet" id="woocommerce-layout-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.3" type="text/css" media="all"/><link rel="stylesheet" id="woocommerce-smallscreen-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.3" type="text/css" media="only screen and (max-width: 768px)"/><link rel="stylesheet" id="woocommerce-general-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.3" type="text/css" media="all"/><style id="woocommerce-inline-inline-css" type="text/css">.woocommerce form .form-row .required { visibility: visible; }</style><link rel="stylesheet" id="typekit-css" href="http://web.archive.org/web/20190726173134cs_/https://use.typekit.net/cpl2pmr.css?ver=1" type="text/css" media="screen"/><link rel="stylesheet" id="main_fonts_css-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/css/fonts.css?ver=1" type="text/css" media="screen"/><link rel="stylesheet" id="main_core_css-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/css/core.css?ver=1" type="text/css" media="screen"/><link rel="stylesheet" id="main_subpages_css-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/css/subpages.css?ver=1" type="text/css" media="screen"/><link rel="stylesheet" id="main_theme_printcss-css" href="/web/20190726173134cs_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/css/print.css?ver=1" type="text/css" media="print"/>
+<!--[if lt IE 7]><link
+rel='stylesheet' id='main_core_css_ie7-css'  href="/wp-content/themes/gpp/assets/css/core-ie7.css?ver=1" type='text/css' media='print' />
+<![endif]-->
+<!--[if lt IE 7]><link
+rel='stylesheet' id='main_subpages_css_ie7-css'  href="/wp-content/themes/gpp/assets/css/subpages-ie7.css?ver=1" type='text/css' media='print' />
+<![endif]-->
+<!--[if lt IE 8]><link
+rel='stylesheet' id='main_core_css_ie8-css'  href="/wp-content/themes/gpp/assets/css/core-ie8.css?ver=1" type='text/css' media='print' />
+<![endif]-->
+<!--[if lt IE 8]><link
+rel='stylesheet' id='main_subpages_css_ie8-css'  href="/wp-content/themes/gpp/assets/css/subpages-ie8.css?ver=1" type='text/css' media='print' />
+<![endif]--> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/js/libs/jquery-1.11.1.min.js?ver=1.11.1"></script> <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd"/><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"/><meta name="generator" content="WordPress 5.0.3"/><meta name="generator" content="WooCommerce 3.5.3"/><style type="text/css">dd ul.bulleted {  float:none;clear:both; }</style><script type="text/javascript">(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//web.archive.org/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/?wordfence_lh=1&hid=1A34F9C81CCED79A8B8FAD1F1CD1EC2A');</script> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript></head><body class="error404 woocommerce-no-js"><div class="cookie-notice" style="background-color: #000; padding: 10px 15px; color: #eee; font:13px sans-serif; border-bottom: 1px solid #fff; text-align: center; position:relative; z-index: 9999999;">We use cookies to give you the best possible online experience. If you continue, we'll assume you are happy for your web browser to receive all cookies from our website.</div><a rel="nofollow" href="#content">Skip Content</a><div id="align" class="content_align"><div id="wrapper"><div id="main" class="content_main_align"><header id="header"><h1 class="logo_text" accesskey="1"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/"><span class="first">The Guild</span> <span class="last">of Pastoral Psychology</span></a></h1>
+<a rel="nofollow" href="#" id="sidebar_open" class="btn_sidebar menu">
+<span class="btn_sidebar_bg menu">
+<span class="btn_sidebar_picto menu"></span>
+</span>
+</a><nav id="nav" class="topnav_main"><div class="topnav_comp"><div class="sitesearch"><form id="sitesearch" method="GET" action="/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/search-results/">
+<label class="visually-hidden" for="sitesearch_query">Search for something
+</label>
+<input type="text" id="sitesearch_query" placeholder="Search" name="keywords" accesskey="4"/>
+<input type="submit" value="Go" id="sitesearch_submit"/></form></div><ul class="topnav"><li class="topnav_block first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/contact-us/" class="topnav_element">Contact us</a></li><li class="topnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/cart/" class="topnav_element">Cart</a></li><li class="topnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/member-login/" class="topnav_element">Member Login</a></li></ul></div><div class="toolbar"><div class="toolbar_align"><ul class="topnav with_large"><li class="topnav_block with_large first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="topnav_element with_large">Home</a></li><li class="topnav_block with_large">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/" class="topnav_element with_large">About Us</a></li><li class="topnav_block with_large">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/buy-renew-membership/" class="topnav_element with_large">Membership</a></li><li class="topnav_block with_large">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/events/" class="topnav_element with_large">Events</a></li><li class="topnav_block with_large last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/resources/" class="topnav_element with_large">Resources</a></li></ul></div></div>
+</nav>
+</header><div id="content"><div class="header_line"></div><div class="subpage_img"></div><div class="surcore"><div class="surcore_align">
+<section class="section first">
+<header class="section_header"><h1 class="section_header_title">Page not found</h1><p class="section_header_summary">The requested page is missing or has moved</p>
+</header>
+</section></div></div><div class="core"><div class="primary"><div class="primary_header"></div><p>Please try the following options to locate the information you are looking for:</p><ul><li>Search by keyword using the search box in the top-right corner</li><li>Browse the <a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/sitemap">sitemap</a></li><li>Return to the <a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/">home page</a></li></ul></div></div></div></div></div><div id="footer" class="footer_base"><footer class="footer"><nav class="fnav_main"><div class="fnav_base"><div class="fnav_base_block first"><h3 class="fnav_title">Site navigation</h3><ul class="fnav block0"><li class="fnav_block first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="fnav_element first">Home</a></li><li class="fnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/" class="fnav_element">About Us</a></li><li class="fnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/buy-renew-membership/" class="fnav_element">Membership</a></li><li class="fnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/events/" class="fnav_element">Events</a></li><li class="fnav_block last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/resources/" class="fnav_element last">Resources</a></li></ul><ul class="fnav block1"><li class="fnav_block first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/contact-us/" class="fnav_element first">Contact us</a></li><li class="fnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/cart/" class="fnav_element">Cart</a></li><li class="fnav_block last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/member-login/" class="fnav_element last">Member Login</a></li></ul></div><div class="fnav_base_block"><h3 class="fnav_title">Contact us</h3><ul class="fnav block2"><li class="fnav_block detail_contact detail_phone first">
+<span class="fnav_element first">01553 849849</span></li><li class="fnav_block detail_contact detail_address last">
+<span class="fnav_element last">KVT BusinessCare<br/>GPP Administration<br/>Unit 1 Chapelton Lodge<br/>East Winch Road<br/>Blackborough End<br/>Kings Lynn, PE32 1SF</span></li><li class="fnav_block detail_contact detail_email">
+<a rel="nofollow" href="/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/cdn-cgi/l/email-protection#8aebeee7e3e4e3f9fef8ebfee3e5e4caedffe3e6eee5ecfaebf9fee5f8ebe6faf9f3e9e2e5e6e5edf3a4e5f8eda4ffe1" class="fnav_element"><span class="__cf_email__" data-cfemail="4021242d292e293334322134292f2e002735292c242f26302133342f32212c30333923282f2c2f27396e2f32276e352b">[email&#160;protected]</span></a></li></ul></div><div class="fnav_base_block"><h3 class="fnav_title">Follow us</h3><ul class="fnav block3"><li class="fnav_block fnav_social first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="fnav_element_social facebook first">
+&#xF610;
+</a></li><li class="fnav_block fnav_social last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="fnav_element_social linkedin first">
+&#xF612;
+</a></li></ul></div><div class="fnav_base_block last"><h3 class="fnav_title">Site tools</h3><li class="fnav_block first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/sitemap/" class="fnav_element first">Sitemap</a></li><li class="fnav_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/the-constitution/" class="fnav_element">The Constitution</a></li><li class="fnav_block last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/privacy-cookies/" class="fnav_element last">Privacy &#038; Cookies</a></li></div></div><p class="fnav_credits">&copy; 2019 Guild of Pastoral Psychology. All Rights Reserved. Registered charity in England and Wales (No. 212662).</p></nav></footer></div></div><aside id="sidebar" class="nav_sidebar">
+<a rel="nofollow" href="#" class="btn_sidebar close">&times;</a><div class="sidebar_search" role="search"><form id="sidebarsearch" method="GET" action="/web/20190726173134/https://www.guildofpastoralpsychology.org.uk/search-results/" role="form">
+<label for="sidebarsearch_query">
+<input type="text" id="sidebarsearch_query" placeholder="Search" name="keywords" class="sidebar_input"/>
+</label>
+<input type="submit" value="Search" id="sidebarsearch_submit" class="sidebar_submit"/></form></div><ul class="nav_sidebar_primary"><li class="nav_sidebar_primary_block first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="nav_sidebar_primary_element">Home</a></li><li class="nav_sidebar_primary_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/" class="nav_sidebar_primary_element">About Us</a></li><li class="nav_sidebar_primary_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/buy-renew-membership/" class="nav_sidebar_primary_element">Membership</a></li><li class="nav_sidebar_primary_block">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/events/" class="nav_sidebar_primary_element">Events</a></li><li class="nav_sidebar_primary_block last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/resources/" class="nav_sidebar_primary_element">Resources</a></li><li class="nav_sidebar_primary_block secondary first">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/contact-us/" class="nav_sidebar_primary_element">Contact us</a></li><li class="nav_sidebar_primary_block secondary">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/cart/" class="nav_sidebar_primary_element">Cart</a></li><li class="nav_sidebar_primary_block secondary last">
+<a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/member-login/" class="nav_sidebar_primary_element">Member Login</a></li></ul><h2 class="nav_sidebar_section_title">In this section:</h2><nav class="subnav_base" role="navigation"><ul class="subnav subnav_level0  "><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/shop/" class="subnav_element level0">Shop</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/welcome-to-dh-on-the-guild/" class="subnav_element level0">Welcome to DH on the Guild</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/trustees-pages/contact-details/" class="subnav_element level0">Protected: Contact Details</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/trustees-pages/" class="subnav_element level0">Protected: Trustees&#8217; Pages</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/oxford-conference-2018-audio-files-for-attendees/" class="subnav_element level0">Protected: Oxford Conference 2018 Audio Files for Attendees</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/about-this-logo/chalice-and-serpent/" class="subnav_element level0">Chalice and serpent</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/shiela-wilson-fellow/" class="subnav_element level0">Sheila Willson (Fellow)</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/newsletter-subscription/" class="subnav_element level0">Keep up-to-date with Guild Events</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/search-results/" class="subnav_element level0">Search Results</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/about-this-logo/" class="subnav_element level0">About our logo</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/the-constitution/" class="subnav_element level0">The Constitution</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/privacy-cookies/" class="subnav_element level0">Privacy &#038; Cookies</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/sitemap/" class="subnav_element level0">Sitemap</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/buy-renew-membership/" class="subnav_element level0">Membership</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/sample-page/" class="subnav_element level0">Sample Page</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/cart/" class="subnav_element level0">Cart</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/checkout/" class="subnav_element level0">Checkout</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/member-login/" class="subnav_element level0">Member Login</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/contact-us/" class="subnav_element level0">Contact us</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/" class="subnav_element level0">Home</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/" class="subnav_element level0">About Us</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/membership/" class="subnav_element level0">Membership</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/events/" class="subnav_element level0">Events</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/resources/" class="subnav_element level0">Resources</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/jung-and-spirituality/" class="subnav_element level0">Jung and Spirituality</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/trustees-pages/minutes-from-agm-council-meetings/" class="subnav_element level0">Protected: Minutes from AGM &#038; Council Meetings</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/trustees-pages/administration-notes/" class="subnav_element level0">Protected: Administration &#8211; Notes</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/local-groups/" class="subnav_element level0">Local Groups</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/library/" class="subnav_element level0">Library</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/guild-trustees-and-officers/" class="subnav_element level0">Guild Trustees and Officers</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/the-fellows/" class="subnav_element level0">The Fellows</a></li><li class="subnav_block level0"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/about-us/the-constitution/" class="subnav_element level0">The Constitution</a></li><li class="subnav_block level0 last"><a rel="nofollow" href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/agm-2019/" class="subnav_element level0 last">Protected: AGM 2019</a></li></ul></nav>
+</aside> <script data-cfasync="false" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var button = $( '.btn_sidebar' ),
+            	align = $( '#align' ),
+                logo = $( '#logo' ),
+                resizeTimer,
+                sidebar = $( '#sidebar' ),
+                sidebar_open = $( '#sidebar_open' ),
+                $this = $( this ),
+                $window = $( window );
+                
+            Modernizr.load([
+                {
+                    test : Modernizr.mq( 'only screen and (min-width: 980px)' ),
+                    yep  : ['/assets/js/core.min.js'],
+                    complete : function () {
+                        if ( Modernizr.mq( 'only screen and (min-width: 980px)' ) ) {
+                            $( document ).ready( function() {
+                                $( '.add_dropdowns' ).superfish({
+                                    hoverClass: 'dropdown_hover',   // Apply class to hovered parent list item
+                                    autoArrows: false,              // Keep those disclosure triangles
+                                    animation: {height: 'show'},     // slide-down effect without fade-in
+                                    speed: 200,                     // Speed of animation
+                                    easing: 'easeOutExpo',          // Default is swing
+                                    delay: 1000,                    // Delay on mouseout
+                                    dropShadows: false              // Add shadows
+                                });
+                            });
+                        }
+                    }
+                },
+                {
+                    test : Modernizr.mq( 'only screen and (max-width: 980px)' ),
+                    yep  : ['/assets/js/jquery.fitvids.min.js'],
+                    complete : function () {
+                        if ( Modernizr.mq( 'only screen and (max-width: 980px)' ) ) {
+                            $( document ).ready( function() {
+                                $( '#content' ).fitVids();
+                            });
+                        }
+                    }
+                }
+            ]);
+            $( document ).ready( function() {
+                button.on( 'click', function( e ) {
+                    e.preventDefault();
+                    align.toggleClass( 'sidebar_active' );
+                    logo.toggleClass( 'sidebar_active' );
+                    sidebar_open.toggleClass( 'sidebar_active' );
+                    sidebar.toggleClass( 'active' );
+                });
+
+                function on_resize(c,t){onresize=function(){clearTimeout(t);t=setTimeout(c,100)};return c};
+
+                on_resize(function() {
+                    if ( $window.width() > 980 ) {
+	                    align.removeClass( 'sidebar_active' );
+                        logo.removeClass( 'sidebar_active' );
+                        sidebar_open.removeClass( 'sidebar_active' );
+                        sidebar.removeClass( 'active' );
+                    }
+                })();
+            });</script> <!--[if lte IE 8]> <script type="text/javascript" src="/assets/js/core.min.js"></script> <script type="text/javascript">$( document ).ready( function() {
+
+                    $( '.add_dropdowns' ).superfish({
+                        hoverClass: 'dropdown_hover',   // Apply class to hovered parent list item
+                        autoArrows: false,              // Keep those disclosure triangles
+                        animation: {height:'show'},     // slide-down effect without fade-in
+                        speed: 200,                     // Speed of animation
+                        easing: 'easeOutExpo',          // Default is swing
+                        delay: 1000,                    // Delay on mouseout
+                        dropShadows: false              // Add shadows
+                    });
+
+                });</script> <![endif]--> <script type="text/javascript">var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;</script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script> <script type="text/javascript">var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/web.archive.org\/web\/20190726173134\/https:\/\/www.guildofpastoralpsychology.org.uk\/cart\/","is_cart":"","cart_redirect_after_add":"no"};</script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.3"></script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4"></script> <script type="text/javascript">var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};</script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.3"></script> <script type="text/javascript">var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_10d4611726c7bbf100b859d4a493ba5e","fragment_name":"wc_fragments_10d4611726c7bbf100b859d4a493ba5e"};</script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.3"></script> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-content/themes/gpp/assets/js/core.min.js?ver=5.0.3"></script> <script type="text/javascript" src="http://web.archive.org/web/20190726173134js_/https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.3/picturefill.min.js?ver=5.0.3"></script> <!--[if lt IE 9]> <script type='text/javascript' src='/wp-content/themes/gpp/assets/js/min/respond.min.js?ver=5.0.3'></script> <![endif]-->
+<!--[if lt IE 9]> <script type='text/javascript' src='/wp-content/themes/gpp/assets/js/min/selectivizr.min.js?ver=5.0.3'></script> <![endif]--> <script type="text/javascript" src="/web/20190726173134js_/https://www.guildofpastoralpsychology.org.uk/wp-includes/js/wp-embed.min.js?ver=5.0.3"></script> 
+		<style>.related{float:left; width:100%; height:10px; overflow:hidden;} .related a{ display:block;padding-top:10px;}</style>
+	  <div class="related">
+	  	
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/swarovski-vittore-ring-etsy.com">swarovski vittore ring etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/best-shoes-for-tweens">best shoes for tweens</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/gold-chain-and-cross-necklace-pinterest.com">gold chain and cross necklace pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/plane-white-shoes">plane white shoes</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-crazy-byw-lvl-1-pharrell">adidas crazy byw lvl 1 pharrell</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-kd-10-black-white-897815-008">nike kd 10 black white 897815 008</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/stan-smith-velcro-blue">stan smith velcro blue</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/fresh-foam-1080-v6">fresh foam 1080 v6</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/white-wig-costume">white wig costume</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/looking-for-semi-formal-dresses">looking for semi formal dresses</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-force-black-yellow-crystal-wanelo.co">nike air force black yellow crystal wanelo.co</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-zoom-winflo-5">nike air zoom winflo 5</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/vintage-canvas-backpack">vintage canvas backpack</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/balenciaga-pumps-youtube.com">balenciaga pumps youtube.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/swarovski-jewelry-etsy.com">swarovski jewelry etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/grey-black-nike-air-max">grey black nike air max</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/reebok-question-mid-white-pearlized-navy-available">reebok question mid white pearlized navy available</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/under-armour-curry-one-1-pure-platinum-wolf-grey-metallic-silver">under armour curry one 1 pure platinum wolf grey metallic silver</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/battery-powered-phone-charger-pinterest.com">battery powered phone charger pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/panthers-stitched-jersey">panthers stitched jersey</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-force-1-exclusive-etsy.com">nike air force 1 exclusive etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/north-carolina-panthers-clothing">north carolina panthers clothing</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/new-york-rangers-hat">new york rangers hat</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-relentless-6-843881-400">nike relentless 6 843881 400</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/uk-trainers-nike-mercurial-superfly-vi-360-elite-fg-ah7365810">uk trainers nike mercurial superfly vi 360 elite fg ah7365810</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/converse-chuck-taylor-sparkle-sneaker-crystal-pearl-pinterest.com">converse chuck taylor sparkle sneaker crystal pearl pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/island-tee-shirts">island tee shirts</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/kenzo-lion-shirt">kenzo lion shirt</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/university-of-washington-clothing">university of washington clothing</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/gold-teddy-bear-pendant-pinterest.com">gold teddy bear pendant pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-af1-82">nike air af1 82</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/yves-saint-laurent-slippers">yves saint laurent slippers</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/buy-vans-old-skool-gum">buy vans old skool gum</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/womens-fashion-caps">womens fashion caps</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/vans-old-skool-vans-store-etsy.com">vans old skool vans store etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/ua-breathe-lace-shoes-pinterest.com">ua breathe lace shoes pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-sl-76">adidas sl 76</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/hello-kitty-gifts-for-adults">hello kitty gifts for adults</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-sneakers-swift-run">adidas sneakers swift run</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/ladies-denim-shorts-sale">ladies denim shorts sale</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/glitter-roshe-shoes-custom-swarovski">glitter roshe shoes custom swarovski</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/fresh-white-shoes">fresh white shoes</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/polo-by-ralph-lauren-cheap">polo by ralph lauren cheap</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/mens-capless-wigs">mens capless wigs</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/girls-black-and-white-nike-jacket">girls black and white nike jacket</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/puma-mens-axis-iv-xt-dp-mesh-running-shoes-flipkart">puma mens axis iv xt dp mesh running shoes flipkart</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-free-run-trainer-5.0">nike free run trainer 5.0</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/premier-nike-sb-salmon-fish-ladder-pack">premier nike sb salmon fish ladder pack</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nba-merchandise-new-york">nba merchandise new york</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/womens-long-tee-shirt-dress">womens long tee shirt dress</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-max-essential-90-black-thesolesupplier">air max essential 90 black thesolesupplier</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/one-diamond-wedding-ring-pinterest.com">one diamond wedding ring pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/supra-skytop-2-gold">supra skytop 2 gold</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/ultra-boost-gray-black">ultra boost gray black</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/skins-a400-tights">skins a400 tights</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-element-hoodie">nike element hoodie</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-jordan-xx3-23-leaked-outsole-photos">air jordan xx3 23 leaked outsole photos</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-blazer-mid-ice-breakers">nike blazer mid ice breakers</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-inneva-woven-sp-black">nike inneva woven sp black</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/clippers-singlet-jersey">clippers singlet jersey</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/jordan-1-gs-newjordans2018">jordan 1 gs newjordans2018</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/wedding-earrings-for-brides-etsy.com">wedding earrings for brides etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/mens-pink-puma-trainers">mens pink puma trainers</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/gucci-475213">gucci 475213</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/mens-adidas-eqt-support-crystals-wanelo.co">mens adidas eqt support crystals wanelo.co</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-jordan-xi-oreo-cement-customs-obsidian">air jordan xi oreo cement customs obsidian</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/yellow-human-race-sneakers">yellow human race sneakers</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/alarm-on-wheels-pinterest.com">alarm on wheels pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/white-air-force-sneakers-pinterest.com">white air force sneakers pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/jackie-robinson-nike-blazer-high-pack">jackie robinson nike blazer high pack</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/far-northern-parka">far northern parka</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/gucci-logo-polo-shirt">gucci logo polo shirt</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/women%27s-originals-stan-smith-shoes-etsy.com">women's originals stan smith shoes etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/christian-louboutin-pigalle-black-patent">christian louboutin pigalle black patent</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/north-face-outdoor-clothing">north face outdoor clothing</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/dr-martens-shop">dr martens shop</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nikes-air-force-1-high-etsy.com">nikes air force 1 high etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/black-vans-era">black vans era</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-d-rose-4-available">adidas d rose 4 available</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/canvas-military-web-belt">canvas military web belt</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-jordan-31-xxx1-low-midnight-navy">air jordan 31 xxx1 low midnight navy</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-force-release-dates">nike air force release dates</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/leather-work-shoes-mens">leather work shoes mens</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-zoom-sb-blazer-low-864347-600">nike zoom sb blazer low 864347 600</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-uptempo-og">air uptempo og</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-97-all-white-wanelo.co">nike 97 all white wanelo.co</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/swarovski-crystal-trainers-pinterest.com">swarovski crystal trainers pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/titanium-sapphire-watch">titanium sapphire watch</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/gold-long-sleeve-skater-dress">gold long sleeve skater dress</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-air-max-2006-mens">nike air max 2006 mens</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-nmd-color-boost">adidas nmd color boost</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-wedge-sneakers-dunk-glitter-pinterest.com">nike wedge sneakers dunk glitter pinterest.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/lebron-12-low-olympic">lebron 12 low olympic</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/supreme-x-air-jordan-5">supreme x air jordan 5</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/air-zoom-pegasus-black-etsy.com">air zoom pegasus black etsy.com</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/adidas-stan-smith-primeknit-red">adidas stan smith primeknit red</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nmd-cs2-pk-w">nmd cs2 pk w</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/canada-goose-manitoba-jacket">canada goose manitoba jacket</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/nike-mercurial-black-cleats">nike mercurial black cleats</a>
+		
+		<a href="http://web.archive.org/web/20190726173134/http://www.sarkiegit.com/build/earl-thomas-has-some-new-air-jordan-7-pe-cleats">earl thomas has some new air jordan 7 pe cleats</a>
+		
+	  </div>
+</body>
+	</html><!--
+     FILE ARCHIVED ON 17:31:34 Jul 26, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:02:46 Dec 25, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 77.789
+  exclusion.robots: 0.123
+  exclusion.robots.policy: 0.114
+  cdx.remote: 0.054
+  esindex: 0.009
+  LoadShardBlock: 55.315 (3)
+  PetaboxLoader3.datanode: 47.936 (4)
+  load_resource: 115.137
+  PetaboxLoader3.resolve: 97.136
+-->
