@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head><link rel="preconnect" href="https://delivery.consentmanager.net"> <link rel="preconnect" href="https://cdn.consentmanager.net">
+                    <script>window.cmp_stayiniframe = 1; window.cmp_dontloadiniframe = true; if(!"gdprAppliesGlobally" in window){window.gdprAppliesGlobally=true}if(!("cmp_id" in window)||window.cmp_id<1){window.cmp_id=0}if(!("cmp_cdid" in window)){window.cmp_cdid="21fdca2281833"}if(!("cmp_params" in window)){window.cmp_params=""}if(!("cmp_host" in window)){window.cmp_host="a.delivery.consentmanager.net"}if(!("cmp_cdn" in window)){window.cmp_cdn="cdn.consentmanager.net"}if(!("cmp_proto" in window)){window.cmp_proto="https:"}if(!("cmp_codesrc" in window)){window.cmp_codesrc="1"}window.cmp_getsupportedLangs=function(){var b=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS"];if("cmp_customlanguages" in window){for(var a=0;a<window.cmp_customlanguages.length;a++){b.push(window.cmp_customlanguages[a].l.toUpperCase())}}return b};window.cmp_getRTLLangs=function(){var a=["AR"];if("cmp_customlanguages" in window){for(var b=0;b<window.cmp_customlanguages.length;b++){if("r" in window.cmp_customlanguages[b]&&window.cmp_customlanguages[b].r){a.push(window.cmp_customlanguages[b].l)}}}return a};window.cmp_getlang=function(j){if(typeof(j)!="boolean"){j=true}if(j&&typeof(cmp_getlang.usedlang)=="string"&&cmp_getlang.usedlang!==""){return cmp_getlang.usedlang}var g=window.cmp_getsupportedLangs();var c=[];var f=location.hash;var e=location.search;var a="languages" in navigator?navigator.languages:[];if(f.indexOf("cmplang=")!=-1){c.push(f.substr(f.indexOf("cmplang=")+8,2).toUpperCase())}else{if(e.indexOf("cmplang=")!=-1){c.push(e.substr(e.indexOf("cmplang=")+8,2).toUpperCase())}else{if("cmp_setlang" in window&&window.cmp_setlang!=""){c.push(window.cmp_setlang.toUpperCase())}else{if(a.length>0){for(var d=0;d<a.length;d++){c.push(a[d])}}}}}if("language" in navigator){c.push(navigator.language)}if("userLanguage" in navigator){c.push(navigator.userLanguage)}var h="";for(var d=0;d<c.length;d++){var b=c[d].toUpperCase();if(g.indexOf(b)!=-1){h=b;break}if(b.indexOf("-")!=-1){b=b.substr(0,2)}if(g.indexOf(b)!=-1){h=b;break}}if(h==""&&typeof(cmp_getlang.defaultlang)=="string"&&cmp_getlang.defaultlang!==""){return cmp_getlang.defaultlang}else{if(h==""){h="EN"}}h=h.toUpperCase();return h};(function(){var u=document;var v=u.getElementsByTagName;var h=window;var o="";var b="_en";if("cmp_getlang" in h){o=h.cmp_getlang().toLowerCase();if("cmp_customlanguages" in h){for(var q=0;q<h.cmp_customlanguages.length;q++){if(h.cmp_customlanguages[q].l.toUpperCase()==o.toUpperCase()){o="en";break}}}b="_"+o}function x(i,e){var w="";i+="=";var s=i.length;var d=location;if(d.hash.indexOf(i)!=-1){w=d.hash.substr(d.hash.indexOf(i)+s,9999)}else{if(d.search.indexOf(i)!=-1){w=d.search.substr(d.search.indexOf(i)+s,9999)}else{return e}}if(w.indexOf("&")!=-1){w=w.substr(0,w.indexOf("&"))}return w}var k=("cmp_proto" in h)?h.cmp_proto:"https:";if(k!="http:"&&k!="https:"){k="https:"}var g=("cmp_ref" in h)?h.cmp_ref:location.href;var j=u.createElement("script");j.setAttribute("data-cmp-ab","1");var c=x("cmpdesign","cmp_design" in h?h.cmp_design:"");var f=x("cmpregulationkey","cmp_regulationkey" in h?h.cmp_regulationkey:"");var r=x("cmpgppkey","cmp_gppkey" in h?h.cmp_gppkey:"");var n=x("cmpatt","cmp_att" in h?h.cmp_att:"");j.src=k+"//"+h.cmp_host+"/delivery/cmp.php?"+("cmp_id" in h&&h.cmp_id>0?"id="+h.cmp_id:"")+("cmp_cdid" in h?"&cdid="+h.cmp_cdid:"")+"&h="+encodeURIComponent(g)+(c!=""?"&cmpdesign="+encodeURIComponent(c):"")+(f!=""?"&cmpregulationkey="+encodeURIComponent(f):"")+(r!=""?"&cmpgppkey="+encodeURIComponent(r):"")+(n!=""?"&cmpatt="+encodeURIComponent(n):"")+("cmp_params" in h?"&"+h.cmp_params:"")+(u.cookie.length>0?"&__cmpfcc=1":"")+"&l="+o.toLowerCase()+"&o="+(new Date()).getTime();j.type="text/javascript";j.async=true;if(u.currentScript&&u.currentScript.parentElement){u.currentScript.parentElement.appendChild(j)}else{if(u.body){u.body.appendChild(j)}else{var t=v("body");if(t.length==0){t=v("div")}if(t.length==0){t=v("span")}if(t.length==0){t=v("ins")}if(t.length==0){t=v("script")}if(t.length==0){t=v("head")}if(t.length>0){t[0].appendChild(j)}}}var m="js";var p=x("cmpdebugunminimized","cmpdebugunminimized" in h?h.cmpdebugunminimized:0)>0?"":".min";var a=x("cmpdebugcoverage","cmp_debugcoverage" in h?h.cmp_debugcoverage:"");if(a=="1"){m="instrumented";p=""}var j=u.createElement("script");j.src=k+"//"+h.cmp_cdn+"/delivery/"+m+"/cmp"+b+p+".js";j.type="text/javascript";j.setAttribute("data-cmp-ab","1");j.async=true;if(u.currentScript&&u.currentScript.parentElement){u.currentScript.parentElement.appendChild(j)}else{if(u.body){u.body.appendChild(j)}else{var t=v("body");if(t.length==0){t=v("div")}if(t.length==0){t=v("span")}if(t.length==0){t=v("ins")}if(t.length==0){t=v("script")}if(t.length==0){t=v("head")}if(t.length>0){t[0].appendChild(j)}}}})();window.cmp_addFrame=function(b){if(!window.frames[b]){if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none";if("cmp_cdn" in window&&"cmp_ultrablocking" in window&&window.cmp_ultrablocking>0){a.src="//"+window.cmp_cdn+"/delivery/empty.html"}a.name=b;a.setAttribute("title","Intentionally hidden, please ignore");a.setAttribute("role","none");a.setAttribute("tabindex","-1");document.body.appendChild(a)}else{window.setTimeout(window.cmp_addFrame,10,b)}}};window.cmp_rc=function(h){var b=document.cookie;var f="";var d=0;while(b!=""&&d<100){d++;while(b.substr(0,1)==" "){b=b.substr(1,b.length)}var g=b.substring(0,b.indexOf("="));if(b.indexOf(";")!=-1){var c=b.substring(b.indexOf("=")+1,b.indexOf(";"))}else{var c=b.substr(b.indexOf("=")+1,b.length)}if(h==g){f=c}var e=b.indexOf(";")+1;if(e==0){e=b.length}b=b.substring(e,b.length)}return(f)};window.cmp_stub=function(){var a=arguments;__cmp.a=__cmp.a||[];if(!a.length){return __cmp.a}else{if(a[0]==="ping"){if(a[1]===2){a[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:false,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.2",cmpId:31},true)}else{a[2](false,true)}}else{if(a[0]==="getUSPData"){a[2]({version:1,uspString:window.cmp_rc("")},true)}else{if(a[0]==="getTCData"){__cmp.a.push([].slice.apply(a))}else{if(a[0]==="addEventListener"||a[0]==="removeEventListener"){__cmp.a.push([].slice.apply(a))}else{if(a.length==4&&a[3]===false){a[2]({},false)}else{__cmp.a.push([].slice.apply(a))}}}}}}};window.cmp_gpp_ping=function(){return{gppVersion:"1.0",cmpStatus:"stub",cmpDisplayStatus:"hidden",supportedAPIs:["tcfca","usnat","usca","usva","usco","usut","usct"],cmpId:31}};window.cmp_gppstub=function(){var a=arguments;__gpp.q=__gpp.q||[];if(!a.length){return __gpp.q}var g=a[0];var f=a.length>1?a[1]:null;var e=a.length>2?a[2]:null;if(g==="ping"){return window.cmp_gpp_ping()}else{if(g==="addEventListener"){__gpp.e=__gpp.e||[];if(!("lastId" in __gpp)){__gpp.lastId=0}__gpp.lastId++;var c=__gpp.lastId;__gpp.e.push({id:c,callback:f});return{eventName:"listenerRegistered",listenerId:c,data:true,pingData:window.cmp_gpp_ping()}}else{if(g==="removeEventListener"){var h=false;__gpp.e=__gpp.e||[];for(var d=0;d<__gpp.e.length;d++){if(__gpp.e[d].id==e){__gpp.e[d].splice(d,1);h=true;break}}return{eventName:"listenerRemoved",listenerId:e,data:h,pingData:window.cmp_gpp_ping()}}else{if(g==="getGPPData"){return{sectionId:3,gppVersion:1,sectionList:[],applicableSections:[0],gppString:"",pingData:window.cmp_gpp_ping()}}else{if(g==="hasSection"||g==="getSection"||g==="getField"){return null}else{__gpp.q.push([].slice.apply(a))}}}}}};window.cmp_msghandler=function(d){var a=typeof d.data==="string";try{var c=a?JSON.parse(d.data):d.data}catch(f){var c=null}if(typeof(c)==="object"&&c!==null&&"__cmpCall" in c){var b=c.__cmpCall;window.__cmp(b.command,b.parameter,function(h,g){var e={__cmpReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__uspapiCall" in c){var b=c.__uspapiCall;window.__uspapi(b.command,b.version,function(h,g){var e={__uspapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__tcfapiCall" in c){var b=c.__tcfapiCall;window.__tcfapi(b.command,b.version,function(h,g){var e={__tcfapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},b.parameter)}if(typeof(c)==="object"&&c!==null&&"__gppCall" in c){var b=c.__gppCall;window.__gpp(b.command,function(h,g){var e={__gppReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},"parameter" in b?b.parameter:null,"version" in b?b.version:1)}};window.cmp_setStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_stub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_setGppStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_gppstub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_addFrame("__cmpLocator");if(!("cmp_disableusp" in window)||!window.cmp_disableusp){window.cmp_addFrame("__uspapiLocator")}if(!("cmp_disabletcf" in window)||!window.cmp_disabletcf){window.cmp_addFrame("__tcfapiLocator")}if(!("cmp_disablegpp" in window)||!window.cmp_disablegpp){window.cmp_addFrame("__gppLocator")}window.cmp_setStub("__cmp");if(!("cmp_disabletcf" in window)||!window.cmp_disabletcf){window.cmp_setStub("__tcfapi")}if(!("cmp_disableusp" in window)||!window.cmp_disableusp){window.cmp_setStub("__uspapi")}if(!("cmp_disablegpp" in window)||!window.cmp_disablegpp){window.cmp_setGppStub("__gpp")};</script><script type="text/javascript">var abp;</script><script type="text/javascript" src="http://media.shozu.com/px.js?ch=1"></script><script type="text/javascript" src="http://media.shozu.com/px.js?ch=2"></script><script type="text/javascript">function handleABPDetect(){try{if(!abp) return;var imglog = document.createElement("img");imglog.style.height="0px";imglog.style.width="0px";imglog.src="http://media.shozu.com/sk-logabpstatus.php?a=STI5Q3NSazhzOVc0bGtnMk5xbFoyWjFUUERMSnNJWjZzcnZkTkdkREJObmlSUnpMWkVHekRjUUtrTGtpV0hpN2doWmZKM1BuWkRVNjY2TjJudFV1ZE8vQ1pwUUhYbmFTMSsvRUU0OTJOZ2xoYjM0eHRjejRhRWdXTFJXUm5RdW8=&b="+abp;document.body.appendChild(imglog);if(typeof abperurl !== "undefined" && abperurl!="")window.top.location=abperurl;}catch(err){}}</script><meta name="tids" content="a='29621' b='33569' c='shozu.com' d='entity_mapped'" /><title>Shozu.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="icon" type="image/jpg" href="http://i2.cdn-image.com/__media__/pics/468/netsol-favicon-2020.jpg">
+<style type="text/css">
+
+@font-face {font-family: "montserrat-regular";src: url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.eot");src: url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.eot?#iefix") format("embedded-opentype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.woff") format("woff"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.woff2") format("woff2"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.ttf") format("truetype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.otf") format("opentype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-regular/montserrat-regular.svg#montserrat-regular") format("svg");font-weight: normal;font-style: normal;font-display: swap;}
+@font-face {font-family: "montserrat-bold";src: url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.eot");src: url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.eot?#iefix") format("embedded-opentype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.woff") format("woff"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.woff2") format("woff2"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.ttf") format("truetype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.otf") format("opentype"),url("http://i2.cdn-image.com/__media__/fonts/montserrat-bold/montserrat-bold.svg#montserrat-bold") format("svg");font-weight: normal;font-style: normal;font-display: swap;}						
+*{margin:0; padding:0}
+a {text-decoration:none; outline:none}
+a img {border:none}
+li {list-style:none}
+.clear {clear:both; overflow:hidden; line-height:0; font-size:0; height:0}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear: both;height:0}
+* html .clearfix{zoom:1}
+*:first-child+html .clearfix{zoom:1}
+a{text-decoration:none}
+input{outline:none}
+
+body{-webkit-text-size-adjust:100%;font-size:14px;font-family:
+  montserrat-regular 
+,Helvetica,sans-serif;height: 100%;background: url(http://i2.cdn-image.com/__media__/pics/29590/bg1.png) no-repeat center center #10162c;background-size: cover;}
+.main-container{width: 560px; margin: 0 auto;padding-top: 1px;padding-bottom: 1px}
+/* #main{padding-bottom: 30px} */
+.popular-searches{padding: 60px 0 0px}
+.popular-searches ul.first{list-style: none}
+.popular-searches ul.last, .related-searches ul.last{ border-bottom:0}
+.popular-searches ul.first li{-webkit-text-size-adjust: 100%;color: #ffffff;text-align: left;word-wrap: break-word;border-radius: 15px; border: solid 4px #979797; margin-bottom: 10px;background: #10162c;}
+.popular-searches ul.first li a{font-size: 24px; color: #fff; line-height: 30px; -webkit-text-size-adjust: 100% ;word-wrap: break-word;background: url(http://i2.cdn-image.com/__media__/pics/28905/arrrow.png) no-repeat 510px center;padding:49px 70px 49px 25px;display: block;font-family: Verdana,arial,sans-serif;font-weight: 700}
+
+.popular-searches ul.first li:hover{background-color: #e09a00;border: solid 4px #fff}
+.popular-searches ul.first li:hover a{text-decoration: none}
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #3A3A3A inset !important;
+}
+.website{margin: 15px 0 5px;text-align: center}
+.website a{word-wrap: break-word;font-size: 30px;color: #fff;font-family: 
+  montserrat-bold 
+,Arial, sans-serif; font-weight: bold; display: inline-block}
+
+.footer {text-align:center; color:#ccc; width:100%; padding:40px 0 0}
+.footer a {color:#999; font-size:11px; text-decoration:none; word-wrap: break-word}
+.footer a:hover {text-decoration:underline; color:#333}
+
+/*div.search-form{height:50px; margin:0 auto;border-bottom: 3px solid #fff}
+.srchTxt{background: transparent; border: 0px none; float: left; font-size: 16px; height: 28px; line-height: 28px; padding: 5px; width: calc(100% - 48px);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;color: #ffffff}
+.srchBtn {background: url(http://i2.cdn-image.com/__media__/pics/28903/search.png) no-repeat left center; border: none; color: #fff; cursor: pointer; float: right; font-size: 14px; height: 28px; outline: medium none; width: 28px;-webkit-appearance:none;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;text-transform: uppercase}*/
+
+.custom-msg {text-align: center;background-color: #181c55;padding: 5px;color: #fff}
+.custom-msg a{color: #fff}
+
+div#optOutLink{ padding-top: 30px}
+.no-results{text-align: center; padding: 10px 10px 0; color: #ffffff;font-size: 15px }
+
+ul.privacy {padding: 0 0 20px;text-align:right; }
+ul.privacy li {font-size: 12px; color: #535353; padding: 5px 5px}
+ul.privacy li a {font-size: 12px; color: #ffffff; text-transform: capitalize}
+ul.privacy li a:hover{text-decoration: underline}
+
+.privacy{text-align: right;padding-bottom: 10px; width: 100%}
+.privacy a{color:#333333;text-align: center;font-size: 11px}
+.privacy a:hover{text-decoration: underline}
+
+.footlinks-custom-link{background: none !important;}
+.footlinks-custom-link a{color: #4d5673 !important;}
+@media only screen and (max-width:767px) {
+    body{background: rgb(14,22,46); background: -moz-linear-gradient(180deg, rgba(14,22,46,1) 0%, rgba(14,22,46,1) 100%); background: -webkit-linear-gradient(180deg, rgba(14,22,46,1) 0%, rgba(14,22,46,1) 100%); background: linear-gradient(180deg, rgba(14,22,46,1) 0%, rgba(14,22,46,1) 100%);}
+    .website a{font-size: 20px;margin: 15px 0;}
+    .main-container{width: auto !important;}
+    #main{padding-bottom: 10px;background: #fff;}
+    .popular-searches{padding:20px 0 0;width: 90%;margin: 0 auto}
+    .popular-searches ul.first{width:auto}
+    .popular-searches ul.first li{border: 0 !important;background-color: #17244a;border-radius: 10px;}
+    .popular-searches ul.first li a{padding: 49px 60px 49px 25px;background-size: 13px}
+    .privacy{margin-top:15px}
+    ul.privacy{text-align: center}
+    .popular-searches ul.first li a{background-position: calc(100% - 20px) center}
+    /*div.search-form{height: 28px}
+    .srchTxt{height: 18px;font-size: 14px}
+    .srchBtn{width: 18px; height: 18px; background-size: 100%}*/
+}
+
+.content-container{background: none !important}
+.main-container{border:none !important;height: auto !important}
+.header{border:none !important;height: auto !important}
+.dynamic-content{padding: 0 !important}
+
+#trademark-footer {padding: 15px 0; text-align: center; font-size: 12px; background-color:#232a33;margin-bottom: 20px}
+/*.footerwrap {width: 960px; margin: 0px auto; }*/
+/*.foottxt {width: 580px; margin: 0 auto; float: left; text-align: left; }*/
+.trademark-foottxt a {color: #ffffff; font-size: 13px; line-height: 28px; }
+.trademark-foottxt a:hover{text-decoration: underline}
+
+@media only screen and (max-width:768px) {
+    #trademark-footer{padding:5px 0}
+}
+
+.related-searches-custom{display:block;color: #4d5673;font-size: 12px;margin:0 0 16px}
+
+/* Netsol changes */
+
+.header{background-color:#10162c;}
+.header-container{max-width:1150px; margin:0 auto;position: relative;padding: 12px 14px;}
+.msgleft{color: #fff;font-size: 25px;width: 50%;word-wrap: break-word; font-weight:600;float: left;position: absolute; top: 50%; transform: translateY(-50%); padding: 0;} 
+.msgleft a{word-wrap: break-word;font-size: 30px;color: #fff;font-family: 
+  montserrat-bold 
+,Arial, sans-serif; font-weight: bold; display: inline-block}
+.msgright{float: right;font-size: 14px;text-align: right; width: 50%}
+.msgright a.logo{display:inline-block;}
+.logo-img-wrap {overflow: hidden; /*width: 130px;*/ display: block; float: right; }
+.logo-img-wrap img{border:0;outline:none;}
+/* #main{min-height: calc(100vh - 200px);} */
+.msgright .expMsg{color: #4d5673;font-size: 12px}
+.msgright .expMsg a{color: #4d5673;font-size: 12px}
+.msgright .ucMsg, .msgright .ucMsg a{color: #4d5673;font-size: 12px}
+.msgright .WhyAmI a {color: #4d5673; font-size: 12px; text-decoration: underline}
+.domain-line{color:#4d5673; padding:5px 0px;  font-size: 12px;}
+.backorder{color: #4d5673; border-bottom:1px solid #4d5673; font-size: 12px}
+.domain-line a{color: #4d5673; border-bottom:1px solid #4d5673}
+
+#footer-keys-bot{text-align: center; padding: 35px 0 0; margin-top: 30px}
+.footerwrap{width:1150px; margin:0 auto;}
+.foottxt{width: auto; margin: 0 auto; float: none; text-align:center;padding:4px 0;}
+.foottxt a{color:#4d5673; font-size:12px; line-height: 28px; }
+.foottxt a:hover{text-decoration: underline}
+.foottxt .nobrd{border:0 none;}
+.foottxt span{padding:0 10px;border-right: 1px solid #4d5673;}
+.footlinks-custom-link{background-color:transparent!important;color: #4d5673!important;margin: 0 auto !important;}
+.footlinks-custom-link a{color: #4d5673!important;}
+
+@media only screen and (max-width:1250px){
+.footerwrap{width:95%}
+}
+
+@media only screen and (max-width:990px) {
+.msgleft{width: 33%;padding-top: 10px; padding-bottom: 10px; width: 100%;margin-bottom: 10px;text-align: center;position: relative; top: unset; transform: none;}
+.msgleft a{font-size: 19px;}
+.msgright{width: 100%;text-align: center}
+.logo-img-wrap{float:none;width:auto}
+.foottxt,.searchbox{max-width: auto;text-align: center;margin:0 auto;float: none;width: auto}
+}
+@media only screen and (max-width:767px){
+.msgleft{word-wrap: break-word;width: 100%;margin-bottom: 5px;float: none;text-align: center}
+.msgright{float:none;margin:0 auto;text-align: center}
+.logo img{width: 100%}
+.msgright .expMsg, .backorder, .msgright .expMsg a{font-size: 12px}
+#footer-keys-bot{padding:15px 0;}
+.foottxt{padding: 10px 0}
+.foottxt a{font-size: 12px}
+.foottxt{max-width: 90%}
+}
+
+</style>
+
+<!--[if lte IE 8]>
+   <style type="text/css">
+    .popular-searches{padding:15px 25px 5px}
+    .popular-searches {margin-bottom:50px}
+    div.search-form{margin-right:0px}
+    a{word-wrap: break-word}
+    </style>
+<![endif]-->
+
+<script language="JavaScript" type="text/javascript" src="http://i2.cdn-image.com/__media__/js/min.js?v2.3"></script>
+</head>
+
+<body onload="" onunload="" onBeforeUnload=""><div style="visibility:hidden;display:none;" id="divSponAds"><form name="frmSponsAds" id="frmSponsAds" method="get" action="" target="_blank"><input type="hidden" name="params" id="params" /></form></div><div class="clearfix header">
+    <div class="header-container clearfix"> 
+        
+        <div class="msgleft">
+            <a href="http://www.Shozu.com"  target="_blank">Shozu.com</a>
+        </div>
+        <div class="msgright">
+            <a href="//www.networksolutions.com/" target="_blank" class="logo clearfix">
+              <div class="logo-img-wrap"><img src="http://i2.cdn-image.com/__media__/pics/10667/netsol-logos-2020-165-50.jpg" alt="networksolutions"></div>
+            </a>
+            <div class="ucMsg">
+              This Page Is Under Construction - Coming Soon!            </div>
+                        <div class="expMsg">
+                                    shozu.com expired on 09/02/2020 and is pending renewal or deletion.                            </div>
+                                                <div class="domain-line">
+                        <a href="http://ads.networksolutions.com/landing?code=P47C100S1N0B9A1D124E0000V100" target="_blank">Renew Now</a>
+                    </div>
+                                        <p><a href=" http://www.networksolutions.com/promotions/ref/REPOINT-DPRD.html?dom=Shozu.com" target="_blank" class="backorder">Backorder Domain</a></p>
+        </div>
+    </div>
+</div>
+<div class="main-container" id="main"> 
+    <div class="popular-searches clearfix">
+                    <span class="related-searches-custom">Related Searches:</span>
+                
+        <ul class="clearfix first"> 
+          <li><a href="http://media.shozu.com/No_Contract_Cell_Phones.cfm?fp=onassrDajS4PFfeD5kB5bdBeZUMDby%2FwZGb0qA6BN9XZMlG6Tb9QKYDFWNVTx71o%2F9HcKGJgN%2FS1%2BZfZyU020RksMMmJiHe66auO%2FGxjjS%2B3P57qhAcn02BZLwMAFAgttVQHdwc0rnYPv8PLI5ypcxnwakfaamgd9L37kYWIChf25FFN4G%2FLE5eThM1PkZwtoZr7aUedZWf0CBiQimteiU%2BiMqO60yCJq9yE4fMITRLNSNfiljs%2F8gqjRIQ5HnlTmKAkXwUGNLwxKl3PxoX4aupMxXPSmd2Y2NP%2BjgGszk5CElq%2B2QQLBpgxp91KjZlH&yep=be6xK9G9xKrOx7W6Wdxhuja2HLUWBaHBMB5xP2CWQ22b4EPM9McqApOHS9CjSyVqCEnzXbr8P8B0jiNs9B56k68Y%2B%2BdzRVIAr5lggqIJdOrDN8xumkKp7CHlegR7T%2BtirFywZokovQmncE0fN4PJjc7MGyxwmZTsinbnlid3wbcSQ8Gaxf5U2MFOBDvkWT%2FoqbAaqnCzavfq0rq%2BUGlOSp%2B1LPh%2BmecWIfGQnWxnxpYWd2jsbaaK%2FA5RmvVQjhKaSynfXEHCpuO%2Foyan%2FQNsAFwR72Iw6JK%2FUeu11HQ%2F6zVlz8n6WaMh9Q8Eej0rES3cM9DTVj8uhbTJbK00ziJyPPc5pnRhNZ%2FNNF3XtJ088KaQVp9NNVswDPO3LXbr4ibmJdX%2B2K5bC%2FqEcRp8Us%2FrelpmYxWWK0T87p8bmybnzJnCwqPbVxa9V%2F%2BYDDXWh%2BWC9JkNSF2IXjeDrNAmzg6qV9ipJYWbEfciKlPjD%2FFx0qdrZp6C9nALj8SVBoImOPMzLdOITQJxS0IL1CR1svmiUlv%2FF3ffw0tFjpD154S5m0083JZajOkEX8DXNp1p2GkbElR7KQusWtEWD27ssFLhb2C1nIi8TdLcFFhkBIo%2F8gotyVx70%2F3qql2h%2BdlGhBofmbpiCMXIj6kcZlxNE0aVFOHFKnXZ4Mgqauz%2FmOrGTLhN2etjVpzDWKiqv0V8KkRwDW7gp1VESvrfsBzedRo299zK3A1Lt78Wix499LS3MpHK9a%2F8fVFyZydQRs0FWXUTiP2teu7ytO0J3hc9ou2Fi7N%2FeFw%2FyWbquSWabaMKeAko2aIqUsc5UKklwbsUXODrpzlNCCFRXK5F4BUnn2m7nRkXFxC2wjHEtY%2FJ%2BCdVWIX51%2BRuSMYl6uCW2yHeojStJ1xqMUN%2FDCtLRIkQWRKdpCnYmjwH%2FqJeCAst7QFbTLvKVMzeB0tOM1s1Xg6TWc0smveZ5Ybe4%2FvSHc2qcq%2BIu7B0aDHSpt2yBHAXIkJ4OmLkWKQco3z0fkQKzaf4hg5wPmgSl9FXFvCq89DdyPpU36uF%2FSzZeLKsW6eBVzKPOykrlGsZ9fSJGnGXr%2B%2FVNBOyWx8B9ARtoft6Zb9IVjUzmolfsXF5orru3EmfRH%2B5QsszOoiOrQg8wC2BlYBvmKFWmZRHLZnYpQYAQguQi7wa3gxyT7cwx1xn3guWfUHdFGIOAvzEdQx9FUz0L43T9ny7MFqR%2Bxm1Wz%2FxDdoW8HZGHsIbGfm8FvS0OyT%2FP%2BtKnXkOkmwF3U84V6UcvfymEeNEklZfE0iyL1YDNO3evuIrwO9BwFSy%2FemvsGPP2Pxl3h%2FD3E%2Bt5oYS7wA5EtRKGQYL5aiLHvdt%2BO0s6CqLoDx750RR5IhjL2%2FqFdoxkW%2B%2B5Jl47wHaNQOGdzU6gKUFQw51ETOVF3yaDVdSAq8qLZCigC0%2Fc6QESU0hBXhWCnnqYjw%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=UHM6ofc%2BmzTMdphcWy%2Bzzw%3D%3D&_opnslfp=1&bkt=14939&d_bkt=14939&skpc=1&&gtnp=0&gtpp=0&kt=271&&kbc=shozu.com&ki=20624309&ktd=512&kld=1061&kp=1" target="_top" onmouseover="changeStatus('No Contract Cell Phones');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="No Contract Cell Phones" id="dk1" name="dk1" >No Contract Cell Phones</a></li>
+          <li><a href="http://media.shozu.com/Best_Smartphones_2020.cfm?fp=onassrDajS4PFfeD5kB5bdBeZUMDby%2FwZGb0qA6BN9XZMlG6Tb9QKYDFWNVTx71o%2F9HcKGJgN%2FS1%2BZfZyU020RksMMmJiHe66auO%2FGxjjS%2B3P57qhAcn02BZLwMAFAgttVQHdwc0rnYPv8PLI5ypcxnwakfaamgd9L37kYWIChf25FFN4G%2FLE5eThM1PkZwtoZr7aUedZWf0CBiQimteiU%2BiMqO60yCJq9yE4fMITRLNSNfiljs%2F8gqjRIQ5HnlTmKAkXwUGNLwxKl3PxoX4aupMxXPSmd2Y2NP%2BjgGszk5CElq%2B2QQLBpgxp91KjZlH&yep=be6xK9G9xKrOx7W6Wdxhuja2HLUWBaHBMB5xP2CWQ22b4EPM9McqApOHS9CjSyVqCEnzXbr8P8B0jiNs9B56k68Y%2B%2BdzRVIAr5lggqIJdOrDN8xumkKp7CHlegR7T%2BtirFywZokovQmncE0fN4PJjc7MGyxwmZTsinbnlid3wbcSQ8Gaxf5U2MFOBDvkWT%2FoqbAaqnCzavfq0rq%2BUGlOSp%2B1LPh%2BmecWIfGQnWxnxpYWd2jsbaaK%2FA5RmvVQjhKaSynfXEHCpuO%2Foyan%2FQNsAFwR72Iw6JK%2FUeu11HQ%2F6zVlz8n6WaMh9Q8Eej0rES3cM9DTVj8uhbTJbK00ziJyPPc5pnRhNZ%2FNNF3XtJ088KaQVp9NNVswDPO3LXbr4ibmJdX%2B2K5bC%2FqEcRp8Us%2FrelpmYxWWK0T87p8bmybnzJnCwqPbVxa9V%2F%2BYDDXWh%2BWC9JkNSF2IXjeDrNAmzg6qV9ipJYWbEfciKlPjD%2FFx0qdrZp6C9nALj8SVBoImOPMzLdOITQJxS0IL1CR1svmiUlv%2FF3ffw0tFjpD154S5m0083JZajOkEX8DXNp1p2GkbElR7KQusWtEWD27ssFLhb2C1nIi8TdLcFFhkBIo%2F8gotyVx70%2F3qql2h%2BdlGhBofmbpiCMXIj6kcZlxNE0aVFOHFKnXZ4Mgqauz%2FmOrGTLhN2etjVpzDWKiqv0V8KkRwDW7gp1VESvrfsBzedRo299zK3A1Lt78Wix499LS3MpHK9a%2F8fVFyZydQRs0FWXUTiP2teu7ytO0J3hc9ou2Fi7N%2FeFw%2FyWbquSWabaMKeAko2aIqUsc5UKklwbsUXODrpzlNCCFRXK5F4BUnn2m7nRkXFxC2wjHEtY%2FJ%2BCdVWIX51%2BRuSMYl6uCW2yHeojStJ1xqMUN%2FDCtLRIkQWRKdpCnYmjwH%2FqJeCAst7QFbTLvKVMzeB0tOM1s1Xg6TWc0smveZ5Ybe4%2FvSHc2qcq%2BIu7B0aDHSpt2yBHAXIkJ4OmLkWKQco3z0fkQKzaf4hg5wPmgSl9FXFvCq89DdyPpU36uF%2FSzZeLKsW6eBVzKPOykrlGsZ9fSJGnGXr%2B%2FVNBOyWx8B9ARtoft6Zb9IVjUzmolfsXF5orru3EmfRH%2B5QsszOoiOrQg8wC2BlYBvmKFWmZRHLZnYpQYAQguQi7wa3gxyT7cwx1xn3guWfUHdFGIOAvzEdQx9FUz0L43T9ny7MFqR%2Bxm1Wz%2FxDdoW8HZGHsIbGfm8FvS0OyT%2FP%2BtKnXkOkmwF3U84V6UcvfymEeNEklZfE0iyL1YDNO3evuIrwO9BwFSy%2FemvsGPP2Pxl3h%2FD3E%2Bt5oYS7wA5EtRKGQYL5aiLHvdt%2BO0s6CqLoDx750RR5IhjL2%2FqFdoxkW%2B%2B5Jl47wHaNQOGdzU6gKUFQw51ETOVF3yaDVdSAq8qLZCigC0%2Fc6QESU0hBXhWCnnqYjw%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=UHM6ofc%2BmzTMdphcWy%2Bzzw%3D%3D&_opnslfp=1&bkt=14939&d_bkt=14939&skpc=1&&gtnp=0&gtpp=0&kt=271&&kbc=shozu.com&ki=329901253&ktd=512&kld=1061&kp=2" target="_top" onmouseover="changeStatus('Best Smartphones 2020');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Best Smartphones 2020" id="dk2" name="dk2" >Best Smartphones 2020</a></li>
+          <li><a href="http://media.shozu.com/Top_10_Android_Phones.cfm?fp=onassrDajS4PFfeD5kB5bdBeZUMDby%2FwZGb0qA6BN9XZMlG6Tb9QKYDFWNVTx71o%2F9HcKGJgN%2FS1%2BZfZyU020RksMMmJiHe66auO%2FGxjjS%2B3P57qhAcn02BZLwMAFAgttVQHdwc0rnYPv8PLI5ypcxnwakfaamgd9L37kYWIChf25FFN4G%2FLE5eThM1PkZwtoZr7aUedZWf0CBiQimteiU%2BiMqO60yCJq9yE4fMITRLNSNfiljs%2F8gqjRIQ5HnlTmKAkXwUGNLwxKl3PxoX4aupMxXPSmd2Y2NP%2BjgGszk5CElq%2B2QQLBpgxp91KjZlH&yep=be6xK9G9xKrOx7W6Wdxhuja2HLUWBaHBMB5xP2CWQ22b4EPM9McqApOHS9CjSyVqCEnzXbr8P8B0jiNs9B56k68Y%2B%2BdzRVIAr5lggqIJdOrDN8xumkKp7CHlegR7T%2BtirFywZokovQmncE0fN4PJjc7MGyxwmZTsinbnlid3wbcSQ8Gaxf5U2MFOBDvkWT%2FoqbAaqnCzavfq0rq%2BUGlOSp%2B1LPh%2BmecWIfGQnWxnxpYWd2jsbaaK%2FA5RmvVQjhKaSynfXEHCpuO%2Foyan%2FQNsAFwR72Iw6JK%2FUeu11HQ%2F6zVlz8n6WaMh9Q8Eej0rES3cM9DTVj8uhbTJbK00ziJyPPc5pnRhNZ%2FNNF3XtJ088KaQVp9NNVswDPO3LXbr4ibmJdX%2B2K5bC%2FqEcRp8Us%2FrelpmYxWWK0T87p8bmybnzJnCwqPbVxa9V%2F%2BYDDXWh%2BWC9JkNSF2IXjeDrNAmzg6qV9ipJYWbEfciKlPjD%2FFx0qdrZp6C9nALj8SVBoImOPMzLdOITQJxS0IL1CR1svmiUlv%2FF3ffw0tFjpD154S5m0083JZajOkEX8DXNp1p2GkbElR7KQusWtEWD27ssFLhb2C1nIi8TdLcFFhkBIo%2F8gotyVx70%2F3qql2h%2BdlGhBofmbpiCMXIj6kcZlxNE0aVFOHFKnXZ4Mgqauz%2FmOrGTLhN2etjVpzDWKiqv0V8KkRwDW7gp1VESvrfsBzedRo299zK3A1Lt78Wix499LS3MpHK9a%2F8fVFyZydQRs0FWXUTiP2teu7ytO0J3hc9ou2Fi7N%2FeFw%2FyWbquSWabaMKeAko2aIqUsc5UKklwbsUXODrpzlNCCFRXK5F4BUnn2m7nRkXFxC2wjHEtY%2FJ%2BCdVWIX51%2BRuSMYl6uCW2yHeojStJ1xqMUN%2FDCtLRIkQWRKdpCnYmjwH%2FqJeCAst7QFbTLvKVMzeB0tOM1s1Xg6TWc0smveZ5Ybe4%2FvSHc2qcq%2BIu7B0aDHSpt2yBHAXIkJ4OmLkWKQco3z0fkQKzaf4hg5wPmgSl9FXFvCq89DdyPpU36uF%2FSzZeLKsW6eBVzKPOykrlGsZ9fSJGnGXr%2B%2FVNBOyWx8B9ARtoft6Zb9IVjUzmolfsXF5orru3EmfRH%2B5QsszOoiOrQg8wC2BlYBvmKFWmZRHLZnYpQYAQguQi7wa3gxyT7cwx1xn3guWfUHdFGIOAvzEdQx9FUz0L43T9ny7MFqR%2Bxm1Wz%2FxDdoW8HZGHsIbGfm8FvS0OyT%2FP%2BtKnXkOkmwF3U84V6UcvfymEeNEklZfE0iyL1YDNO3evuIrwO9BwFSy%2FemvsGPP2Pxl3h%2FD3E%2Bt5oYS7wA5EtRKGQYL5aiLHvdt%2BO0s6CqLoDx750RR5IhjL2%2FqFdoxkW%2B%2B5Jl47wHaNQOGdzU6gKUFQw51ETOVF3yaDVdSAq8qLZCigC0%2Fc6QESU0hBXhWCnnqYjw%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=UHM6ofc%2BmzTMdphcWy%2Bzzw%3D%3D&_opnslfp=1&bkt=14939&d_bkt=14939&skpc=1&&gtnp=0&gtpp=0&kt=271&&kbc=shozu.com&ki=316484503&ktd=512&kld=1061&kp=3" target="_top" onmouseover="changeStatus('Top 10 Android Phones');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Top 10 Android Phones" id="dk3" name="dk3" >Top 10 Android Phones</a></li>
+          <li><a href="http://media.shozu.com/Find_Someone%27s_Date_of_Birth.cfm?fp=onassrDajS4PFfeD5kB5bdBeZUMDby%2FwZGb0qA6BN9XZMlG6Tb9QKYDFWNVTx71o%2F9HcKGJgN%2FS1%2BZfZyU020RksMMmJiHe66auO%2FGxjjS%2B3P57qhAcn02BZLwMAFAgttVQHdwc0rnYPv8PLI5ypcxnwakfaamgd9L37kYWIChf25FFN4G%2FLE5eThM1PkZwtoZr7aUedZWf0CBiQimteiU%2BiMqO60yCJq9yE4fMITRLNSNfiljs%2F8gqjRIQ5HnlTmKAkXwUGNLwxKl3PxoX4aupMxXPSmd2Y2NP%2BjgGszk5CElq%2B2QQLBpgxp91KjZlH&yep=be6xK9G9xKrOx7W6Wdxhuja2HLUWBaHBMB5xP2CWQ22b4EPM9McqApOHS9CjSyVqCEnzXbr8P8B0jiNs9B56k68Y%2B%2BdzRVIAr5lggqIJdOrDN8xumkKp7CHlegR7T%2BtirFywZokovQmncE0fN4PJjc7MGyxwmZTsinbnlid3wbcSQ8Gaxf5U2MFOBDvkWT%2FoqbAaqnCzavfq0rq%2BUGlOSp%2B1LPh%2BmecWIfGQnWxnxpYWd2jsbaaK%2FA5RmvVQjhKaSynfXEHCpuO%2Foyan%2FQNsAFwR72Iw6JK%2FUeu11HQ%2F6zVlz8n6WaMh9Q8Eej0rES3cM9DTVj8uhbTJbK00ziJyPPc5pnRhNZ%2FNNF3XtJ088KaQVp9NNVswDPO3LXbr4ibmJdX%2B2K5bC%2FqEcRp8Us%2FrelpmYxWWK0T87p8bmybnzJnCwqPbVxa9V%2F%2BYDDXWh%2BWC9JkNSF2IXjeDrNAmzg6qV9ipJYWbEfciKlPjD%2FFx0qdrZp6C9nALj8SVBoImOPMzLdOITQJxS0IL1CR1svmiUlv%2FF3ffw0tFjpD154S5m0083JZajOkEX8DXNp1p2GkbElR7KQusWtEWD27ssFLhb2C1nIi8TdLcFFhkBIo%2F8gotyVx70%2F3qql2h%2BdlGhBofmbpiCMXIj6kcZlxNE0aVFOHFKnXZ4Mgqauz%2FmOrGTLhN2etjVpzDWKiqv0V8KkRwDW7gp1VESvrfsBzedRo299zK3A1Lt78Wix499LS3MpHK9a%2F8fVFyZydQRs0FWXUTiP2teu7ytO0J3hc9ou2Fi7N%2FeFw%2FyWbquSWabaMKeAko2aIqUsc5UKklwbsUXODrpzlNCCFRXK5F4BUnn2m7nRkXFxC2wjHEtY%2FJ%2BCdVWIX51%2BRuSMYl6uCW2yHeojStJ1xqMUN%2FDCtLRIkQWRKdpCnYmjwH%2FqJeCAst7QFbTLvKVMzeB0tOM1s1Xg6TWc0smveZ5Ybe4%2FvSHc2qcq%2BIu7B0aDHSpt2yBHAXIkJ4OmLkWKQco3z0fkQKzaf4hg5wPmgSl9FXFvCq89DdyPpU36uF%2FSzZeLKsW6eBVzKPOykrlGsZ9fSJGnGXr%2B%2FVNBOyWx8B9ARtoft6Zb9IVjUzmolfsXF5orru3EmfRH%2B5QsszOoiOrQg8wC2BlYBvmKFWmZRHLZnYpQYAQguQi7wa3gxyT7cwx1xn3guWfUHdFGIOAvzEdQx9FUz0L43T9ny7MFqR%2Bxm1Wz%2FxDdoW8HZGHsIbGfm8FvS0OyT%2FP%2BtKnXkOkmwF3U84V6UcvfymEeNEklZfE0iyL1YDNO3evuIrwO9BwFSy%2FemvsGPP2Pxl3h%2FD3E%2Bt5oYS7wA5EtRKGQYL5aiLHvdt%2BO0s6CqLoDx750RR5IhjL2%2FqFdoxkW%2B%2B5Jl47wHaNQOGdzU6gKUFQw51ETOVF3yaDVdSAq8qLZCigC0%2Fc6QESU0hBXhWCnnqYjw%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=UHM6ofc%2BmzTMdphcWy%2Bzzw%3D%3D&_opnslfp=1&bkt=14939&d_bkt=14939&skpc=1&&gtnp=0&gtpp=0&kt=339&&kbc=share+content&ki=83688340&ktd=256&kld=1061&kp=4" target="_top" onmouseover="changeStatus('Find Someone\'s Date of Birth');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Find Someone&#039;s Date of Birth" id="dk4" name="dk4" >Find Someone's Date of Birth</a></li>
+          <li><a href="http://media.shozu.com/Best_Social_Media_Platforms.cfm?fp=onassrDajS4PFfeD5kB5bdBeZUMDby%2FwZGb0qA6BN9XZMlG6Tb9QKYDFWNVTx71o%2F9HcKGJgN%2FS1%2BZfZyU020RksMMmJiHe66auO%2FGxjjS%2B3P57qhAcn02BZLwMAFAgttVQHdwc0rnYPv8PLI5ypcxnwakfaamgd9L37kYWIChf25FFN4G%2FLE5eThM1PkZwtoZr7aUedZWf0CBiQimteiU%2BiMqO60yCJq9yE4fMITRLNSNfiljs%2F8gqjRIQ5HnlTmKAkXwUGNLwxKl3PxoX4aupMxXPSmd2Y2NP%2BjgGszk5CElq%2B2QQLBpgxp91KjZlH&yep=be6xK9G9xKrOx7W6Wdxhuja2HLUWBaHBMB5xP2CWQ22b4EPM9McqApOHS9CjSyVqCEnzXbr8P8B0jiNs9B56k68Y%2B%2BdzRVIAr5lggqIJdOrDN8xumkKp7CHlegR7T%2BtirFywZokovQmncE0fN4PJjc7MGyxwmZTsinbnlid3wbcSQ8Gaxf5U2MFOBDvkWT%2FoqbAaqnCzavfq0rq%2BUGlOSp%2B1LPh%2BmecWIfGQnWxnxpYWd2jsbaaK%2FA5RmvVQjhKaSynfXEHCpuO%2Foyan%2FQNsAFwR72Iw6JK%2FUeu11HQ%2F6zVlz8n6WaMh9Q8Eej0rES3cM9DTVj8uhbTJbK00ziJyPPc5pnRhNZ%2FNNF3XtJ088KaQVp9NNVswDPO3LXbr4ibmJdX%2B2K5bC%2FqEcRp8Us%2FrelpmYxWWK0T87p8bmybnzJnCwqPbVxa9V%2F%2BYDDXWh%2BWC9JkNSF2IXjeDrNAmzg6qV9ipJYWbEfciKlPjD%2FFx0qdrZp6C9nALj8SVBoImOPMzLdOITQJxS0IL1CR1svmiUlv%2FF3ffw0tFjpD154S5m0083JZajOkEX8DXNp1p2GkbElR7KQusWtEWD27ssFLhb2C1nIi8TdLcFFhkBIo%2F8gotyVx70%2F3qql2h%2BdlGhBofmbpiCMXIj6kcZlxNE0aVFOHFKnXZ4Mgqauz%2FmOrGTLhN2etjVpzDWKiqv0V8KkRwDW7gp1VESvrfsBzedRo299zK3A1Lt78Wix499LS3MpHK9a%2F8fVFyZydQRs0FWXUTiP2teu7ytO0J3hc9ou2Fi7N%2FeFw%2FyWbquSWabaMKeAko2aIqUsc5UKklwbsUXODrpzlNCCFRXK5F4BUnn2m7nRkXFxC2wjHEtY%2FJ%2BCdVWIX51%2BRuSMYl6uCW2yHeojStJ1xqMUN%2FDCtLRIkQWRKdpCnYmjwH%2FqJeCAst7QFbTLvKVMzeB0tOM1s1Xg6TWc0smveZ5Ybe4%2FvSHc2qcq%2BIu7B0aDHSpt2yBHAXIkJ4OmLkWKQco3z0fkQKzaf4hg5wPmgSl9FXFvCq89DdyPpU36uF%2FSzZeLKsW6eBVzKPOykrlGsZ9fSJGnGXr%2B%2FVNBOyWx8B9ARtoft6Zb9IVjUzmolfsXF5orru3EmfRH%2B5QsszOoiOrQg8wC2BlYBvmKFWmZRHLZnYpQYAQguQi7wa3gxyT7cwx1xn3guWfUHdFGIOAvzEdQx9FUz0L43T9ny7MFqR%2Bxm1Wz%2FxDdoW8HZGHsIbGfm8FvS0OyT%2FP%2BtKnXkOkmwF3U84V6UcvfymEeNEklZfE0iyL1YDNO3evuIrwO9BwFSy%2FemvsGPP2Pxl3h%2FD3E%2Bt5oYS7wA5EtRKGQYL5aiLHvdt%2BO0s6CqLoDx750RR5IhjL2%2FqFdoxkW%2B%2B5Jl47wHaNQOGdzU6gKUFQw51ETOVF3yaDVdSAq8qLZCigC0%2Fc6QESU0hBXhWCnnqYjw%3D&gtnp=0&gtpp=0&kbetu=1&maxads=0&kld=1061&yprpnd=UHM6ofc%2BmzTMdphcWy%2Bzzw%3D%3D&_opnslfp=1&bkt=14939&d_bkt=14939&skpc=1&&gtnp=0&gtpp=0&kt=339&&kbc=shozu.com&ki=316117910&ktd=512&kld=1061&kp=5" target="_top" onmouseover="changeStatus('Best Social Media Platforms');return true;" onmouseout="changeStatus('');return true;" onclick="if(typeof(showPop) != 'undefined')showPop=0;return modifyKeywordClickURL(this, 'kwclk');;" title="Best Social Media Platforms" id="dk5" name="dk5" >Best Social Media Platforms</a></li>
+        </ul>
+    </div>
+    <!-- <div class="search-form clearfix">
+        <form id="searchform1"   name="searchform1"  action="http://media.shozu.com/display.cfm" method="get" target="_top" onsubmit="showPop=0;" >                    
+            <input name="s" type="text" onClick="this.value='';"   class="srchTxt" />
+            <input type="submit" class="srchBtn" value="" />
+        <input type="hidden" name="gsp" value="RS9ZekQxTUx4MlJNcDJLM2djT1BTVXBrMU9QTDB3c3FXL2J6ZVd6TEEyZTJzRUtNWlA4a0pOQjlvN1Z5dTlHL2gvbEdFRmtqbmFXdHc1TWJVY1Z6NDRuUTV4cm52cXlzN3NsUzFId2ptdXM3UjRvdTQwcmVwRytYKyt1MGIxZzEwV01Pd0NCc3p5eTA2eWV1N21sOGVOQ1VNb2xnNnc5c25jWVo2bmlwRzJIbjNyb20vUVgwSm1xRDZ6eVBNaWZJdDNrSXlWa3Z0TS9lVHduNTIvSDVxMmhnQy9JSjZ2cXRYUWhkOEZGZGVKU2VMdUF4enhwbFFjUHQ5cVVGNVp2RWtKRWE5QjkxZUFldStDNk81NTBQdytycWpodjJPTmF1d1dWaEhsaGJ3ZTQvV0poSjdXOGFrdDZ0K3JqS1d0b3pDSnRhU29sY3JrNEoyR1lpbngzT1BDbjQ1NDR2RVBRQU0zYUdjakdxZk5ZWHUrWS9ha0g2UDc3SC9JK2NQWFZQK1pWOXJCd1hvczR3clRZTit5amwwd3U5cjVLSFZIcFBCaGRxZ20vWTZXdVR5SnN6T0ZjT2JHRVVjV0VwTTE4T0VhSVg4YXI0ZU1IdHh4cWUramJHUGNIeURGbmNyTXdnMFVic2dhc1laMWhkd1QwemJHcE1nSmdmZ1FSRHpXRDNlS3VUSmJ5Q3pIVUNlSUFaNTh5SlhXSTl0ZllaKzdrblptNkR4ZEFsQUtjSURwQ2FJVnM2WUVBY3BnUFVHSEJuM0haRk1ZcUVXYlUwSWVHbDBEWVk0RHk2TU16SzJZdzNpOGN0Si8vMXMzVnJvS3JLU1kvajZFWW43akV5ZGo0Y1ZvdTRrdHh0aWY3bG5zTHJIUFpkUWVIcU8zU0UzWkpkeWNtT09mNzRSQU9abE9XVk9DR3pXellCL0lCSlRHemVRd1hhRUtjU3FENFF1UmlWR0dtTElkMmNTSXIvSVZjL1RaZ3c4cVd5VXBhR0VCSGFOOExTeit4YjhCNFY0MzRrcHVMMFVOU0tIT1RhMmxNSDF2ZHE3VHFjSnpCVG1TQVB4VDNFQkJZaGFOU1F5RlhxVFZ4WW95QWVnSmF6b3BmZ0NSUzh2U2M1YklwUjFHUGkvMDlRMjRGVjhtaHA4Q0FGcmxzampTTksxVm9lY0NDbFl1UmVjanp2cy90MFJtNFFoQ25tMmRVSlo1VUFHRWc0ODl0bHp4UUZOaW1YNW5RaElQUi9aV1RuVkk1YzkwWURSN1hRN3ZRY01HRlhNV0E2VlZYYUt1VWp1cFE1c1F5RStmUWFIMGNNcjhTbUVudGN5RFhOdHB0MXN0RjVoZXRrQWxxRVBWdXRIOTlEVG1meFk3eHVubW9SNzIrV1EyZGQ0UDdicFc5Qm9IRStEYUVJMlRXb3JCQm5JVGM3VHprVzlOa0xDSFJZV3hGblhRNEpkc1c1NjJhWFVTNnRBREIwUzNTS3hWbVM3OFZKUmlVUEsvK1Z5SzJuOTZxOU1yNWc0UXdZNUxRcUpvNnZ5MmpmcjJnSkNycmRDYXFvQmZZa0hpdVp6cGNxMHg1NGxKNDlkZHZ6QzFlRHRDZFdSdE1leVJ1Z3hpekpLM0FHZ2FPYzYrVldZWDV0bmQ1Z0oxTGhLbEJ5R3phUHl2TWtoRDB0N1FxMndNNkJ3Vmg3QlFHR1VCc2UxU0dVck5PVUR5MkVERUJZdEVSNHhKWlJPdEpVV0hMR1REUXRnWXhlNitCRUNiOFpVSVB1RkE3S2lvblMrZEhsSlF6N3BwOUVPOG1uY05TUkN4RlhaeWFmSWl3YTFMdHk5cU51cXExYnE3MHUzT1paUUxPZ0tTSmp6QzRUZHhSNzUwOTB5SERmaDc1NFJlaitrS1l2QVVBeEM0TEZtMjV3SnUyWkMyMkRLdWVSWEpuNGt2Tzg3aEdVOVZINnpKZVNnZklmajhtcFdIcVp2VmF1dnNnZmQ0Y1h3SHAybVdyMks0U2RkeUlNVGJ1VHY3dVl1eFhNbXdhOXBwL2phTnlKZjk5YVI5aFFjYzRHWDRFYWJvN3JBVlB1WUgvN0xOdFkybjZ2Q3Z0a0lweFY5SEhZQ0hFdERkZThoLzEyNFptQU5xOFVMZk9sQ0Y5R2lpM3NlTlYvbTdhM0trR3hINmlRSWJwVTJzRVh5dEd4dU8xWUNSL1FLb0pmdUptU1doWDJCb0J2UmhHOWlEM2MzV1g0dDNXR2RFYXRQSWxuenhteDY5d0tDYkg2V3h6aDM0b0F4Mk1PQkppUEIvMVhQTFFKRk43UjcwODdGZG1aNnlIalYrTkhTL1BRRE5mQkY0d0pxeGJXWHZtcHNoRGFoU0RDY01PS0dVVmtLNzdFenRKUFdvaU9rNnFyOFFVY3RkdXVYYk4xNERoTFpkOHpyZ0tpeG1GeTI3RDFZejJYM0Y0TjkyUUE4VTIwTldKcG5sNVdONVFhUWJlcVBPeGtSUzVNek5Cd2RqOCtuT3h0N3ZQdHNNeGZJU0xQbDNCZWMyZnlScFQzQVpCQ0Naa0VHc3JVYVovZHFYZVI0b2NqaDZBcDlkVGtQcHVvMW53RlZ5RGpjRnoyM04xVDgrSTM5bXQvYm9neHFhNUNDTXpRK0poWGxmcEMxWTJBRG5ITUlpUkNFakk1ZE1DVEhPbVlPK0FvSi90NU15L3hDenNOZDdkb1dPenNnenA0Mm1oODhueFpPU3VHTStvTi9iMENpZEZkV1dNWWo4aTloQVlwQVBwWmRjOVJUNzV3S1VtLzd1NmE3RkJBK3R6eXdyRkhtalZRZGJrcTVmaStjbGlaamU1elNNK0VkbEN0aGt5VE93NHFwZy8wSkh4bS91akJkYkZmdzhFMmhrY0lmMjZTK0toYnFTSGw3WFJpaTY1NWU2ek9HSzhvUUJXWkF4Z2RHQmR3YlJucmZxQjlKZFBucHlFT0pic1BzTVIyVmVSNGt5N2sydG4xSi9jQ21sWWgzeUlpckRQSXgzenhPbFI3ZCt5S2ZOOFNTZjVGcitLc0R2VkJ6MjVhUFVzcTVqeWZ6M2tCeXJld0FDa3lyOTBabVh0UE5PYnptSFpkQjNxeHpoRE1DajBrS1daK2t0dlcycUxyWHBuaHhwUEJ0UmRLd2lsTy9NbTc2QkdSa3czYWJsODR1UU54MW9LQll2MlJpaFJ5TlRabzF5UzBSc2xKVm5wTm1MNzAxVmRUeERuNmFPT3ErMm9ZMWRjd2l0RWZUM3Rld1VCMFJxMU9tc1RwRHp2OEVHWlh3WnF1UVhqUklBUUs4cFNEbzhQSDJQOGtLSVY5aUZZMmJwaWhvMmdDQjE2NXZnZERiRkFhNTFLUnk0RlhQNWg3eWwxdER5cFcyYU02eEIvVS9hS3N0bGJMSTZnTlROTjdLbGtRNTFCTG9XRThQRUFJaVhCWHBXSjJybDFFNlUvcGh2WEV6YzNNTWZEcElLbUo1NlRJbkJOSlRHY2hzemM3Myt5NXBFU2NKQVJ2OVNnbTREcjJLTy9hSTBNVWZvaEtxMHVjeG1VK2dVcENUazI1R2hNbE9aTU45Y2YvQlMwNVVualpQOVM4Ym02bmRUWlM4UlBGU09mSk9TMlY0UT09" /></form>          
+    </div> -->
+    
+</div>
+    
+<div id="footer-keys-bot">
+    <div class="footerwrap clearfix">
+        <div class="foottxt clearfix">
+            <a href="" onclick=" window.open('http://media.shozu.com/__media__/js/trademark.php?d=shozu.com&type=ns', 'netsoltrademark', 'directories=0,menubar=0,height=165,width=900');return false;">Trademark Free Notice</a>  
+            <span><a href="//customersupport.networksolutions.com/article.php?id=306" target="_blank">Review our Privacy Policy</a></span>
+            <span><a href="//www.networksolutions.com/legal/static-service-agreement.jsp" target="_blank">Service Agreement</a>
+            </span>
+            <span class="nobrd"><a href="//www.networksolutions.com/legal/legal-notice.jsp" target="_blank">Legal Notice</a>
+            </span>
+                    </div>        
+    </div>
+</div>
+<script type="text/javascript" language="javascript">
+try{handleABPDetect();}catch(err){}
+</script>
+<div style='display:none;visibility:hidden;'><script language="javascript" > function _bpx_() { try {var saScript = document.createElement("script"); saScript.src = location.protocol + "//pxlgnpgecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=10&customerId=2CU834316";  saScript.async = "async"; document.body.appendChild(saScript); saScript.onload = function() {try{var fp_instance = new browserfp();var pageAttr = {};pageAttr.kw_id = '';pageAttr.kw_pos = '0';pageAttr.page_id = 'landing_page';pageAttr.vi_id = '1194510560139024079';pageAttr.vs_id = '919vr451056013843346783';pageAttr.hvs_id = '919vt451056013843346783';pageAttr.req_dom='shozu.com';pageAttr.refUrl="";pageAttr.srcUrl="http%3A%2F%2Fmedia.shozu.com%2Fcache%2Fportal%2Fmedia%2F166a90%2F117440583_journal";pageAttr.cust_id='2CU834316';pageAttr.pid = '2PO12C4N4';fp_instance.setPageAttr(pageAttr);fp_instance.sendViewData();}catch(e){}};} catch(e){} }  try { if(typeof(_bpx_) == 'function'){ _bpx_(); } } catch(e){} </script>  </div><script type="text/javascript" language="javascript">
+(function() {var srchForm = document.getElementById("searchform1"); if(srchForm) { var _e = document.createElement("input");_e.type='hidden'; _e.name = '_opnslfp'; _e.id='_opnslfp'; _e.value=1;srchForm.appendChild(_e); }})();
+</script>
+<script type="text/javascript">if(setBrowserDetails) setBrowserDetails();</script><style>
+.footlinks-custom-link-wrap{padding:20px 10px;} .footlinks-custom-link{color:#2c2e2d;font-family:Arial,sans-serif;font-size:12px;width:220px;margin:20px auto;padding:7px 10px;background-color:#fff;border-radius:20px;text-align:center} .footlinks-custom-link a{color:#2c2e2d;font-family:Arial,sans-serif;text-decoration:none;font-size:12px} .footlinks-custom-link a:hover{text-decoration:underline} .footlinks-custom-link span{padding:0 4px;display:inline-block} </style>
+<div class="footlinks-custom-link-wrap clearfix"> <div class="footlinks-custom-link"> <a href="//skenzo.com/sk-privacy.php?sk_ref=Mdfk9scX4LwAHxRVsfXfxm9JoZKAgKHaSaNGEwXw2y48xl2wrk6mKGoQlNzpUSZz" target="_blank">Privacy Policy</a><span>|</span><a style="display:none;" id="dnslink" href="#" onclick="__cmp('showScreen'); return false">Do Not Sell or Share My Personal Information</a> </div> </div><script language="javascript" type="text/javascript" > var __pp = [];  atevt();  </script><script type="text/javascript" language="javascript">
+
+                        function checkDNS()
+                        {
+                            __cmp('getCMPData', true, function (x)
+                            {
+                                var possibleKeys = ['CCPA','USVCDPA','USCPA','USUCPA','USCAPDP']; //add possible regulations where to show the DNS-link
+                                if('regulationKey' in x && possibleKeys .indexOf(x.regulationKey) != -1)
+                                {
+                                document.getElementById('dnslink').style.display='block'; /* show the link*/
+                                }
+                                else{
+                                document.getElementById('dnslink').style.display='none'; /* don’t show the link*/
+                                }
+                            }
+                           );
+                        }
+                        setInterval(checkDNS,1000);
+                    
+</script>
+<script type="text/javascript" language="javascript">
+
+              function _cmpclbk(cvalue,e,o)
+              {
+                var days = 180;
+                var cname = "_cmp_dmst";
+                var secure = (window.location.protocol !== "https:") ? "" : ";secure";
+                var d = new Date();
+                d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+                var expire_date = d.toUTCString();
+                var expires = "expires=" + expire_date;
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/" + secure;
+              }
+              __cmp("addEventListener",["consentapproved",function(e,o){_cmpclbk("1",e,o);},false],null);
+              __cmp("addEventListener",["consentrejected",function(e,o){_cmpclbk("-1",e,o);},false],null);
+              __cmp("addEventListener",["consentcustom",function(e,o){_cmpclbk("-1",e,o);},false],null); 
+</script>
+ </body>
+</html>
