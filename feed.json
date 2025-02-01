@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mmn.micro.blog/2025/02/01/listen-everyone-might-talk-shit.html",
+				
+				"content_html": "<p>Listen everyone might talk shit about Tumblr but <a href=\"https://www.tumblr.com/lnaliazmcithilien/773375706977681408\">they just fixed web searches</a> for us 🥳 (Tumblr as in the community and not that twatt matt)</p>\n",
+				"content_text": "Listen everyone might talk shit about Tumblr but [they just fixed web searches](https://www.tumblr.com/lnaliazmcithilien/773375706977681408) for us 🥳 (Tumblr as in the community and not that twatt matt)\n",
+				"date_published": "2025-02-01T20:55:33+01:00",
+				"url": "https://social.mmn.on.ca/2025/02/01/listen-everyone-might-talk-shit.html"
+			},
+			{
+				"id": "http://mmn.micro.blog/2025/01/26/slack-try-our-ai-productme.html",
+				
+				"content_html": "<p>Slack: TRY OUR AI PRODUCT\nMe: I don&rsquo;t even want to be on Slack as it is, why would I want to make this already god awful experience worse</p>\n",
+				"content_text": "Slack: TRY OUR AI PRODUCT\r\nMe: I don't even want to be on Slack as it is, why would I want to make this already god awful experience worse\n",
+				"date_published": "2025-01-26T07:32:31+01:00",
+				"url": "https://social.mmn.on.ca/2025/01/26/slack-try-our-ai-productme.html"
+			},
+			{
 				"id": "http://mmn.micro.blog/2025/01/25/openai-stole-from-the-whole.html",
 				
 				"content_html": "<p>“OpenAI stole from the whole internet to make itself richer, DeepSeek stole from them and give it back to the masses for free I think there is a certain british folktale about this” <a href=\"https://venturebeat.com/ai/why-everyone-in-ai-is-freaking-out-about-deepseek/\">lolz</a></p>\n",
@@ -29,22 +45,6 @@
 				"content_text": "I've literally got to the point where the extra video quality of a video meeting somehow improved my existence\n\n<img src=\"uploads/2025/afa3575312.png\" width=\"600\" height=\"438\" alt=\"\">\n",
 				"date_published": "2025-01-24T23:22:08+01:00",
 				"url": "https://social.mmn.on.ca/2025/01/24/ive-literally-got-to-the.html"
-			},
-			{
-				"id": "http://mmn.micro.blog/2025/01/24/im-genuinely-not-even-angry.html",
-				
-				"content_html": "<p>I&rsquo;m genuinely not even angry, this is the least stupid decision I&rsquo;ve ever made and all it cost me is 1,1 days of an invoice for the whole year. Which I&rsquo;d rather have the 1,1 days but it is what it is</p>\n",
-				"content_text": "I'm genuinely not even angry, this is the least stupid decision I've ever made and all it cost me is 1,1 days of an invoice for the whole year. Which I'd rather have the 1,1 days but it is what it is\n",
-				"date_published": "2025-01-24T23:14:51+01:00",
-				"url": "https://social.mmn.on.ca/2025/01/24/im-genuinely-not-even-angry.html"
-			},
-			{
-				"id": "http://mmn.micro.blog/2025/01/24/so-anyways-after-the-internet.html",
-				
-				"content_html": "<p>So anyways after the internet fiasco, my livelihood depending on it, and the phone call with my provider where they&rsquo;re like &ldquo;Orange can take months&rdquo;, I now have two very functional internet connections 😅</p>\n",
-				"content_text": "So anyways after the internet fiasco, my livelihood depending on it, and the phone call with my provider where they're like \"Orange can take months\", I now have two very functional internet connections 😅\n",
-				"date_published": "2025-01-24T23:12:03+01:00",
-				"url": "https://social.mmn.on.ca/2025/01/24/so-anyways-after-the-internet.html"
 			}
 	]
 }
